@@ -22,7 +22,8 @@ I have been interacting with them since 2015 and I learned a lot from their know
 ```
 ## More Power BI Heroes
 * David Eldersveld (DataVeld) https://dataveld.com/category/tutorial
-* Imke Feldmann www.thebiccountant.com
-* PowerBI Tips www.powerbi.tips 
-* RADACAD www.radacad.com/blog
+* Imke Feldmann http://www.thebiccountant.com
+* PowerBI Tips http://www.powerbi.tips 
+* RADACAD http://www.radacad.com/blog
 
+>> Suggest more hereos https://github.com/NajiElKotob/Awesome-Power-BI/issues

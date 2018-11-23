@@ -1,4 +1,4 @@
-# Awesome-Power-BI
+# Awesome Power BI Heroes
 
 ```sh
 It is so easy to start with Power BI, but hard to master it. 
@@ -26,4 +26,4 @@ I have been interacting with them since 2015 and I learned a lot from their know
 * PowerBI Tips http://www.powerbi.tips 
 * RADACAD http://www.radacad.com/blog
 
->> Suggest more hereos https://github.com/NajiElKotob/Awesome-Power-BI/issues
+> Suggest more hereos https://github.com/NajiElKotob/Awesome-Power-BI/issues

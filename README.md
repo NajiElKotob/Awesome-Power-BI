@@ -21,4 +21,8 @@ simply I have personal experience the above list.
 I have been interacting with them since 2015 and I learned a lot from their knowledge.
 ```
 ## More Power BI Heroes
-...
+* David Eldersveld (DataVeld) https://dataveld.com/category/tutorial
+* Imke Feldmann thebiccountant.com
+* PowerBI Tips www.powerbi.tips 
+* RADACAD www.radacad.com/blog
+

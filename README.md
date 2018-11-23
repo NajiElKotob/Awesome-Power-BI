@@ -1,5 +1,5 @@
 # Awesome-Power-BI
-> Awesome Power BI Resources
+
 ```sh
 It is so easy to start with Power BI, but hard to master it. 
 These people have been allocating a lot of time and dedication to 
@@ -13,7 +13,12 @@ enrich Power BI and empower others to master it.
 * Ruth Pozuelo Martinez https://lnkd.in/dAfAQik
 * Will Thompson https://lnkd.in/dVrZKv8
 
-(sorted alphabetically ♥)
+> sorted alphabetically ♥
 
+```sh
+Splitting them up into two lists doesn't mean anything, 
+simply I have personal experience the above list. 
+I have been interacting with them since 2015 and I learned a lot from their knowledge.
+```
 ## More Power BI Heroes
 ...

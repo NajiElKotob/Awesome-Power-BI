@@ -14,7 +14,7 @@ enrich Power BI and empower others to master it.
 * Ruth Pozuelo Martinez https://lnkd.in/dAfAQik
 * Will Thompson https://lnkd.in/dVrZKv8
 
-> sorted alphabetically ♥
+> sorted alphabetically :heart:
 
 ```sh
 Splitting them up into two lists doesn't mean anything, 

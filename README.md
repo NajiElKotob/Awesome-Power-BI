@@ -26,7 +26,7 @@ a lot from their knowledge.
 ## More Power BI Heroes :star2:
 * David Eldersveld (DataVeld) https://dataveld.com/category/tutorial
 * Imke Feldmann http://www.thebiccountant.com
-* Mike Carlo & Seth Bauer ![PowerBI](Tips http://www.powerbi.tips)
+* Mike Carlo & Seth Bauer [PowerBI!](Tips http://www.powerbi.tips)
 * RADACAD http://www.radacad.com/blog
 
 > Suggest more hereos https://github.com/NajiElKotob/Awesome-Power-BI/issues

@@ -19,7 +19,7 @@ Thank you :yellow_heart:
 
 ```sh
 Splitting them up into two lists doesn't mean anything, 
-simply I have personal experience the above list. 
+simply I have personal experience with the above list. 
 I have been interacting with them since 2015 and I learned 
 a lot from their knowledge.
 ```

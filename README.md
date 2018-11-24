@@ -7,7 +7,7 @@ These people have been allocating a lot of time and dedication to
 enrich Power BI and empower others to master it.
 ```
 
-## Power BI Heroes
+## Power BI Heroes :star2:
 * Adam Saxton and Patrick Leblanc https://lnkd.in/dcPxt3k
 * Avi Singh (PowerBIPro) https://lnkd.in/dffuDBa
 * Marco Russo and Alberto Ferrari https://lnkd.in/dEzmc2R 
@@ -21,7 +21,7 @@ Splitting them up into two lists doesn't mean anything,
 simply I have personal experience the above list. 
 I have been interacting with them since 2015 and I learned a lot from their knowledge.
 ```
-## More Power BI Heroes
+## More Power BI Heroes :star2:
 * David Eldersveld (DataVeld) https://dataveld.com/category/tutorial
 * Imke Feldmann http://www.thebiccountant.com
 * Mike Carlo & Seth Bauer ![PowerBI](Tips http://www.powerbi.tips)

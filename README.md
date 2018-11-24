@@ -5,9 +5,8 @@
 It is so easy to start with Power BI, but hard to master it. 
 These heroes have been allocating a lot of time and dedication 
 to enrich Power BI and empower others to master it.
-
-Thank you :yellow_heart:
 ```
+Thank you :yellow_heart:
 
 ## Power BI Heroes :star2:
 * Adam Saxton and Patrick Leblanc https://lnkd.in/dcPxt3k

@@ -1,5 +1,6 @@
 # Awesome Power BI Heroes
 
+![Power BI](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Images/power-bi-logo.png)
 ```sh
 It is so easy to start with Power BI, but hard to master it. 
 These people have been allocating a lot of time and dedication to 

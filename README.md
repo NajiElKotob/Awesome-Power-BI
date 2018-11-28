@@ -31,9 +31,11 @@ a lot from their knowledge.
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * RADACAD http://www.radacad.com/blog
 
+## Dataflows
+* Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
 
 ## Style
-* [Power BI Style Library!](http://pbiux.azurewebsites.net)
+* [Power BI Style Library](http://pbiux.azurewebsites.net)
 
 
 > Suggest more hereos https://github.com/NajiElKotob/Awesome-Power-BI/issues

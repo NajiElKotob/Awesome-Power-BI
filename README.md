@@ -1,7 +1,7 @@
 # Awesome Power BI
 
-![Power BI](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Images/power-bi-logo.png)
-:yellow_heart: :yellow_heart: :yellow_heart:
+![Power BI](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Images/power-bi-logo.png)  
+:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart:
 
 ```sh
 It is so easy to start with Power BI, but hard to master it. 
@@ -28,6 +28,7 @@ to enrich Power BI and empower others to master it.
 
 ## Books
 * [Pro Power BI Architecture](https://amzn.to/2E8IshF) - Sharing, Security, and Deployment Options for Microsoft Power BI Solutions 
+* [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Kindle Edition, FREE
 
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
@@ -36,4 +37,4 @@ to enrich Power BI and empower others to master it.
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 
 
-> Suggest more hereos https://github.com/NajiElKotob/Awesome-Power-BI/issues
+> Suggest more Power BI Resources https://github.com/NajiElKotob/Awesome-Power-BI/issues

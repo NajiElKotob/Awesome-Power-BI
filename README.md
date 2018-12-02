@@ -28,11 +28,19 @@ to enrich Power BI and empower others to master it.
 
 ## Books
 * [Pro Power BI Architecture](https://amzn.to/2E8IshF) - Sharing, Security, and Deployment Options for Microsoft Power BI Solutions 
+* [Collect, Combine, and Transform Data Using Power Query in Excel and Power BI (Business Skills)](https://amzn.to/2QaC9Rh) - Gil Raviv
 * [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Kindle Edition, FREE
+> [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
 
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
 
+## Groups
+### LinkedIn Groups
+* [PowerBI](https://www.linkedin.com/groups/6718028)
+* [Power BI](https://www.linkedin.com/groups/8256390)
+* [Power BI Group](https://www.linkedin.com/groups/12107140)
+ 
 ## Style
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 

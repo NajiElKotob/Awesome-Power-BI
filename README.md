@@ -3,11 +3,7 @@
 ![Power BI](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Images/power-bi-logo.png)  
 :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart:
 
-```sh
-It is so easy to start with Power BI, but hard to master it. 
-These heroes have been allocating a lot of time and dedication 
-to enrich Power BI and empower others to master it.
-```
+
 
 
 ## Power BI Heroes at YouTube :star2:
@@ -23,6 +19,11 @@ to enrich Power BI and empower others to master it.
 * Ruth Pozuelo Martinez https://lnkd.in/dAfAQik
 * Will Thompson https://lnkd.in/dVrZKv8
 
+```sh
+It is so easy to start with Power BI, but hard to master it. 
+These heroes have been allocating a lot of time and dedication 
+to enrich Power BI and empower others to master it.
+```
 
 ## Blogs
 * Marco Russo and Alberto Ferrari [SQLBI](https://www.sqlbi.com/articles/?author=&tag_id=401)
@@ -37,6 +38,10 @@ to enrich Power BI and empower others to master it.
 * [Power BI Desktop November 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-2018-feature-summary)
 * [Power BI Desktop October 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-october-2018-feature-summary)
 * [Power BI Desktop September 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-september-2018-feature-summary)
+* [Power BI Desktop August 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary)
+* [Power BI Desktop July 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2018-feature-summary)
+* [Power BI Desktop June 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2018-feature-summary)
+
 
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)

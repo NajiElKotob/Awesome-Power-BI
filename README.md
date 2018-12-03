@@ -23,6 +23,7 @@ to enrich Power BI and empower others to master it.
 * Ruth Pozuelo Martinez https://lnkd.in/dAfAQik
 * Will Thompson https://lnkd.in/dVrZKv8
 
+
 ## Blogs
 * Marco Russo and Alberto Ferrari [SQLBI](https://www.sqlbi.com/articles/?author=&tag_id=401)
 
@@ -32,14 +33,19 @@ to enrich Power BI and empower others to master it.
 * [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Kindle Edition, FREE
 > [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
 
+## Power BI Desktop Feature Summary
+* [Power BI Desktop November 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-2018-feature-summary)
+* [Power BI Desktop October 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-october-2018-feature-summary)
+* [Power BI Desktop September 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-september-2018-feature-summary)
+
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
 
 ## Groups
 ### LinkedIn Groups
-* [PowerBI](https://www.linkedin.com/groups/6718028)
-* [Power BI](https://www.linkedin.com/groups/8256390)
-* [Power BI Group](https://www.linkedin.com/groups/12107140)
+* [PowerBI](https://www.linkedin.com/groups/6718028) - Padmanabhan Thirugnanasambandam
+* [Power BI](https://www.linkedin.com/groups/8256390) - Rajoo Jha
+* [Power BI Group](https://www.linkedin.com/groups/12107140) - Naji El Kotob
  
 ## Style
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)

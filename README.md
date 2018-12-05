@@ -9,8 +9,10 @@
 ## Power BI Heroes at YouTube :star2:
 > sorted alphabetically :heart:
 
-* Adam Saxton and Patrick Leblanc https://lnkd.in/dcPxt3k
-* Avi Singh (PowerBIPro) https://lnkd.in/dffuDBa
+* Adam Saxton and Patrick Leblanc [Guy in a Cube](https://lnkd.in/dcPxt3k)
+* Avi Singh [PowerBIPro](https://lnkd.in/dffuDBa)
+* Matt Alington [Excelerator BI](https://www.youtube.com/channel/UCJIC_Bi1VNsf2QTLOlcTrzA)
+* [Microsoft Power BI](https://www.youtube.com/user/mspowerbi)
 * Ruth Pozuelo Martinez https://lnkd.in/dAfAQik
 * Will Thompson https://lnkd.in/dVrZKv8
 

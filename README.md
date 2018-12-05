@@ -11,11 +11,6 @@
 
 * Adam Saxton and Patrick Leblanc https://lnkd.in/dcPxt3k
 * Avi Singh (PowerBIPro) https://lnkd.in/dffuDBa
-* David Eldersveld (DataVeld) https://dataveld.com/category/tutorial
-* Imke Feldmann http://www.thebiccountant.com
-* Marco Russo and Alberto Ferrari https://lnkd.in/dEzmc2R 
-* Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
-* RADACAD http://www.radacad.com/blog
 * Ruth Pozuelo Martinez https://lnkd.in/dAfAQik
 * Will Thompson https://lnkd.in/dVrZKv8
 
@@ -26,12 +21,18 @@ to enrich Power BI and empower others to master it.
 ```
 
 ## Blogs
+* David Eldersveld (DataVeld) https://dataveld.com/category/tutorial
+* Imke Feldmann http://www.thebiccountant.com
 * Marco Russo and Alberto Ferrari [SQLBI](https://www.sqlbi.com/articles/?author=&tag_id=401)
+* Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
+* Reza Rad [RADACAD](http://www.radacad.com/blog)
+
 
 ## Books
 * [Pro Power BI Architecture](https://amzn.to/2E8IshF) - Sharing, Security, and Deployment Options for Microsoft Power BI Solutions 
 * [Collect, Combine, and Transform Data Using Power Query in Excel and Power BI (Business Skills)](https://amzn.to/2QaC9Rh) - Gil Raviv
-* [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Kindle Edition, FREE
+* [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Marco Russo and Alberto Ferrari, Kindle Edition, FREE
+
 > [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
 
 ## Power BI Desktop Feature Summary

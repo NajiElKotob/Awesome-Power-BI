@@ -21,8 +21,8 @@ to enrich Power BI and empower others to master it.
 ```
 
 ## Blogs
-* David Eldersveld (DataVeld) https://dataveld.com/category/tutorial
-* Imke Feldmann http://www.thebiccountant.com
+* David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
+* Imke Feldmann [The BIccountant](https://www.thebiccountant.com/category/power-bi/)
 * Marco Russo and Alberto Ferrari [SQLBI](https://www.sqlbi.com/articles/?author=&tag_id=401)
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
@@ -49,6 +49,11 @@ to enrich Power BI and empower others to master it.
 * [Power BI Desktop August 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary)
 * [Power BI Desktop July 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2018-feature-summary)
 * [Power BI Desktop June 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2018-feature-summary)
+* [Power BI Desktop May 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2018-feature-summary)
+* [Power BI Desktop April 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-april-2018-feature-summary)
+* [Power BI Desktop March 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2018-feature-summary)
+* [Power BI Desktop February 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2018-feature-summary)
+* [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
 
 
 ## Dataflows

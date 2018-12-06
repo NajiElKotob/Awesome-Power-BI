@@ -35,6 +35,10 @@ to enrich Power BI and empower others to master it.
 
 > [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
 
+## DAX
+* [DAX Guide](https://dax.guide/)
+* SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
+
 ## Groups
 ### LinkedIn Groups
 * [PowerBI](https://www.linkedin.com/groups/6718028) - Padmanabhan Thirugnanasambandam

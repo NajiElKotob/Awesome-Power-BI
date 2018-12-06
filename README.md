@@ -4,8 +4,6 @@
 :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart:
 
 
-
-
 ## Power BI Heroes at YouTube :star2:
 > sorted alphabetically :heart:
 
@@ -13,7 +11,7 @@
 * Avi Singh [PowerBIPro](https://lnkd.in/dffuDBa)
 * Matt Alington [Excelerator BI](https://www.youtube.com/channel/UCJIC_Bi1VNsf2QTLOlcTrzA)
 * [Microsoft Power BI](https://www.youtube.com/user/mspowerbi)
-* Ruth Pozuelo Martinez https://lnkd.in/dAfAQik
+* Ruth Pozuelo Martinez [Curbal](https://lnkd.in/dAfAQik)
 * Will Thompson https://lnkd.in/dVrZKv8
 
 ```sh
@@ -43,6 +41,7 @@ to enrich Power BI and empower others to master it.
 * [Power BI](https://www.linkedin.com/groups/8256390) - Rajoo Jha
 * [Power BI Group](https://www.linkedin.com/groups/12107140) - Naji El Kotob
 
+
 ## Power BI Desktop Feature Summary
 * [Power BI Desktop November 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-2018-feature-summary)
 * [Power BI Desktop October 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-october-2018-feature-summary)
@@ -55,6 +54,7 @@ to enrich Power BI and empower others to master it.
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
  
+
 ## Style
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 

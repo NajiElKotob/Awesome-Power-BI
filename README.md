@@ -71,6 +71,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ## Learning
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
+* [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
 
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)

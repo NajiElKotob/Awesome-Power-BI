@@ -7,7 +7,21 @@
 It is so easy to start with Power BI, but hard to master it. 
 ```
 
-## Power BI Heroes at YouTube :star2:
+## Table of contents
+
+* [Power BI Heroes at YouTube :star2:](#power-bi-heroes-at-youtube)
+* [Blogs](#blogs)
+* [Books](#books)
+* [Related Books](#related-books)
+* [DAX](#dax)
+* [Tools](#tools)
+* [Learning](#learning)
+* [Dataflows](#dataflows)
+* [Styles](#styles)
+
+
+
+## Power BI Heroes at YouTube
 > sorted alphabetically :heart:
 
 * Adam Saxton and Patrick Leblanc [Guy in a Cube](https://lnkd.in/dcPxt3k)
@@ -76,7 +90,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
  
-## Style
+## Styles
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 
 

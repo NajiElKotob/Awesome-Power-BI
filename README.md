@@ -16,8 +16,6 @@
 
 ```sh
 It is so easy to start with Power BI, but hard to master it. 
-These heroes have been allocating a lot of time and dedication 
-to enrich Power BI and empower others to master it.
 ```
 
 ## Blogs

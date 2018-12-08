@@ -59,13 +59,19 @@ to enrich Power BI and empower others to master it.
 * [Power BI Desktop February 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2018-feature-summary)
 * [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
 
+## Tools
+* [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter)
+* [DAX Studio](https://www.sqlbi.com/tools/dax-studio/)
+* [Power BI Helper](http://radacad.com/power-bi-helper)
+
+
+
 ## Learning
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
 
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
  
-
 ## Style
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 

@@ -93,5 +93,6 @@ It is so easy to start with Power BI, but hard to master it.
 ## Styles
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 
+<br/>[:top:](#table-of-contents)
 
 > Suggest more Power BI Resources https://github.com/NajiElKotob/Awesome-Power-BI/issues

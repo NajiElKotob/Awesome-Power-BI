@@ -3,6 +3,9 @@
 ![Power BI](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Images/power-bi-logo.png)  
 :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart:
 
+```sh
+It is so easy to start with Power BI, but hard to master it. 
+```
 
 ## Power BI Heroes at YouTube :star2:
 > sorted alphabetically :heart:
@@ -14,9 +17,7 @@
 * Ruth Pozuelo Martinez [Curbal](https://lnkd.in/dAfAQik)
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
-```sh
-It is so easy to start with Power BI, but hard to master it. 
-```
+
 
 ## Blogs
 * David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
@@ -32,6 +33,10 @@ It is so easy to start with Power BI, but hard to master it.
 * [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Marco Russo and Alberto Ferrari, Kindle Edition, FREE
 
 > [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
+
+## Related Books
+* [Storytelling with Data](https://amzn.to/2Qht2yd) - A Data Visualization Guide for Business Professionals
+* [#MakeoverMonday](https://amzn.to/2rsgJ33) - Improving How We Visualize and Analyze Data
 
 ## DAX
 * [DAX Guide](https://dax.guide/)

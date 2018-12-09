@@ -45,12 +45,14 @@ It is so easy to start with Power BI, but hard to master it.
 * [Pro Power BI Architecture](https://amzn.to/2E8IshF) - Sharing, Security, and Deployment Options for Microsoft Power BI Solutions 
 * [Collect, Combine, and Transform Data Using Power Query in Excel and Power BI (Business Skills)](https://amzn.to/2QaC9Rh) - Gil Raviv
 * [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Marco Russo and Alberto Ferrari, Kindle Edition, FREE
+* [The Definitive Guide to DAX](https://amzn.to/2E7kaE5) - BI with Microsoft Excel, SQL Server Analysis Services, and Power BI
 
 > [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
 
 ## Related Books
 * [Storytelling with Data](https://amzn.to/2Qht2yd) - A Data Visualization Guide for Business Professionals
 * [#MakeoverMonday](https://amzn.to/2rsgJ33) - Improving How We Visualize and Analyze Data
+
 
 ## DAX
 * [DAX Guide](https://dax.guide/)
@@ -89,7 +91,8 @@ It is so easy to start with Power BI, but hard to master it.
 
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
- 
+* Adi Regev [Power BI data prep with dataflows](https://powerbi.microsoft.com/en-us/blog/introducing-power-bi-data-prep-wtih-dataflows/)
+
 ## Styles and Themes
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 * [Themes Gallery](http://bit.ly/PowerBI-ThemeGallery)

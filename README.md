@@ -18,7 +18,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Learning](#learning)
 * [Dataflows](#dataflows)
 * [Styles](#styles)
-
+* [Competitive Analysis](#competitive-analysis)
 
 
 ## Power BI Heroes at YouTube
@@ -80,7 +80,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter)
 * [DAX Studio](https://www.sqlbi.com/tools/dax-studio/)
 * [Power BI Helper](http://radacad.com/power-bi-helper)
-
+* [Theme Generator](https://powerbi.tips/tools/color-theme-generator)
 
 
 ## Learning
@@ -90,8 +90,13 @@ It is so easy to start with Power BI, but hard to master it.
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
  
-## Styles
+## Styles and Themes
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
+* [Themes Gallery](http://bit.ly/PowerBI-ThemeGallery)
+
+
+## Competitive Analysis
+* [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
 
 <br/>[:top:](#table-of-contents)
 

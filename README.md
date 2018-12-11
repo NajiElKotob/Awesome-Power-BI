@@ -92,6 +92,9 @@ It is so easy to start with Power BI, but hard to master it.
 ## Dataflows
 * Matthew Roche [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/)
 * Adi Regev [Power BI data prep with dataflows](https://powerbi.microsoft.com/en-us/blog/introducing-power-bi-data-prep-wtih-dataflows/)
+* [A quick look at Power BI dataflows](https://www.youtube.com/watch?v=veuxofp0ZIg) - Adam Saxton
+* [Introducing Power BI data prep with dataflows](https://www.youtube.com/watch?v=0bJpCVj3JfQ) - Matthew Roche
+* [What is a Power BI dataflow? A deep dive on Dataflows for Power BI](https://www.youtube.com/watch?v=bkFG8s_9sGE) - Ruth Martinez
 
 ## Styles and Themes
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)

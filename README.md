@@ -90,7 +90,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
 
 ## Dataflows
-* [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/) - v
+* [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/) - Matthew Roche
 * [Power BI data prep with dataflows](https://powerbi.microsoft.com/en-us/blog/introducing-power-bi-data-prep-wtih-dataflows/) - Adi Regev
 * [A quick look at Power BI dataflows](https://www.youtube.com/watch?v=veuxofp0ZIg) - Adam Saxton
 * [Introducing Power BI data prep with dataflows](https://www.youtube.com/watch?v=0bJpCVj3JfQ) - Matthew Roche

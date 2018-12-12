@@ -14,10 +14,13 @@ It is so easy to start with Power BI, but hard to master it.
 * [Books](#books)
 * [Related Books](#related-books)
 * [DAX](#dax)
+* [Groups](#groups)
+* [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
+* [Adam's Roundup](#adams-roundup)
 * [Tools](#tools)
 * [Learning](#learning)
 * [Dataflows](#dataflows)
-* [Styles](#styles)
+* [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
 
 
@@ -77,6 +80,11 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop March 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2018-feature-summary)
 * [Power BI Desktop February 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2018-feature-summary)
 * [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
+
+## Adam's Roundup
+* [4 recommended practices for new DAX users](https://powerbi.microsoft.com/en-us/blog/4-recommended-practices-for-new-dax-users/)
+* [Time Intelligence in Power BI Desktop](https://www.sqlbi.com/articles/time-intelligence-in-power-bi-desktop/)
+> [More about Adam Saxton's Roundup - YouTube](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w/search?query=roundup)
 
 ## Tools
 * [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter)

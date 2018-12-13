@@ -30,6 +30,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Adam Saxton and Patrick Leblanc [Guy in a Cube](https://lnkd.in/dcPxt3k)
 * Avi Singh [PowerBIPro](https://lnkd.in/dffuDBa)
 * Matt Alington [Excelerator BI](https://www.youtube.com/channel/UCJIC_Bi1VNsf2QTLOlcTrzA)
+* Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Microsoft [Microsoft Power BI](https://www.youtube.com/user/mspowerbi)
 * Ruth Pozuelo Martinez [Curbal](https://lnkd.in/dAfAQik)
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)

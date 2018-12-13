@@ -64,6 +64,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Groups
 ### LinkedIn Groups
 * [Enterprise Power BI](https://www.linkedin.com/groups/12004506/) - Sam McKay
+* [Microsoft Power BI](https://www.linkedin.com/groups/5096169/) - Clint Huijbers
 * [PowerBI](https://www.linkedin.com/groups/6718028) - Padmanabhan Thirugnanasambandam
 * [Power BI](https://www.linkedin.com/groups/8256390) - Rajoo Jha
 * [Power BI Group](https://www.linkedin.com/groups/12107140) - Naji El Kotob

@@ -111,7 +111,9 @@ It is so easy to start with Power BI, but hard to master it.
 
 
 ## Competitive Analysis
+* [Power BI vs Tableau: A Data Analytics Duel](https://technologyadvice.com/blog/information-technology/power-bi-vs-tableau/)
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
+
 
 <br/>[:top:](#table-of-contents)
 

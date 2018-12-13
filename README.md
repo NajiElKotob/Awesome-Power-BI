@@ -30,7 +30,6 @@ It is so easy to start with Power BI, but hard to master it.
 * Adam Saxton and Patrick Leblanc [Guy in a Cube](https://lnkd.in/dcPxt3k)
 * Avi Singh [PowerBIPro](https://lnkd.in/dffuDBa)
 * Matt Alington [Excelerator BI](https://www.youtube.com/channel/UCJIC_Bi1VNsf2QTLOlcTrzA)
-* Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Microsoft [Microsoft Power BI](https://www.youtube.com/user/mspowerbi)
 * Ruth Pozuelo Martinez [Curbal](https://lnkd.in/dAfAQik)
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
@@ -41,6 +40,7 @@ It is so easy to start with Power BI, but hard to master it.
 * David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
 * Imke Feldmann [The BIccountant](https://www.thebiccountant.com/category/power-bi/)
 * Marco Russo and Alberto Ferrari [SQLBI](https://www.sqlbi.com/articles/?author=&tag_id=401)
+* Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
 

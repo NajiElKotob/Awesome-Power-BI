@@ -46,6 +46,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 
 ## Books
+### Power BI Books
 * [Pro Power BI Architecture](https://amzn.to/2E8IshF) - Sharing, Security, and Deployment Options for Microsoft Power BI Solutions 
 * [Collect, Combine, and Transform Data Using Power Query in Excel and Power BI (Business Skills)](https://amzn.to/2QaC9Rh) - Gil Raviv
 * [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Marco Russo and Alberto Ferrari, Kindle Edition, FREE
@@ -53,7 +54,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 > [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
 
-## Related Books
+### Related Books
 * [Storytelling with Data](https://amzn.to/2Qht2yd) - A Data Visualization Guide for Business Professionals
 * [#MakeoverMonday](https://amzn.to/2rsgJ33) - Improving How We Visualize and Analyze Data
 

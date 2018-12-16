@@ -19,7 +19,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Adam's Roundup](#adams-roundup)
 * [Tools](#tools)
 * [Learning](#learning)
-* [Dataflows](#dataflows)
+* [Special Features](#special-features)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
 
@@ -101,12 +101,17 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
 * [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
 
-## Dataflows
+## Special Features
+### Dataflows
 * [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/) - Matthew Roche
 * [Power BI data prep with dataflows](https://powerbi.microsoft.com/en-us/blog/introducing-power-bi-data-prep-wtih-dataflows/) - Adi Regev
 * [A quick look at Power BI dataflows](https://www.youtube.com/watch?v=veuxofp0ZIg) - Adam Saxton
 * [Introducing Power BI data prep with dataflows](https://www.youtube.com/watch?v=0bJpCVj3JfQ) - Matthew Roche
 * [What is a Power BI dataflow? A deep dive on Dataflows for Power BI](https://www.youtube.com/watch?v=bkFG8s_9sGE) - Ruth Martinez
+
+### Aggregation
+* [Aggregations for petabyte-scale](https://powerbi.microsoft.com/en-us/blog/aggregations-for-petabyte-scale-bi-available-in-the-power-bi-service/) - Christian Wade
+
 
 ## Styles and Themes
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)

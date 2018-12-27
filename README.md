@@ -57,6 +57,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ### Related Books
 * [#MakeoverMonday](https://amzn.to/2rsgJ33) - Improving How We Visualize and Analyze Data
+* [Information Is Beautiful](https://amzn.to/2RjHgya) - David McCandless
 * [Storytelling with Data](https://amzn.to/2Qht2yd) - A Data Visualization Guide for Business Professionals
 * [The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios](https://amzn.to/2rSUTWX) - Steve Wexler
 * [The Truthful Art: Data, Charts, and Maps for Communication](https://amzn.to/2Va8VAB) - Alberto Cairo

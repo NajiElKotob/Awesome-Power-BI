@@ -18,6 +18,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Adam's Roundup](#adams-roundup)
 * [Tools](#tools)
 * [Learning](#learning)
+* [Exam 70-778](#exam-70-778)
 * [Special Features](#special-features)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
@@ -105,6 +106,13 @@ It is so easy to start with Power BI, but hard to master it.
 ## Learning
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
 * [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
+
+## Exam 70-778
+* [Exam 70-778 Microsoft](https://www.microsoft.com/en-us/learning/exam-70-778.aspx)
+* [Microsoft Power BI Exam Ref 70-778](https://amzn.to/2UIB1Tz) - Daniil Maslyuk
+* [Preparing for Power BI Certification Exam 70-778: Level 1](https://www.youtube.com/watch?v=CTgzCTFMNnk) - Ted Pattison
+* [Prepare for the Power BI Certification (70-778)](https://www.youtube.com/playlist?list=PLv2BtOtLblH1dQPV49Ni12olDcUoW-GEl) - Guy in a Cube
+
 
 ## Special Features
 ### Dataflows

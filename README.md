@@ -109,7 +109,8 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
 
 ## Power BI Samples
-* [Power BI Desktop Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
+* [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
+* [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
 
 ## Exam 70-778
 * [Exam 70-778 Microsoft](https://www.microsoft.com/en-us/learning/exam-70-778.aspx)

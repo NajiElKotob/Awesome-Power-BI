@@ -18,6 +18,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Adam's Roundup](#adams-roundup)
 * [Tools](#tools)
 * [Learning](#learning)
+* [Power BI Samples](#power-bi-samples)
 * [Exam 70-778](#exam-70-778)
 * [Special Features](#special-features)
 * [Styles and Themes](#styles-and-themes)
@@ -106,6 +107,9 @@ It is so easy to start with Power BI, but hard to master it.
 ## Learning
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
 * [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
+
+## Power BI Samples
+* [Power BI Desktop Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
 
 ## Exam 70-778
 * [Exam 70-778 Microsoft](https://www.microsoft.com/en-us/learning/exam-70-778.aspx)

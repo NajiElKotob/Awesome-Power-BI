@@ -19,6 +19,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Tools](#tools)
 * [Learning](#learning)
 * [Power BI Samples](#power-bi-samples)
+* [Datasets](#datasets)
 * [Exam 70-778](#exam-70-778)
 * [Special Features](#special-features)
 * [Styles and Themes](#styles-and-themes)
@@ -116,6 +117,16 @@ It is so easy to start with Power BI, but hard to master it.
 ## Power BI Samples
 * [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
 * [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
+
+## Datasets
+* [Gapminder](https://www.gapminder.org/data)
+* [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)
+* [Kaggle](https://www.kaggle.com/datasets)
+* [The World Bank](http://data.worldbank.org)
+* [U.S. Census Bureau](https://www.census.gov/people)
+* [U.S Data](http://catalog.data.gov/dataset)
+* [UN Data](http://data.un.org)
+
 
 ## Exam 70-778
 * [Exam 70-778 Microsoft](https://www.microsoft.com/en-us/learning/exam-70-778.aspx)

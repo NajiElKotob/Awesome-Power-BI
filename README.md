@@ -73,7 +73,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ## DAX
 * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
-* [DAX 101](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
+* [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
 * SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
 
 ## Groups

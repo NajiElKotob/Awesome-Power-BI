@@ -64,6 +64,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios](https://amzn.to/2rSUTWX) - Steve Wexler
 * [The Truthful Art: Data, Charts, and Maps for Communication](https://amzn.to/2Va8VAB) - Alberto Cairo
 
+### Docs
+* [Official Power BI Docs](https://docs.microsoft.com/power-bi)
+
 ### Whitepapers
 * [Power BI Whitepapers](http://bit.ly/PowerBIWhitepapers)
 

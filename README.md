@@ -72,7 +72,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Whitepapers](http://bit.ly/PowerBIWhitepapers)
 
 ## DAX
-* [DAX Guide](https://dax.guide/)
+* [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
 * SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
 
 ## Groups

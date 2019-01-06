@@ -79,8 +79,10 @@ It is so easy to start with Power BI, but hard to master it.
 * SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
 
 ## M
-* [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 * [Basics of M - Power Query Formula Language](http://radacad.com/basics-of-m-power-query-formula-language)
+* [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
+* [Power Query M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
+
 
 ## Groups
 ### LinkedIn Groups

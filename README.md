@@ -25,7 +25,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Special Features](#special-features)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
-
+* [Summits and Conferences](#summits-and-conferences)
 
 ## Power BI Heroes at YouTube
 > sorted alphabetically :heart:
@@ -165,6 +165,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI vs Tableau: A Data Analytics Duel](https://technologyadvice.com/blog/information-technology/power-bi-vs-tableau/)
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
 
+## Summits and Conferences
+* [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit)
+* [Difinity Conference](http://difinity.co.nz/)
 
 <br/>[:top:](#table-of-contents)
 

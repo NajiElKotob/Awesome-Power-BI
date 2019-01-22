@@ -147,6 +147,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ## Special Features
 ### Dataflows
+* [Power BI dataflows January updates](https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-january-updates)
 * [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/) - Matthew Roche
 * [Power BI data prep with dataflows](https://powerbi.microsoft.com/en-us/blog/introducing-power-bi-data-prep-wtih-dataflows/) - Adi Regev
 * [A quick look at Power BI dataflows](https://www.youtube.com/watch?v=veuxofp0ZIg) - Adam Saxton

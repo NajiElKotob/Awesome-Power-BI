@@ -153,6 +153,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [A quick look at Power BI dataflows](https://www.youtube.com/watch?v=veuxofp0ZIg) - Adam Saxton
 * [Introducing Power BI data prep with dataflows](https://www.youtube.com/watch?v=0bJpCVj3JfQ) - Matthew Roche
 * [What is a Power BI dataflow? A deep dive on Dataflows for Power BI](https://www.youtube.com/watch?v=bkFG8s_9sGE) - Ruth Martinez
+* [What are the Use Cases of Dataflow for You in Power BI?](http://radacad.com/what-are-the-use-cases-of-dataflow-for-you-in-power-bi) -  Reza Rad
 
 ### Aggregation
 * [Aggregations for petabyte-scale](https://powerbi.microsoft.com/en-us/blog/aggregations-for-petabyte-scale-bi-available-in-the-power-bi-service/) - Christian Wade

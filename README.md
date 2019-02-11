@@ -135,6 +135,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [U.S. Census Bureau](https://www.census.gov/people)
 * [U.S Data](http://catalog.data.gov/dataset)
 * [UN Data](http://data.un.org)
+* [Coffee and Code](https://www.kaggle.com/devready/coffee-and-code) - The case for Lebanon
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
 

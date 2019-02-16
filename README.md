@@ -101,6 +101,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI](https://www.linkedin.com/groups/8256390) - Rajoo Jha
 * [Power BI Group](https://www.linkedin.com/groups/12107140) - Naji El Kotob
 
+### Comminities and Groups
+* [Power BI Community](https://community.powerbi.com) - Connect, learn and discuss with business intelligence experts and peers
+* [Power BI User Group](https://www.pbiusergroup.com) - Your Community. Your Connections. Your Questions Answered.
 
 ## Visuals
 * [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals)

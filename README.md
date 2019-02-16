@@ -24,6 +24,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Samples](#power-bi-samples)
 * [Datasets](#datasets)
 * [Exam 70-778](#exam-70-778)
+* [Advanced Topics](#advanced-topics)
 * [Special Features](#special-features)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
@@ -151,6 +152,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [U.S. Census Bureau](https://www.census.gov/people)
 * [U.S Data](http://catalog.data.gov/dataset)
 * [UN Data](http://data.un.org)
+* [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) - Center for Machine Learning and Intelligent Systems
 * [Coffee and Code](https://www.kaggle.com/devready/coffee-and-code) - The case for Lebanon
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
@@ -161,6 +163,8 @@ It is so easy to start with Power BI, but hard to master it.
 * [Preparing for Power BI Certification Exam 70-778: Level 1](https://www.youtube.com/watch?v=CTgzCTFMNnk) - Ted Pattison
 * [Prepare for the Power BI Certification (70-778)](https://www.youtube.com/playlist?list=PLv2BtOtLblH1dQPV49Ni12olDcUoW-GEl) - Guy in a Cube
 
+## Advanced Topics
+* [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates
 
 ## Special Features
 ### Dataflows
@@ -176,8 +180,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Aggregations for petabyte-scale](https://powerbi.microsoft.com/en-us/blog/aggregations-for-petabyte-scale-bi-available-in-the-power-bi-service/) - Christian Wade
 * [Create the Aggregated Table](http://radacad.com/power-bi-aggregation-step-1-create-the-aggregated-table) -  Reza Rad @ RADACAD Blog
 
-## Advanced Topics
-* [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates
+
 
 ## Styles and Themes
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)

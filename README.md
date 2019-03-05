@@ -116,6 +116,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
 * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
 * SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
+* [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi/?nu=1210) - Alberto Ferrari
 
 ## M
 * [Basics of M - Power Query Formula Language](http://radacad.com/basics-of-m-power-query-formula-language)
@@ -157,6 +158,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) - Center for Machine Learning and Intelligent Systems
 * [Coffee and Code](https://www.kaggle.com/devready/coffee-and-code) - The case for Lebanon
 * [OpenML](https://www.openml.org) - Find or add data to analyse
+* [Open Datasets](https://ai.google/tools/datasets) - Google AI
 * [An archive of datasets distributed with R](http://vincentarelbundock.github.io/Rdatasets/datasets.html) :100:
 
 

@@ -170,10 +170,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [Preparing for Power BI Certification Exam 70-778: Level 1](https://www.youtube.com/watch?v=CTgzCTFMNnk) - Ted Pattison
 * [Prepare for the Power BI Certification (70-778)](https://www.youtube.com/playlist?list=PLv2BtOtLblH1dQPV49Ni12olDcUoW-GEl) - Guy in a Cube
 
-## Advanced Topics
-* [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates
 
-## Special Features
+
+## Special Features and Topics
 ### Dataflows
 * [Power BI dataflows January updates](https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-january-updates)
 * [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/) - Matthew Roche
@@ -187,6 +186,8 @@ It is so easy to start with Power BI, but hard to master it.
 * [Aggregations for petabyte-scale](https://powerbi.microsoft.com/en-us/blog/aggregations-for-petabyte-scale-bi-available-in-the-power-bi-service/) - Christian Wade
 * [Create the Aggregated Table](http://radacad.com/power-bi-aggregation-step-1-create-the-aggregated-table) -  Reza Rad @ RADACAD Blog
 
+### Advanced Topics
+* [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates
 
 
 ## Styles and Themes

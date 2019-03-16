@@ -24,8 +24,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Samples](#power-bi-samples)
 * [Datasets](#datasets)
 * [Exam 70-778](#exam-70-778)
-* [Advanced Topics](#advanced-topics)
-* [Special Features](#special-features)
+* [Special Features and Advanced Topics](#special-features-and-advanced-topics)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
@@ -172,7 +171,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 
 
-## Special Features and Topics
+## Special Features and Advanced Topics
 ### Dataflows
 * [Power BI dataflows January updates](https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-january-updates)
 * [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/) - Matthew Roche

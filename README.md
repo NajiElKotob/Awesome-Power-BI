@@ -148,6 +148,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
 
 ## Datasets
+* [Ready PBIX Datasets](https://github.com/NajiElKotob/Awesome-Power-BI/tree/master/Datasets) :boom:
 * [Dubai Pulse](https://www.dubaipulse.gov.ae) - Discover a wealth of information on Dubai Pulse 
 * [Gapminder](https://www.gapminder.org/data)
 * [SQL Server Database Samples](https://github.com/Microsoft/sql-server-samples)

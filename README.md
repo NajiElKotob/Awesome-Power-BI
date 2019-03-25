@@ -28,6 +28,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
+* [Data - Job Descriptions](#job-descriptions)
 
 ## Power BI Heroes at YouTube
 > sorted alphabetically :heart:
@@ -204,6 +205,13 @@ It is so easy to start with Power BI, but hard to master it.
 ## Summits and Conferences
 * [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit)
 * [Difinity Conference](http://difinity.co.nz/)
+
+
+## Job Descriptions
+* [Data Analyst job description](https://resources.workable.com/data-analyst-job-description)
+* [Data Architect job description](https://resources.workable.com/data-architect-job-description)
+* [Data Scientist job description](https://resources.workable.com/data-scientist-job-description)
+* [List of Job Descriptions](https://resources.workable.com/job-descriptions/)
 
 <br/>[:top:](#table-of-contents)
 

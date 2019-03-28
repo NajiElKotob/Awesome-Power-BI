@@ -208,7 +208,8 @@ It is so easy to start with Power BI, but hard to master it.
 
 
 ## Job Descriptions
-* [Data Analyst job description](https://resources.workable.com/data-analyst-job-description)
+* [Data Analyst job description - Workable](https://resources.workable.com/data-analyst-job-description)
+* [Data Analyst job description - Zippia](https://www.zippia.com/data-analyst-jobs/)
 * [Data Architect job description](https://resources.workable.com/data-architect-job-description)
 * [Data Scientist job description](https://resources.workable.com/data-scientist-job-description)
 * [List of Job Descriptions](https://resources.workable.com/job-descriptions/)

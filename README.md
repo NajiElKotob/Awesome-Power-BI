@@ -110,6 +110,12 @@ It is so easy to start with Power BI, but hard to master it.
 * [PowerBI](https://www.linkedin.com/groups/6718028) - Padmanabhan Thirugnanasambandam
 * [Power BI](https://www.linkedin.com/groups/8256390) - Rajoo Jha
 * [Power BI Group](https://www.linkedin.com/groups/12107140) - Naji El Kotob
+* [Power BI User Group](https://www.linkedin.com/groups/13580234/) - Rose Spitzer 
+* [Microsoft Business Intelligence](https://www.linkedin.com/groups/59185/) - Frederik Vandeputte
+* [Microsoft Power BI Community](https://www.linkedin.com/groups/7044693/) - Pratibha Kumari Jha
+* [SQL Server Business Intelligence(BI)](https://www.linkedin.com/groups/2151868/) - Rajoo Jha
+* [Business Intelligence Professionals (BI, Big Data, Analytics)](https://www.linkedin.com/groups/40057/) - Robbert van Vlijmen
+* [Power BI Developers](https://www.linkedin.com/groups/10313446/) - Sharat Chandra Jha
 
 ### Communities and Groups
 * [Power BI Community](https://community.powerbi.com) - Connect, learn and discuss with business intelligence experts and peers

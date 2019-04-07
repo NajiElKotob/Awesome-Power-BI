@@ -13,6 +13,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Blogs](#blogs)
 * [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
 * [Official References](#official-references)
+* [Power BI Family and Tools](#power-bi-family-and-tools)
 * [Books](#books)
 * [Groups](#groups)
 * [Visuals](#visuals)
@@ -78,6 +79,12 @@ It is so easy to start with Power BI, but hard to master it.
 ### Whitepapers
 * [Power BI Whitepapers](http://bit.ly/PowerBIWhitepapers)
 
+
+## Power BI Family and Tools
+* [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
+* [Power BI Service](https://powerbi.microsoft.com/en-us/get-started/) > Try Free
+* [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/)
+* [Power BI Report Builder](https://powerbi.microsoft.com/en-us/blog/tag/power-bi-report-builder/)
 
 ## Books
 ### Power BI Books

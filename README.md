@@ -141,14 +141,6 @@ It is so easy to start with Power BI, but hard to master it.
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 * [Power Query M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 
-
-
-
-## Adam's Roundup
-* [4 recommended practices for new DAX users](https://powerbi.microsoft.com/en-us/blog/4-recommended-practices-for-new-dax-users/)
-* [Time Intelligence in Power BI Desktop](https://www.sqlbi.com/articles/time-intelligence-in-power-bi-desktop/)
-> [More about Adam Saxton's Roundup - YouTube](https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w/search?query=roundup)
-
 ## Tools
 * [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter)
 * [DAX Studio](https://www.sqlbi.com/tools/dax-studio/)

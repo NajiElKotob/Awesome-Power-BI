@@ -19,7 +19,6 @@ It is so easy to start with Power BI, but hard to master it.
 * [Visuals](#visuals)
 * [DAX](#dax)
 * [M](#m)
-* [Adam's Roundup](#adams-roundup)
 * [Tools](#tools)
 * [Learning](#learning)
 * [Power BI Samples](#power-bi-samples)

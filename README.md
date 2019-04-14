@@ -30,6 +30,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Summits and Conferences](#summits-and-conferences)
 * [Data - Job Descriptions](#job-descriptions)
 
+
 ## Power BI Heroes at YouTube
 > sorted alphabetically :heart:
 
@@ -84,6 +85,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Service](https://powerbi.microsoft.com/en-us/get-started/) > Try Free
 * [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/)
 * [Power BI Report Builder](https://powerbi.microsoft.com/en-us/blog/tag/power-bi-report-builder/)
+
 
 ## Books
 ### Power BI Books
@@ -154,6 +156,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
 * [Power BI Premium Demo](http://www.powerbiclickthrough.com/demos/powerbipremium)
 
+
 ## Power BI Samples
 * [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
 * [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
@@ -194,7 +197,6 @@ It is so easy to start with Power BI, but hard to master it.
 * [What is a Power BI dataflow? A deep dive on Dataflows for Power BI](https://www.youtube.com/watch?v=bkFG8s_9sGE) - Ruth Martinez
 * [What are the Use Cases of Dataflow for You in Power BI?](http://radacad.com/what-are-the-use-cases-of-dataflow-for-you-in-power-bi) -  Reza Rad
 
-
 ### Aggregation
 * [Aggregations for petabyte-scale](https://powerbi.microsoft.com/en-us/blog/aggregations-for-petabyte-scale-bi-available-in-the-power-bi-service/) - Christian Wade
     * [Aggregations in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-aggregations)
@@ -217,9 +219,11 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI vs Tableau: A Data Analytics Duel](https://technologyadvice.com/blog/information-technology/power-bi-vs-tableau/)
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
 
+
 ## Summits and Conferences
 * [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit)
 * [Difinity Conference](http://difinity.co.nz/)
+* [Power Platform Summit](https://www.powerplatformsummit.com)
 
 
 ## Job Descriptions

@@ -42,7 +42,6 @@ It is so easy to start with Power BI, but hard to master it.
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 
-
 ## Blogs
 * [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)
 * David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
@@ -117,9 +116,11 @@ It is so easy to start with Power BI, but hard to master it.
 * [Business Intelligence Professionals (BI, Big Data, Analytics)](https://www.linkedin.com/groups/40057/) - Robbert van Vlijmen
 * [Power BI Developers](https://www.linkedin.com/groups/10313446/) - Sharat Chandra Jha
 
+
 ### Communities and Groups
 * [Power BI Community](https://community.powerbi.com) - Connect, learn and discuss with business intelligence experts and peers
 * [Power BI User Group](https://www.pbiusergroup.com) - Your Community. Your Connections. Your Questions Answered.
+
 
 ## Visuals
 * [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals)
@@ -140,6 +141,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 * [Power Query M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 
+
 ## Tools
 * [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter) - DAX Formatter is a free tool by SQLBI that transform raw DAX formulas into clean, beautiful and readable code.
 * [DAX Studio](https://www.sqlbi.com/tools/dax-studio/) - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Designer, Power Pivot for Excel, and Analysis Services Tabular.
@@ -155,6 +157,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Power BI Samples
 * [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
 * [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
+
 
 ## Datasets
 * [Ready PBIX Datasets](https://github.com/NajiElKotob/Awesome-Power-BI/tree/master/Datasets) :boom:
@@ -191,10 +194,14 @@ It is so easy to start with Power BI, but hard to master it.
 * [What is a Power BI dataflow? A deep dive on Dataflows for Power BI](https://www.youtube.com/watch?v=bkFG8s_9sGE) - Ruth Martinez
 * [What are the Use Cases of Dataflow for You in Power BI?](http://radacad.com/what-are-the-use-cases-of-dataflow-for-you-in-power-bi) -  Reza Rad
 
+
 ### Aggregation
 * [Aggregations for petabyte-scale](https://powerbi.microsoft.com/en-us/blog/aggregations-for-petabyte-scale-bi-available-in-the-power-bi-service/) - Christian Wade
     * [Aggregations in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-aggregations)
 * [Create the Aggregated Table](http://radacad.com/power-bi-aggregation-step-1-create-the-aggregated-table) -  Reza Rad @ RADACAD Blog
+
+### Machine Learning
+* [Creating Machine Learning models in Power BI](https://powerbi.microsoft.com/en-us/blog/creating-machine-learning-models-in-power-bi/)
 
 ### Advanced Topics
 * [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates

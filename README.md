@@ -42,6 +42,8 @@ It is so easy to start with Power BI, but hard to master it.
 * Sam McKay [Enterprise DNA](https://www.youtube.com/channel/UCy2rBgj4M1tzK-urTZ28zcA)
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
+### Special Videos
+* [Analyzing country data in less than 60 minutes](https://www.youtube.com/watch?v=EcMXA6uiz9A) - Marc Reguera
 
 ## Blogs
 * [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)

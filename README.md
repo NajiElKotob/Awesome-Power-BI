@@ -125,7 +125,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 
 ## Visuals
-* [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals)
+* [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - Marketplace visuals
 
 
 ## DAX

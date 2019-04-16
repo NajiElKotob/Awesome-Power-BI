@@ -10,6 +10,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Table of contents
 
 * [Power BI Heroes at YouTube :star2:](#power-bi-heroes-at-youtube)
+   * [Special Videos](#special-videos)
 * [Blogs](#blogs)
 * [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
 * [Official References](#official-references)
@@ -44,6 +45,8 @@ It is so easy to start with Power BI, but hard to master it.
 
 ### Special Videos
 * [Analyzing country data in less than 60 minutes](https://www.youtube.com/watch?v=EcMXA6uiz9A) - Marc Reguera
+* [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi) - Alberto Ferrari
+* [Storytelling with Power BI](https://www.youtube.com/watch?v=I69w6TmWUUM) - Jeff Lumpkin 
 
 ## Blogs
 * [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)
@@ -137,7 +140,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
 * [DAX 50 (Video)](https://exceleratorbi.com.au/my-mdis-presentations) - Matt Allington
 * SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
-* [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi/?nu=1210) - Alberto Ferrari
+
 
 
 ## M

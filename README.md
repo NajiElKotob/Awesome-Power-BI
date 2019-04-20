@@ -179,6 +179,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [UN Data](http://data.un.org)
 * [UCI - Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) - Center for Machine Learning and Intelligent Systems
 * [Coffee and Code](https://www.kaggle.com/devready/coffee-and-code) - The case for Lebanon
+* [Northwind (OData)](https://services.odata.org/northwind/northwind.svc)
 * [OpenML](https://www.openml.org) - Find or add data to analyse
 * [Vanderbilt University](http://biostat.mc.vanderbilt.edu/wiki/Main/DataSets) - Department of Biostatistics
 * [Open Datasets](https://ai.google/tools/datasets) - Google AI

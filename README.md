@@ -240,6 +240,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 
 ## Job Descriptions
+* [Power BI Interview Questions - Overview](https://www.youtube.com/watch?v=wafmxd0RE7Q) - Learn some of the basic overview questions you'll hear or should ask in your tech interview with a Power BI developer. 
 * [Data Analyst job description - Workable](https://resources.workable.com/data-analyst-job-description)
 * [Data Analyst job description - Zippia](https://www.zippia.com/data-analyst-jobs/)
 * [Data Architect job description](https://resources.workable.com/data-architect-job-description)

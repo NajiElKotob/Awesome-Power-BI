@@ -26,6 +26,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Datasets](#datasets)
 * [Exam 70-778](#exam-70-778)
 * [Special Features and Advanced Topics](#special-features-and-advanced-topics)
+* [Storytelling](#storytelling)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
 * [Summits and Conferences](#summits-and-conferences)
@@ -215,6 +216,11 @@ It is so easy to start with Power BI, but hard to master it.
 ### Advanced Topics
 * [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates
 * [Anscombe's quartet (Video)](https://www.youtube.com/watch?v=yj3rZTwJZaA) - Anscombe's quartet comprises four datasets that have nearly identical simple descriptive statistics, yet have very different distributions and appear very different when graphed.
+
+## Storytelling
+* [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67) - Bill Shander
+* [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f) - Bill Shander
+* [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
 
 
 ## Styles and Themes

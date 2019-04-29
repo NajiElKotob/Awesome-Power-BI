@@ -222,8 +222,8 @@ It is so easy to start with Power BI, but hard to master it.
 * [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67) - Bill Shander
 * [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f) - Bill Shander
 * [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
-* [Storytelling with data and Power BI]
-    * [Ruth Pozuelo Martinez]
+* Storytelling with data and Power BI
+    * Ruth Pozuelo Martinez
         * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)
         * [How to effectively tell a story with your data and Power BI](https://www.youtube.com/watch?v=E8Mz18i_po4)
 

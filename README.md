@@ -219,9 +219,11 @@ It is so easy to start with Power BI, but hard to master it.
 * [Anscombe's quartet (Video)](https://www.youtube.com/watch?v=yj3rZTwJZaA) - Anscombe's quartet comprises four datasets that have nearly identical simple descriptive statistics, yet have very different distributions and appear very different when graphed.
 
 ## Storytelling
-* [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67) - Bill Shander
-* [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f) - Bill Shander
-* [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
+* Bill Shander
+    * [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67)
+    * [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f)
+* Neil Halloran
+    * [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
 * Storytelling with data and Power BI
     * Ruth Pozuelo Martinez
         * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)

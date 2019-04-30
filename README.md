@@ -230,7 +230,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Storytelling with data and Power BI
     * Ruth Pozuelo Martinez
         * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)
-        * [How to effectively tell a story with your data and Power BI](https://www.youtube.com/watch?v=E8Mz18i_po4)
+        * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
 
 
 ## Styles and Themes

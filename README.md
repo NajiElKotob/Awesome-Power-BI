@@ -139,6 +139,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ## DAX
 * [DAX basics in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics)
+* [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly. This article introduces these two concepts.
 * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
 * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
 * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari

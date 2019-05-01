@@ -144,8 +144,11 @@ It is so easy to start with Power BI, but hard to master it.
 * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
 * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
 * [Advanced DAX (Video)](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari
-* [DAX 50 (Video)](https://exceleratorbi.com.au/my-mdis-presentations) - Matt Allington
 * SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
+* Matt Allington
+    * [Evaluation Contexts in DAX - Level 200 (Video)](https://www.youtube.com/watch?v=1yWLhxYoq88)
+    * [DAX 50 (Video)](https://exceleratorbi.com.au/my-mdis-presentations) - Matt Allington
+
 
 
 

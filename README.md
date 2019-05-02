@@ -173,6 +173,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [DAX Studio](https://www.sqlbi.com/tools/dax-studio/) - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Designer, Power Pivot for Excel, and Analysis Services Tabular.
 * [Power BI Helper](http://radacad.com/power-bi-helper) 
 * [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
+* [Coolors](https://coolors.co/) - The super fast color schemes generator.
 
 
 ## Learning

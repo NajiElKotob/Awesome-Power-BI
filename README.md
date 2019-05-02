@@ -155,6 +155,8 @@ It is so easy to start with Power BI, but hard to master it.
 * Matt Allington
     * [Evaluation Contexts in DAX - Level 200 (Video)](https://www.youtube.com/watch?v=1yWLhxYoq88)
     * [DAX 50 (Video)](https://exceleratorbi.com.au/my-mdis-presentations) - Matt Allington
+* SSMS
+    * [Using DAX to retrieve tabular data](https://www.red-gate.com/simple-talk/sql/reporting-services/using-dax-to-retrieve-tabular-data)
 
 
 

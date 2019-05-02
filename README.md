@@ -26,6 +26,13 @@ It is so easy to start with Power BI, but hard to master it.
 * [Datasets](#datasets)
 * [Exam 70-778](#exam-70-778)
 * [Special Features and Advanced Topics](#special-features-and-advanced-topics)
+    * [Dataflows](#dataflows)
+    * [Aggregation](#aggregation)
+    * [Machine Learning](#machine-learning)
+    * [Advanced Topics](#advanced-topics)
+    * [Power Platform](#power-platform)
+    * [Python](#python)
+    * [R](#r)
 * [Storytelling](#storytelling)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
@@ -227,6 +234,14 @@ It is so easy to start with Power BI, but hard to master it.
 
 ### Power Platform
 * [Power platform vision and roadmap (Video)](https://www.youtube.com/watch?v=mN7xnqvdqRA)
+
+### Python
+* [Run Python scripts in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-python-scripts)
+* [Create Power BI visuals using Python](https://docs.microsoft.com/en-us/power-bi/desktop-python-visuals)
+
+### R
+* [Create Power BI visuals using R](https://docs.microsoft.com/en-us/power-bi/desktop-r-visuals)
+
 
 
 ## Storytelling

@@ -241,6 +241,7 @@ It is so easy to start with Power BI, but hard to master it.
 ### Python
 * [Run Python scripts in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-python-scripts)
 * [Create Power BI visuals using Python](https://docs.microsoft.com/en-us/power-bi/desktop-python-visuals)
+* [Python visualizations in Power BI Service](https://powerbi.microsoft.com/en-us/blog/python-visualizations-in-power-bi-service/)
 
 ### R
 * [Create Power BI visuals using R](https://docs.microsoft.com/en-us/power-bi/desktop-r-visuals)

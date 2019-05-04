@@ -144,6 +144,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Visual Vocabulary - Poster](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)
 * Developer
     * [Create custom visuals for Power BI](https://powerbi.microsoft.com/en-us/developers/custom-visualization/)
+    * [D3.js](https://d3js.org) -  Data-Driven Documents
     * [TypeScript](https://www.typescriptlang.org/)
     * [Node.js](https://nodejs.org)
 

@@ -162,6 +162,9 @@ It is so easy to start with Power BI, but hard to master it.
 * SSMS
     * [Getting Started with the SSAS Tabular Model](https://www.red-gate.com/simple-talk/sql/reporting-services/getting-started-with-the-ssas-tabular-model-/) - Robert Sheldon
     * [Using DAX to retrieve tabular data](https://www.red-gate.com/simple-talk/sql/reporting-services/using-dax-to-retrieve-tabular-data) - Robert Sheldon
+* Advanced Topics
+    * [Bidirectional relationships and ambiguity in DAX](https://www.sqlbi.com/articles/bidirectional-relationships-and-ambiguity-in-dax/) - Activating bidirectional cross-filter in a Tabular data model might create ambiguous paths in the chain of relationships, resulting in very dangerous models as numbers become unpredictable. 
+    * [Hiding future dates for calculations in DAX](https://www.sqlbi.com/articles/hiding-future-dates-for-calculations-in-dax/) - This article describes how to write DAX measures that compute aggregations or comparisons with past dates without showing or comparing future dates.
 
 
 

@@ -220,6 +220,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ### Machine Learning
 * [Creating Machine Learning models in Power BI](https://powerbi.microsoft.com/en-us/blog/creating-machine-learning-models-in-power-bi/)
+* [AI in Power BI (Video)](https://mybuild.techcommunity.microsoft.com/sessions/77088?source=sessions&ref=najielkotob) - AI can help everyone in an organization automatically find patterns in their data, understand what the data means, and predict future outcomes to help business drive results. 
 
 ### Advanced Topics
 * [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates

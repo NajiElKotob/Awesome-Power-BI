@@ -16,7 +16,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Official References](#official-references)
 * [Power BI Family and Tools](#power-bi-family-and-tools)
 * [Books](#books)
-* [Groups](#groups)
+* [Groups and Social Media](#groups-and-social-media)
 * [Visuals](#visuals)
 * [DAX](#dax)
 * [M](#m)
@@ -117,7 +117,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios](https://amzn.to/2rSUTWX) - Steve Wexler
 * [The Truthful Art: Data, Charts, and Maps for Communication](https://amzn.to/2Va8VAB) - Alberto Cairo
 
-## Groups
+## Groups and Social Media
 ### LinkedIn Groups
 * [Enterprise Power BI](https://www.linkedin.com/groups/12004506/) - Sam McKay
 * [Microsoft Power BI](https://www.linkedin.com/groups/5096169/) - Clint Huijbers
@@ -131,8 +131,10 @@ It is so easy to start with Power BI, but hard to master it.
 * [Business Intelligence Professionals (BI, Big Data, Analytics)](https://www.linkedin.com/groups/40057/) - Robbert van Vlijmen
 * [Power BI Developers](https://www.linkedin.com/groups/10313446/) - Sharat Chandra Jha
 
+### Twitter
+* [MS Power BI (Official)](https://twitter.com/MSPowerBI)
 
-### Communities and Groups
+### Communities
 * [Power BI Community](https://community.powerbi.com) - Connect, learn and discuss with business intelligence experts and peers
 * [Power BI User Group](https://www.pbiusergroup.com) - Your Community. Your Connections. Your Questions Answered.
 

@@ -259,7 +259,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Styles and Themes
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 * [Themes Gallery](http://bit.ly/PowerBI-ThemeGallery)
-
+* [Turning a Corporate Color Palette into a Data Visualization Color Palette](https://www.sqlservercentral.com/blogs/turning-a-corporate-color-palette-into-a-data-visualization-color-palette)
 
 ## Competitive Analysis
 * [Power BI vs Tableau: A Data Analytics Duel](https://technologyadvice.com/blog/information-technology/power-bi-vs-tableau/)

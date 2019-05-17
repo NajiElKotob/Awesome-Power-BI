@@ -68,6 +68,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ## Power BI Desktop Feature Summary
 ### 2019
+* [Power BI Desktop May 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2019-feature-summary)
 * [Power BI Desktop April 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-april-2019-feature-summary)
 * [Power BI Desktop March 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2019-feature-summary)
 * [Power BI Desktop February 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2019-feature-summary)

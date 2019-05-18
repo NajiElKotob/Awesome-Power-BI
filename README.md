@@ -55,6 +55,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Analyzing country data in less than 60 minutes](https://www.youtube.com/watch?v=EcMXA6uiz9A) - Marc Reguera
 * [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi) - Alberto Ferrari
 * [Storytelling with Power BI](https://www.youtube.com/watch?v=I69w6TmWUUM) - Jeff Lumpkin 
+* [Dataflows The Integration Solution for Power BI](https://www.youtube.com/watch?v=1TqfmfSnAqs)
 
 ## Blogs
 * [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)

@@ -232,6 +232,7 @@ It is so easy to start with Power BI, but hard to master it.
 ### Advanced Topics
 * [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates
 * [Anscombe's quartet (Video)](https://www.youtube.com/watch?v=yj3rZTwJZaA) - Anscombe's quartet comprises four datasets that have nearly identical simple descriptive statistics, yet have very different distributions and appear very different when graphed.
+* [Storing Large Images In Power BI Datasets](https://blog.crossjoin.co.uk/2019/05/19/storing-large-images-in-power-bi-datasets/) - Chris Webb
 
 ### Power Platform
 * [Power platform vision and roadmap (Video)](https://www.youtube.com/watch?v=mN7xnqvdqRA)

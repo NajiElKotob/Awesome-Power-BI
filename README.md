@@ -151,6 +151,8 @@ It is so easy to start with Power BI, but hard to master it.
     * [D3.js](https://d3js.org) -  Data-Driven Documents
     * [TypeScript](https://www.typescriptlang.org/)
     * [Node.js](https://nodejs.org)
+* Related Articles
+    * [Certifying Custom Visuals For Power BI](https://datachant.com/2018/09/18/governing-custom-visuals-power-bi-2/)
 
 ## DAX
 * [DAX basics in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics)

@@ -21,6 +21,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [DAX](#dax)
 * [M](#m)
 * [Tools](#tools)
+* [Drivers](#drivers)
 * [Learning](#learning)
 * [Power BI Samples](#power-bi-samples)
 * [Datasets](#datasets)

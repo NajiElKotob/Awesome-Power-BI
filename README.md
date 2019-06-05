@@ -180,7 +180,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Basics of M - Power Query Formula Language](http://radacad.com/basics-of-m-power-query-formula-language)
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 * [Power Query M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
-
+* [Document all Power Query M code without copy pasting it (Video)](https://www.youtube.com/watch?v=fseh56DYeLc) - Curbal
 
 ## Tools
 * [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter) - DAX Formatter is a free tool by SQLBI that transform raw DAX formulas into clean, beautiful and readable code.

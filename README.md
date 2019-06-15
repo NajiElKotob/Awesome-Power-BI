@@ -90,6 +90,10 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
 
 ## Official References
+### Setup
+* [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
+* [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/)
+
 ### Docs
 * [Official Power BI Docs](https://docs.microsoft.com/power-bi)
 

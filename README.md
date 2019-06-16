@@ -118,15 +118,23 @@ It is so easy to start with Power BI, but hard to master it.
     * [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/) - Power BI Report Server is the on-premises solution for reporting, with the flexibility to move to the cloud. 
     * [Power BI RS vs Power BI Service](https://docs.microsoft.com/en-us/power-bi/report-server/compare-report-server-service)
     * [Install Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/install-report-server)
-    * [Configure Windows Authentication on the Report Server](https://docs.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server)
+* Settings and Troubleshooting
     * [Error Logs and Troubleshooting](https://docs.microsoft.com/en-us/power-bi/report-server/scheduled-refresh-troubleshoot#tools-for-troubleshooting)
+    * [Connect to Power BI Report Server with SSMS](https://sqlkover.com/connecting-to-power-bi-report-server-with-ssms/)
+* Security
+    * [Configure Windows Authentication on the Report Server](https://docs.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server)
+    * [Configure Kerberos to use Power BI reports (Video)](https://docs.microsoft.com/en-us/power-bi/report-server/configure-kerberos-powerbi-reports)
 * Web Portal
+    * [Branding the web portal](https://docs.microsoft.com/en-us/sql/reporting-services/branding-the-web-portal)
     * [Manage content in the web portal](https://docs.microsoft.com/en-us/power-bi/report-server/getting-around)
     * [Work with shared datasets](https://docs.microsoft.com/en-us/sql/reporting-services/work-with-shared-datasets-web-portal)
     * [Create shared data sources and datasets for your reports (Video)](https://channel9.msdn.com/Events/DataDriven/SQLServer2016/shared-data-sources-and-datasets-for-your-reports)
-    * [Branding the web portal](https://docs.microsoft.com/en-us/sql/reporting-services/branding-the-web-portal)
 * Power BI Desktop for PBI RS
     * [Power BI Desktop optimized for Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/install-powerbi-desktop)
+* Paginated reports
+    * [Working with paginated reports](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-paginated-reports-web-portal)
+    * [Working with subscriptions](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-subscriptions-web-portal)
+    * [Working with snapshots](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-snapshots-web-portal)
 * Mobile Report Publisher
     * [Create mobile reports with SQL Server Mobile Report Publisher](https://docs.microsoft.com/en-us/sql/reporting-services/mobile-reports/create-mobile-reports-with-sql-server-mobile-report-publisher)
     * [Mobile Report Publisher – Dashboards Everywhere](https://www.red-gate.com/simple-talk/sql/bi/mobile-report-publisher-dashboards-everywhere/) - Robert Cain

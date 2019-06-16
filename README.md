@@ -18,6 +18,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Family and Tools](#power-bi-family-and-tools)
     * [Power BI Family](#power-bi-family)
     * [Tools](#tools)
+* [Power BI Report Server](#power-bi-report-server)
 * [Books](#books)
 * [Groups and Social Media](#groups-and-social-media)
 * [Learning](#learning)
@@ -111,6 +112,17 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Helper](http://radacad.com/power-bi-helper) 
 * [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
 * [Coolors](https://coolors.co/) - The super fast color schemes generator.
+
+## Power BI Report Server
+* [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/) - Power BI Report Server is the on-premises solution for reporting, with the flexibility to move to the cloud. 
+    * [Power BI RS vs Power BI Service](https://docs.microsoft.com/en-us/power-bi/report-server/compare-report-server-service)
+    * [Install Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/install-report-server)
+    * [Branding the web portal](https://docs.microsoft.com/en-us/sql/reporting-services/branding-the-web-portal)
+    * [Error Logs and Troubleshooting](https://docs.microsoft.com/en-us/power-bi/report-server/scheduled-refresh-troubleshoot#tools-for-troubleshooting)
+
+    
+
+    
 
 ## Books
 ### Power BI Books

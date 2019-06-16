@@ -114,13 +114,25 @@ It is so easy to start with Power BI, but hard to master it.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator.
 
 ## Power BI Report Server
-* [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/) - Power BI Report Server is the on-premises solution for reporting, with the flexibility to move to the cloud. 
+* Power BI Report Server
+    * [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/) - Power BI Report Server is the on-premises solution for reporting, with the flexibility to move to the cloud. 
     * [Power BI RS vs Power BI Service](https://docs.microsoft.com/en-us/power-bi/report-server/compare-report-server-service)
     * [Install Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/install-report-server)
-    * [Branding the web portal](https://docs.microsoft.com/en-us/sql/reporting-services/branding-the-web-portal)
+    * [Configure Windows Authentication on the Report Server](https://docs.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server)
     * [Error Logs and Troubleshooting](https://docs.microsoft.com/en-us/power-bi/report-server/scheduled-refresh-troubleshoot#tools-for-troubleshooting)
+* Web Portal
+    * [Manage content in the web portal](https://docs.microsoft.com/en-us/power-bi/report-server/getting-around)
+    * [Work with shared datasets](https://docs.microsoft.com/en-us/sql/reporting-services/work-with-shared-datasets-web-portal)
+    * [Create shared data sources and datasets for your reports (Video)](https://channel9.msdn.com/Events/DataDriven/SQLServer2016/shared-data-sources-and-datasets-for-your-reports)
+    * [Branding the web portal](https://docs.microsoft.com/en-us/sql/reporting-services/branding-the-web-portal)
+* Power BI Desktop for PBI RS
+    * [Power BI Desktop optimized for Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/install-powerbi-desktop)
+* Mobile Report Publisher
+    * [Create mobile reports with SQL Server Mobile Report Publisher](https://docs.microsoft.com/en-us/sql/reporting-services/mobile-reports/create-mobile-reports-with-sql-server-mobile-report-publisher)
+    * [Mobile Report Publisher – Dashboards Everywhere](https://www.red-gate.com/simple-talk/sql/bi/mobile-report-publisher-dashboards-everywhere/) - Robert Cain
+* KPI
+    * [Working with KPIs in Reporting Services](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-kpis-in-reporting-services)
 
-    
 
     
 

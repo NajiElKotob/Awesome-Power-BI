@@ -15,12 +15,13 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
 * [Official References](#official-references)
 * [Power BI Family and Tools](#power-bi-family-and-tools)
+    * [Power BI Family](#power-bi-family)
+    * [Tools](#tools)
 * [Books](#books)
 * [Groups and Social Media](#groups-and-social-media)
 * [Visuals](#visuals)
 * [DAX](#dax)
 * [M](#m)
-* [Tools](#tools)
 * [Drivers](#drivers)
 * [Learning](#learning)
 * [Power BI Samples](#power-bi-samples)
@@ -90,9 +91,6 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
 
 ## Official References
-### Setup
-* [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
-* [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/)
 
 ### Docs
 * [Official Power BI Docs](https://docs.microsoft.com/power-bi)
@@ -100,13 +98,20 @@ It is so easy to start with Power BI, but hard to master it.
 ### Whitepapers
 * [Power BI Whitepapers](http://bit.ly/PowerBIWhitepapers)
 
-
 ## Power BI Family and Tools
+### Power BI Family
 * [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 * [Power BI Service](https://powerbi.microsoft.com/en-us/get-started/) > Try Free
 * [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/)
 * [Power BI Report Builder](https://powerbi.microsoft.com/en-us/blog/tag/power-bi-report-builder/)
+* [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/)
 
+### Tools
+* [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter) - DAX Formatter is a free tool by SQLBI that transform raw DAX formulas into clean, beautiful and readable code.
+* [DAX Studio](https://www.sqlbi.com/tools/dax-studio/) - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Designer, Power Pivot for Excel, and Analysis Services Tabular.
+* [Power BI Helper](http://radacad.com/power-bi-helper) 
+* [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
+* [Coolors](https://coolors.co/) - The super fast color schemes generator.
 
 ## Books
 ### Power BI Books
@@ -179,20 +184,13 @@ It is so easy to start with Power BI, but hard to master it.
     * [Hiding future dates for calculations in DAX](https://www.sqlbi.com/articles/hiding-future-dates-for-calculations-in-dax/) - This article describes how to write DAX measures that compute aggregations or comparisons with past dates without showing or comparing future dates.
 
 
-
-
 ## M
 * [Basics of M - Power Query Formula Language](http://radacad.com/basics-of-m-power-query-formula-language)
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 * [Power Query M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 * [Document all Power Query M code without copy pasting it (Video)](https://www.youtube.com/watch?v=fseh56DYeLc) - Curbal
 
-## Tools
-* [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter) - DAX Formatter is a free tool by SQLBI that transform raw DAX formulas into clean, beautiful and readable code.
-* [DAX Studio](https://www.sqlbi.com/tools/dax-studio/) - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Designer, Power Pivot for Excel, and Analysis Services Tabular.
-* [Power BI Helper](http://radacad.com/power-bi-helper) 
-* [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
-* [Coolors](https://coolors.co/) - The super fast color schemes generator.
+
 
 ## Drivers
 * [32-bit Oracle Data Access Components (ODAC) with Oracle Developer Tools for Visual Studio](https://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html)

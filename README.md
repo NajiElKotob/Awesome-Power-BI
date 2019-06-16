@@ -118,6 +118,8 @@ It is so easy to start with Power BI, but hard to master it.
     * [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/) - Power BI Report Server is the on-premises solution for reporting, with the flexibility to move to the cloud. 
     * [Power BI RS vs Power BI Service](https://docs.microsoft.com/en-us/power-bi/report-server/compare-report-server-service)
     * [Install Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/install-report-server)
+    * [Install Power BI Report Server (RADACAD)](https://radacad.com/power-bi-report-server-power-bi-in-on-premises-world)
+    * [What's new in Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/whats-new)
 * Settings and Troubleshooting
     * [Error Logs and Troubleshooting](https://docs.microsoft.com/en-us/power-bi/report-server/scheduled-refresh-troubleshoot#tools-for-troubleshooting)
     * [Connect to Power BI Report Server with SSMS](https://sqlkover.com/connecting-to-power-bi-report-server-with-ssms/)

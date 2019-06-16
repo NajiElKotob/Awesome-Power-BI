@@ -142,6 +142,9 @@ It is so easy to start with Power BI, but hard to master it.
     * [Mobile Report Publisher – Dashboards Everywhere](https://www.red-gate.com/simple-talk/sql/bi/mobile-report-publisher-dashboards-everywhere/) - Robert Cain
 * KPI
     * [Working with KPIs in Reporting Services](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-kpis-in-reporting-services)
+* APIs
+    * [Power BI Report using Shared Dataset](http://dataap.org/blog/2018/03/20/power-bi-report-using-shared-dataset-detailed-step-by-step/)
+    * [Power BI Report Server REST API](https://app.swaggerhub.com/apis/microsoft-rs/pbirs/)
 
 
     

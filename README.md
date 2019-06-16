@@ -14,19 +14,20 @@ It is so easy to start with Power BI, but hard to master it.
 * [Blogs](#blogs)
 * [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
 * [Official References](#official-references)
+    * [Docs and Whitepapers](#docs-and-whitepapers)
 * [Power BI Family and Tools](#power-bi-family-and-tools)
     * [Power BI Family](#power-bi-family)
     * [Tools](#tools)
 * [Books](#books)
 * [Groups and Social Media](#groups-and-social-media)
+* [Learning](#learning)
+* [Power BI Samples](#power-bi-samples)
+* [Exam 70-778](#exam-70-778)
 * [Visuals](#visuals)
 * [DAX](#dax)
 * [M](#m)
 * [Drivers](#drivers)
-* [Learning](#learning)
-* [Power BI Samples](#power-bi-samples)
 * [Datasets](#datasets)
-* [Exam 70-778](#exam-70-778)
 * [Special Features and Advanced Topics](#special-features-and-advanced-topics)
     * [Dataflows](#dataflows)
     * [Aggregation](#aggregation)
@@ -92,10 +93,8 @@ It is so easy to start with Power BI, but hard to master it.
 
 ## Official References
 
-### Docs
+### Docs and Whitepapers
 * [Official Power BI Docs](https://docs.microsoft.com/power-bi)
-
-### Whitepapers
 * [Power BI Whitepapers](http://bit.ly/PowerBIWhitepapers)
 
 ## Power BI Family and Tools
@@ -151,6 +150,21 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Community](https://community.powerbi.com) - Connect, learn and discuss with business intelligence experts and peers
 * [Power BI User Group](https://www.pbiusergroup.com) - Your Community. Your Connections. Your Questions Answered.
 
+## Learning
+* [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
+* [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
+* [Power BI Premium Demo](http://www.powerbiclickthrough.com/demos/powerbipremium)
+
+## Power BI Samples
+* [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
+* [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
+
+## Exam 70-778
+* [Exam 70-778](https://www.microsoft.com/en-us/learning/exam-70-778.aspx) - Analyzing and Visualizing Data with Microsoft Power BI
+* [Microsoft Power BI Exam Ref 70-778](https://amzn.to/2UIB1Tz) - Daniil Maslyuk
+* [Preparing for Power BI Certification Exam 70-778: Level 1](https://www.youtube.com/watch?v=CTgzCTFMNnk) - Ted Pattison
+* [Prepare for the Power BI Certification (70-778)](https://www.youtube.com/playlist?list=PLv2BtOtLblH1dQPV49Ni12olDcUoW-GEl) - Guy in a Cube
+
 
 ## Visuals
 * [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - Marketplace visuals
@@ -199,28 +213,11 @@ It is so easy to start with Power BI, but hard to master it.
 * [PostgreSQL](https://github.com/npgsql/Npgsql/releases)
 
 
-## Learning
-* [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
-* [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
-* [Power BI Premium Demo](http://www.powerbiclickthrough.com/demos/powerbipremium)
 
-
-## Power BI Samples
-* [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
-* [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
 
 
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
-
-
-## Exam 70-778
-* [Exam 70-778](https://www.microsoft.com/en-us/learning/exam-70-778.aspx) - Analyzing and Visualizing Data with Microsoft Power BI
-* [Microsoft Power BI Exam Ref 70-778](https://amzn.to/2UIB1Tz) - Daniil Maslyuk
-* [Preparing for Power BI Certification Exam 70-778: Level 1](https://www.youtube.com/watch?v=CTgzCTFMNnk) - Ted Pattison
-* [Prepare for the Power BI Certification (70-778)](https://www.youtube.com/playlist?list=PLv2BtOtLblH1dQPV49Ni12olDcUoW-GEl) - Guy in a Cube
-
-
 
 ## Special Features and Advanced Topics
 ### Dataflows

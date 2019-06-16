@@ -131,6 +131,8 @@ It is so easy to start with Power BI, but hard to master it.
     * [Create shared data sources and datasets for your reports (Video)](https://channel9.msdn.com/Events/DataDriven/SQLServer2016/shared-data-sources-and-datasets-for-your-reports)
 * Power BI Desktop for PBI RS
     * [Power BI Desktop optimized for Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/install-powerbi-desktop)
+    * [Filter a report using query string parameters in the URL](https://docs.microsoft.com/en-us/power-bi/service-url-filters)
+    * [Embed a Power BI Report Server report](https://docs.microsoft.com/en-us/power-bi/report-server/quickstart-embed)
 * Paginated reports
     * [Working with paginated reports](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-paginated-reports-web-portal)
     * [Working with subscriptions](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-subscriptions-web-portal)

@@ -136,10 +136,12 @@ It is so easy to start with Power BI, but hard to master it.
     * [Power BI Desktop optimized for Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/install-powerbi-desktop)
     * [Filter a report using query string parameters in the URL](https://docs.microsoft.com/en-us/power-bi/service-url-filters)
     * [Embed a Power BI Report Server report](https://docs.microsoft.com/en-us/power-bi/report-server/quickstart-embed)
-* Paginated reports
+* Power BI Report Builder (Paginated reports)
     * [Working with paginated reports](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-paginated-reports-web-portal)
     * [Working with subscriptions](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-subscriptions-web-portal)
     * [Working with snapshots](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-snapshots-web-portal)
+* SQL Server Data Tools (SSDT) for VS
+    * [Download and install SQL Server Data Tools (SSDT) for Visual Studio](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt)
 * Mobile Report Publisher
     * [Create mobile reports with SQL Server Mobile Report Publisher](https://docs.microsoft.com/en-us/sql/reporting-services/mobile-reports/create-mobile-reports-with-sql-server-mobile-report-publisher)
     * [Mobile Report Publisher – Dashboards Everywhere](https://www.red-gate.com/simple-talk/sql/bi/mobile-report-publisher-dashboards-everywhere/) - Robert Cain

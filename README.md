@@ -122,6 +122,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [What's new in Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/whats-new)
 * Settings and Troubleshooting
     * [Error Logs and Troubleshooting](https://docs.microsoft.com/en-us/power-bi/report-server/scheduled-refresh-troubleshoot#tools-for-troubleshooting)
+    * [Querying ReportServer Database](https://www.mssqltips.com/sqlservertip/6001/ssrs-reportserver-database-overview-and-queries/)
     * [Connect to Power BI Report Server with SSMS](https://sqlkover.com/connecting-to-power-bi-report-server-with-ssms/)
 * Security
     * [Configure Windows Authentication on the Report Server](https://docs.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server)

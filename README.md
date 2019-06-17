@@ -140,7 +140,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Working with paginated reports](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-paginated-reports-web-portal)
     * [Working with subscriptions](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-subscriptions-web-portal)
     * [Working with snapshots](https://docs.microsoft.com/en-us/sql/reporting-services/working-with-snapshots-web-portal)
-* SQL Server Data Tools (SSDT) for VS
+* Report Designer - SQL Server Data Tools (SSDT) for VS
     * [Download and install SQL Server Data Tools (SSDT) for Visual Studio](https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt)
 * Mobile Report Publisher
     * [Create mobile reports with SQL Server Mobile Report Publisher](https://docs.microsoft.com/en-us/sql/reporting-services/mobile-reports/create-mobile-reports-with-sql-server-mobile-report-publisher)

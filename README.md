@@ -124,6 +124,9 @@ It is so easy to start with Power BI, but hard to master it.
     * [Error Logs and Troubleshooting](https://docs.microsoft.com/en-us/power-bi/report-server/scheduled-refresh-troubleshoot#tools-for-troubleshooting)
     * [Querying ReportServer Database](https://www.mssqltips.com/sqlservertip/6001/ssrs-reportserver-database-overview-and-queries/)
     * [Connect to Power BI Report Server with SSMS](https://sqlkover.com/connecting-to-power-bi-report-server-with-ssms/)
+    * The service is not available (Error)
+        * [The Report Server Web Portal Urls And Web Service Urls Don’t Match](http://www.midnightdba.com/Jen/2018/03/report-server-web-portal-urls-web-service-urls-dont-match/)
+        * [The Service is Not Available (LuCELL)](http://lucell.co.uk/the-service-is-not-available)
 * Security
     * [Configure Windows Authentication on the Report Server](https://docs.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server)
     * [Configure Kerberos to use Power BI reports (Video)](https://docs.microsoft.com/en-us/power-bi/report-server/configure-kerberos-powerbi-reports)

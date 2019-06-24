@@ -275,6 +275,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [What is a Power BI dataflow? A deep dive on Dataflows for Power BI](https://www.youtube.com/watch?v=bkFG8s_9sGE) - Ruth Martinez
 * [What are the Use Cases of Dataflow for You in Power BI?](http://radacad.com/what-are-the-use-cases-of-dataflow-for-you-in-power-bi) -  Reza Rad
 
+### Shared Dataset
+* [Use datasets across workspaces](https://docs.microsoft.com/en-us/power-bi/service-datasets-across-workspaces)
+
 ### Aggregation
 * [Aggregations for petabyte-scale](https://powerbi.microsoft.com/en-us/blog/aggregations-for-petabyte-scale-bi-available-in-the-power-bi-service/) - Christian Wade
     * [Aggregations in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-aggregations)

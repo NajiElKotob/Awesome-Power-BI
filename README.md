@@ -127,6 +127,7 @@ It is so easy to start with Power BI, but hard to master it.
     * The service is not available (Error)
         * [The Report Server Web Portal Urls And Web Service Urls Don’t Match](http://www.midnightdba.com/Jen/2018/03/report-server-web-portal-urls-web-service-urls-dont-match/)
         * [The Service is Not Available (LuCELL)](http://lucell.co.uk/the-service-is-not-available)
+        * Go to Report Server Configuration Manager, Backup the Encryption Keys and change the Service Account to "Network Service"
 * Security
     * [Configure Windows Authentication on the Report Server](https://docs.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server)
     * [Configure Kerberos to use Power BI reports (Video)](https://docs.microsoft.com/en-us/power-bi/report-server/configure-kerberos-powerbi-reports)

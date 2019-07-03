@@ -130,6 +130,7 @@ It is so easy to start with Power BI, but hard to master it.
         * [The Service is Not Available (LuCELL)](http://lucell.co.uk/the-service-is-not-available)
         * Go to Report Server Configuration Manager, Backup the Encryption Keys and change the Service Account to "Network Service"
 * ReportServer Database
+    * [Dynamic row level security with Analysis services tabular model](https://docs.microsoft.com/en-us/power-bi/desktop-tutorial-row-level-security-onprem-ssas-tabular)
     * [SSRS ReportServer Database Overview and Queries](https://www.colabug.com/5946636.html)
 * Security
     * [Configure Windows Authentication on the Report Server](https://docs.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server)

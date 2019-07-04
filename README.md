@@ -135,6 +135,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Security
     * [Configure Windows Authentication on the Report Server](https://docs.microsoft.com/en-us/sql/reporting-services/security/configure-windows-authentication-on-the-report-server)
     * [Configure Kerberos to use Power BI reports (Video)](https://docs.microsoft.com/en-us/power-bi/report-server/configure-kerberos-powerbi-reports)
+    * [Configure Custom or Forms Authentication on the Report Server](https://docs.microsoft.com/en-us/sql/reporting-services/security/configure-custom-or-forms-authentication-on-the-report-server)
 * Web Portal
     * [Branding the web portal](https://docs.microsoft.com/en-us/sql/reporting-services/branding-the-web-portal)
     * [Manage content in the web portal](https://docs.microsoft.com/en-us/power-bi/report-server/getting-around)

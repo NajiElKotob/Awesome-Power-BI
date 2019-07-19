@@ -101,6 +101,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [Official Power BI Docs](https://docs.microsoft.com/power-bi)
 * [Power BI Whitepapers](http://bit.ly/PowerBIWhitepapers)
 
+### API
+* [REST API](https://docs.microsoft.com/en-us/rest/api/power-bi/) - Power BI REST API provides service endpoints for embedding, administration, and user resources.
+
 ## Power BI Family and Tools
 ### Power BI Family
 * [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)

@@ -43,7 +43,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Summits and Conferences](#summits-and-conferences)
 * [Data - Job Descriptions](#job-descriptions)
 
-
+-----
 ## Power BI Heroes at YouTube
 > sorted alphabetically :heart:
 
@@ -62,7 +62,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi) - Alberto Ferrari
 * [Storytelling with Power BI](https://www.youtube.com/watch?v=I69w6TmWUUM) - Jeff Lumpkin 
 * [Dataflows The Integration Solution for Power BI](https://www.youtube.com/watch?v=1TqfmfSnAqs)
-
+-----
 ## Blogs
 * [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)
 * David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
@@ -72,7 +72,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
 
-
+-----
 ## Power BI Desktop Feature Summary
 ### 2019
 * [Power BI Desktop July 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2019-feature-summary)
@@ -94,7 +94,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop March 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2018-feature-summary)
 * [Power BI Desktop February 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2018-feature-summary)
 * [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
-
+-----
 ## Official References
 
 ### Docs and Whitepapers
@@ -105,7 +105,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [REST API](https://docs.microsoft.com/en-us/rest/api/power-bi/) - Power BI REST API provides service endpoints for embedding, administration, and user resources.
 * [Microsoft Power BI Cmdlets](https://docs.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps) - Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell Core
 
-
+-----
 ## Power BI Family and Tools
 ### Power BI Family
 * [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
@@ -120,7 +120,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Helper](http://radacad.com/power-bi-helper) 
 * [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
 * [Coolors](https://coolors.co/) - The super fast color schemes generator.
-
+-----
 ## Power BI Report Server
 * Power BI Report Server
     * [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/) - Power BI Report Server is the on-premises solution for reporting, with the flexibility to move to the cloud. 
@@ -169,7 +169,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 
     
-
+-----
 ## Books
 ### Power BI Books
 * [Pro Power BI Architecture](https://amzn.to/2E8IshF) - Sharing, Security, and Deployment Options for Microsoft Power BI Solutions 
@@ -186,7 +186,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Storytelling with Data](https://amzn.to/2Qht2yd) - A Data Visualization Guide for Business Professionals
 * [The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios](https://amzn.to/2rSUTWX) - Steve Wexler
 * [The Truthful Art: Data, Charts, and Maps for Communication](https://amzn.to/2Va8VAB) - Alberto Cairo
-
+-----
 ## Groups and Social Media
 ### LinkedIn Groups
 * [Enterprise Power BI](https://www.linkedin.com/groups/12004506/) - Sam McKay
@@ -207,23 +207,23 @@ It is so easy to start with Power BI, but hard to master it.
 ### Communities
 * [Power BI Community](https://community.powerbi.com) - Connect, learn and discuss with business intelligence experts and peers
 * [Power BI User Group](https://www.pbiusergroup.com) - Your Community. Your Connections. Your Questions Answered.
-
+-----
 ## Learning
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
 * [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
 * [Power BI Premium Demo](http://www.powerbiclickthrough.com/demos/powerbipremium)
-
+-----
 ## Power BI Samples
 * [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
 * [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
-
+-----
 ## Exam 70-778
 * [Exam 70-778](https://www.microsoft.com/en-us/learning/exam-70-778.aspx) - Analyzing and Visualizing Data with Microsoft Power BI
 * [Microsoft Power BI Exam Ref 70-778](https://amzn.to/2UIB1Tz) - Daniil Maslyuk
 * [Preparing for Power BI Certification Exam 70-778: Level 1](https://www.youtube.com/watch?v=CTgzCTFMNnk) - Ted Pattison
 * [Prepare for the Power BI Certification (70-778)](https://www.youtube.com/playlist?list=PLv2BtOtLblH1dQPV49Ni12olDcUoW-GEl) - Guy in a Cube
 
-
+-----
 ## Visuals
 * [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - Marketplace visuals
 * Visual Vocabulary
@@ -236,7 +236,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Node.js](https://nodejs.org)
 * Related Articles
     * [Certifying Custom Visuals For Power BI](https://datachant.com/2018/09/18/governing-custom-visuals-power-bi-2/)
-
+-----
 ## DAX
 * [DAX basics in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics)
 * [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
@@ -255,7 +255,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Bidirectional relationships and ambiguity in DAX](https://www.sqlbi.com/articles/bidirectional-relationships-and-ambiguity-in-dax/) - Activating bidirectional cross-filter in a Tabular data model might create ambiguous paths in the chain of relationships, resulting in very dangerous models as numbers become unpredictable. 
     * [Hiding future dates for calculations in DAX](https://www.sqlbi.com/articles/hiding-future-dates-for-calculations-in-dax/) - This article describes how to write DAX measures that compute aggregations or comparisons with past dates without showing or comparing future dates.
 
-
+-----
 ## M
 * [Basics of M - Power Query Formula Language](http://radacad.com/basics-of-m-power-query-formula-language)
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
@@ -263,7 +263,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Document all Power Query M code without copy pasting it (Video)](https://www.youtube.com/watch?v=fseh56DYeLc) - Curbal
 
 
-
+-----
 ## Drivers
 * [32-bit Oracle Data Access Components (ODAC) with Oracle Developer Tools for Visual Studio](https://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html)
 * [Microsoft Access Database Engine 2010 Redistributable](https://www.microsoft.com/en-US/download/details.aspx?id=13255)
@@ -273,10 +273,11 @@ It is so easy to start with Power BI, but hard to master it.
 
 
 
-
+-----
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
 
+-----
 ## Special Features and Advanced Topics
 ### Dataflows
 * [Power BI dataflows January updates](https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-january-updates)
@@ -316,7 +317,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Create Power BI visuals using R](https://docs.microsoft.com/en-us/power-bi/desktop-r-visuals)
 
 
-
+-----
 ## Storytelling
 * Bill Shander
     * [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67)
@@ -328,23 +329,23 @@ It is so easy to start with Power BI, but hard to master it.
         * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)
         * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
 
-
+-----
 ## Styles and Themes
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 * [Themes Gallery](http://bit.ly/PowerBI-ThemeGallery)
 * [Turning a Corporate Color Palette into a Data Visualization Color Palette](https://www.sqlservercentral.com/blogs/turning-a-corporate-color-palette-into-a-data-visualization-color-palette)
-
+-----
 ## Competitive Analysis
 * [Power BI vs Tableau: A Data Analytics Duel](https://technologyadvice.com/blog/information-technology/power-bi-vs-tableau/)
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
 
-
+-----
 ## Summits and Conferences
 * [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit)
 * [Difinity Conference](http://difinity.co.nz/)
 * [Power Platform Summit](https://www.powerplatformsummit.com)
 
-
+-----
 ## Job Descriptions
 * [Power BI Interview Questions - Overview (Video)](https://www.youtube.com/watch?v=wafmxd0RE7Q) - Episode 1 | Learn some of the basic overview questions you'll hear or should ask in your tech interview with a Power BI developer (Pragmatic Works). 
 * [Power BI Interview Questions - Data Shaping Finished](https://www.youtube.com/watch?v=n_g_m_GNvEo) - Episode 2 | Learn common Power BI interview questions from the experts. This episode focuses on data shaping common interview questions.

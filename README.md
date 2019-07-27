@@ -20,7 +20,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Tools](#tools)
 * [Power BI Report Server](#power-bi-report-server)
 * [Books](#books)
-* [Groups and Social Media](#groups-and-social-media)
+* [Conferences, Groups and Social Media](#conferences-groups-and-social-media)
 * [Learning](#learning)
 * [Power BI Samples](#power-bi-samples)
 * [Exam 70-778](#exam-70-778)
@@ -40,7 +40,6 @@ It is so easy to start with Power BI, but hard to master it.
 * [Storytelling](#storytelling)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
-* [Summits and Conferences](#summits-and-conferences)
 * [Data - Job Descriptions](#job-descriptions)
 
 -----
@@ -188,7 +187,13 @@ It is so easy to start with Power BI, but hard to master it.
 * [The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios](https://amzn.to/2rSUTWX) - Steve Wexler
 * [The Truthful Art: Data, Charts, and Maps for Communication](https://amzn.to/2Va8VAB) - Alberto Cairo
 -----
-## Groups and Social Media
+## Conferences, Groups and Social Media
+
+### Summits and Conferences
+* [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit)
+* [Difinity Conference](http://difinity.co.nz/)
+* [Power Platform Summit](https://www.powerplatformsummit.com)
+
 ### LinkedIn Groups
 * [Enterprise Power BI](https://www.linkedin.com/groups/12004506/) - Sam McKay
 * [Microsoft Power BI](https://www.linkedin.com/groups/5096169/) - Clint Huijbers
@@ -340,11 +345,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI vs Tableau: A Data Analytics Duel](https://technologyadvice.com/blog/information-technology/power-bi-vs-tableau/)
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
 
------
-## Summits and Conferences
-* [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit)
-* [Difinity Conference](http://difinity.co.nz/)
-* [Power Platform Summit](https://www.powerplatformsummit.com)
+
 
 -----
 ## Job Descriptions

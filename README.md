@@ -196,6 +196,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Difinity Conference](http://difinity.co.nz/)
 * [Power Platform Summit](https://www.powerplatformsummit.com)
 * [Data Platform Summit](https://www.dataplatformgeeks.com)
+* [Power Platform World Tour](https://www.powerplatformworldtour.com)
 
 ### LinkedIn Groups
 * [Enterprise Power BI](https://www.linkedin.com/groups/12004506/) - Sam McKay

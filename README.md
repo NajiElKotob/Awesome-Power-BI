@@ -75,6 +75,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
 
+
 -----
 ## Learning
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
@@ -105,12 +106,16 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop March 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2018-feature-summary)
 * [Power BI Desktop February 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2018-feature-summary)
 * [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
+
 -----
 ## Official References
 
 ### Docs and Whitepapers
 * [Official Power BI Docs](https://docs.microsoft.com/power-bi)
 * [Power BI Whitepapers](http://bit.ly/PowerBIWhitepapers)
+
+### Roadmap
+* [Microsoft Power BI roadmap](https://powerbi.microsoft.com/en-us/roadmap/) - The Power BI public product roadmap provides a glimpse into the capabilities that will become available in the next wave of product updates.
 
 ### API and PowerShell
 * [REST API](https://docs.microsoft.com/en-us/rest/api/power-bi/) - Power BI REST API provides service endpoints for embedding, administration, and user resources.

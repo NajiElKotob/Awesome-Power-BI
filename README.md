@@ -22,7 +22,6 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Report Server](#power-bi-report-server)
 * [Books](#books)
 * [Conferences, Groups and Social Media](#conferences-groups-and-social-media)
-
 * [Power BI Samples](#power-bi-samples)
 * [Exam 70-778](#exam-70-778)
 * [Visuals](#visuals)
@@ -306,6 +305,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [Introducing Power BI data prep with dataflows](https://www.youtube.com/watch?v=0bJpCVj3JfQ) - Matthew Roche
 * [What is a Power BI dataflow? A deep dive on Dataflows for Power BI](https://www.youtube.com/watch?v=bkFG8s_9sGE) - Ruth Martinez
 * [What are the Use Cases of Dataflow for You in Power BI?](http://radacad.com/what-are-the-use-cases-of-dataflow-for-you-in-power-bi) -  Reza Rad
+
+### Star Schema
+* [Understand a star schema and the importance for Power BI](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema)
 
 ### Shared Dataset
 * [Use datasets across workspaces](https://docs.microsoft.com/en-us/power-bi/service-datasets-across-workspaces)

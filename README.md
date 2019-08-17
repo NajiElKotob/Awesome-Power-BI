@@ -12,6 +12,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Heroes at YouTube :star2:](#power-bi-heroes-at-youtube)
    * [Special Videos](#special-videos)
 * [Blogs](#blogs)
+* [Learning](#learning) :star:
 * [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
 * [Official References](#official-references)
     * [Docs and Whitepapers](#docs-and-whitepapers)
@@ -21,7 +22,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Report Server](#power-bi-report-server)
 * [Books](#books)
 * [Conferences, Groups and Social Media](#conferences-groups-and-social-media)
-* [Learning](#learning)
+
 * [Power BI Samples](#power-bi-samples)
 * [Exam 70-778](#exam-70-778)
 * [Visuals](#visuals)
@@ -63,6 +64,8 @@ It is so easy to start with Power BI, but hard to master it.
 * [Understanding relationships in DAX](https://www.sqlbi.com/tv/understanding-relationships-in-power-bi) - Alberto Ferrari
 * [Storytelling with Power BI](https://www.youtube.com/watch?v=I69w6TmWUUM) - Jeff Lumpkin 
 * [Dataflows The Integration Solution for Power BI](https://www.youtube.com/watch?v=1TqfmfSnAqs)
+
+
 -----
 ## Blogs
 * [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)
@@ -72,6 +75,13 @@ It is so easy to start with Power BI, but hard to master it.
 * Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
+
+-----
+## Learning
+* [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
+* [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
+* [Power BI Premium Demo](http://www.powerbiclickthrough.com/demos/powerbipremium)
+
 
 -----
 ## Power BI Desktop Feature Summary
@@ -217,11 +227,7 @@ It is so easy to start with Power BI, but hard to master it.
 ### Communities
 * [Power BI Community](https://community.powerbi.com) - Connect, learn and discuss with business intelligence experts and peers
 * [Power BI User Group](https://www.pbiusergroup.com) - Your Community. Your Connections. Your Questions Answered.
------
-## Learning
-* [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning)
-* [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
-* [Power BI Premium Demo](http://www.powerbiclickthrough.com/demos/powerbipremium)
+
 -----
 ## Power BI Samples
 * [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)

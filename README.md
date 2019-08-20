@@ -371,6 +371,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Job Descriptions
 * [Power BI Interview Questions - Overview (Video)](https://www.youtube.com/watch?v=wafmxd0RE7Q) - Episode 1 | Learn some of the basic overview questions you'll hear or should ask in your tech interview with a Power BI developer (Pragmatic Works). 
 * [Power BI Interview Questions - Data Shaping Finished](https://www.youtube.com/watch?v=n_g_m_GNvEo) - Episode 2 | Learn common Power BI interview questions from the experts. This episode focuses on data shaping common interview questions.
+* [Power BI Interview Questions - DAX](https://www.youtube.com/watch?v=PwVsRcB3p48) - Learn the best answers to give (or the questions to ask a candidate) in a Power BI DAX interview.
 * [Data Analyst job description - Workable](https://resources.workable.com/data-analyst-job-description)
 * [Data Analyst job description - Zippia](https://www.zippia.com/data-analyst-jobs/)
 * [Data Architect job description](https://resources.workable.com/data-architect-job-description)

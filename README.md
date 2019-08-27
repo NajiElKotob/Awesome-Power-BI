@@ -247,6 +247,7 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Visuals
 * [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - Marketplace visuals (215 Viz on August 2019)
+    * [Visual Awesomeness Unlocked: Pulse Chart](https://powerbi.microsoft.com/de-de/blog/visual-awesomeness-unlocked-pulse-chart/) - Lukasz Pawlowski
 * Visual Vocabulary
     * [Visual Vocabulary - Website](http://ft-interactive.github.io/visual-vocabulary/)
     * [Visual Vocabulary - Poster](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)

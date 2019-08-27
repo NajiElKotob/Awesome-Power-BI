@@ -270,6 +270,12 @@ It is so easy to start with Power BI, but hard to master it.
 * Matt Allington
     * [Evaluation Contexts in DAX - Level 200 (Video)](https://www.youtube.com/watch?v=1yWLhxYoq88)
     * [DAX 50 (Video)](https://exceleratorbi.com.au/my-mdis-presentations) - Matt Allington
+* Andy Brown (redgate Hub)
+    * [Creating Calculated Columns Using DAX](https://www.red-gate.com/simple-talk/sql/bi/creating-calculated-columns-using-dax/)
+    * [Creating Measures Using DAX](https://www.red-gate.com/simple-talk/sql/bi/creating-measures-using-dax/)
+    * [Using the DAX Calculate and Values Functions](https://www.red-gate.com/simple-talk/sql/bi/using-the-dax-calculate-and-values-functions/)
+    * [Using the FILTER Function in DAX](https://www.red-gate.com/simple-talk/sql/bi/using-the-filter-function-in-dax/)
+    * [Cracking DAX – the EARLIER and RANKX Functions](https://www.red-gate.com/simple-talk/sql/bi/cracking-dax-the-earlier-and-rankx-functions/)
 * SSMS
     * [Getting Started with the SSAS Tabular Model](https://www.red-gate.com/simple-talk/sql/reporting-services/getting-started-with-the-ssas-tabular-model-/) - Robert Sheldon
     * [Using DAX to retrieve tabular data](https://www.red-gate.com/simple-talk/sql/reporting-services/using-dax-to-retrieve-tabular-data) - Robert Sheldon

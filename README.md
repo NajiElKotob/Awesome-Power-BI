@@ -6,6 +6,7 @@
 ```sh
 It is so easy to start with Power BI, but hard to master it. 
 ```
+"Power BI is a suite of business analytics tools to analyze data and share insights. Monitor your business and get answers quickly with rich dashboards available on every device."
 
 ## Table of contents
 
@@ -310,6 +311,13 @@ It is so easy to start with Power BI, but hard to master it.
 
 -----
 ## Special Features and Advanced Topics
+
+### Q&A 
+* [Editing Q&A linguistic schemas](https://powerbi.microsoft.com/en-us/blog/editing-q-a-linguistic-schemas/)
+* [Q&A for Power BI consumers](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-q-and-a)
+* [Use Power BI Q&A to explore your data and create visuals](https://docs.microsoft.com/en-us/power-bi/power-bi-tutorial-q-and-a)
+
+
 ### Dataflows
 * [Power BI dataflows January updates](https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-january-updates)
 * [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/) - Matthew Roche

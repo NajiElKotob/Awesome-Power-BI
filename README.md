@@ -134,10 +134,13 @@ It is so easy to start with Power BI, but hard to master it.
 ### Tools
 * [DAX Formatter](https://www.sqlbi.com/tools/dax-formatter) - DAX Formatter is a free tool by SQLBI that transform raw DAX formulas into clean, beautiful and readable code.
 * [DAX Studio](https://www.sqlbi.com/tools/dax-studio/) - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Designer, Power Pivot for Excel, and Analysis Services Tabular.
+* [VertiPaq Analyzer](https://www.sqlbi.com/tools/vertipaq-analyzer/) - A useful tool to analyze VertiPaq storage structures for a data model in Analysis Services Tabular.
 * [Power BI Helper](http://radacad.com/power-bi-helper) 
 * [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
 * [Coolors](https://coolors.co/) - The super fast color schemes generator.
 * [Online Image Color Picker](https://pinetools.com/image-color-picker) 
+
+
 -----
 ## Power BI Report Server
 * Power BI Report Server

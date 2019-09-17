@@ -251,8 +251,10 @@ It is so easy to start with Power BI, but hard to master it.
 
 -----
 ## Visuals
-* [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - Marketplace visuals (215 Viz on August 2019)
+* [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - Marketplace visuals (217 Viz on September 2019)
     * [Visual Awesomeness Unlocked: Pulse Chart](https://powerbi.microsoft.com/de-de/blog/visual-awesomeness-unlocked-pulse-chart/) - Lukasz Pawlowski
+* Key Influencers
+    * [Exploring Key Influencers Algorithms with citizen tools](https://medium.com/@prickofdeath/exploring-key-influencers-algorithms-with-citizen-tools-850284d26dc6) (March 2019)
 * Visual Vocabulary
     * [Visual Vocabulary - Website](http://ft-interactive.github.io/visual-vocabulary/)
     * [Visual Vocabulary - Poster](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)

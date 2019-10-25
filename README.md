@@ -213,11 +213,12 @@ It is so easy to start with Power BI, but hard to master it.
 ## Conferences, Groups and Social Media
 
 ### Summits and Conferences
-* [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit)
-* [Difinity Conference](http://difinity.co.nz/)
-* [Power Platform Summit](https://www.powerplatformsummit.com)
-* [Data Platform Summit](https://www.dataplatformgeeks.com)
-* [Power Platform World Tour](https://www.powerplatformworldtour.com)
+* [Microsoft Business Applications Summit](https://www.microsoft.com/en-us/businessapplicationssummit) - microsoft.com
+* [Difinity Conference](http://difinity.co.nz/) - difinity.co.nz
+* [Power Platform Summit](https://www.powerplatformsummit.com) - powerplatformsummit.com
+* [Data Platform Summit](https://www.dataplatformgeeks.com) - dataplatformgeeks.com
+* [Power Platform World Tour](https://www.powerplatformworldtour.com) - powerplatformworldtour.com
+* [Open Data Science Conference](https://odsc.com/) - odsc.com
 
 ### LinkedIn Groups
 * [Enterprise Power BI](https://www.linkedin.com/groups/12004506/) - Sam McKay

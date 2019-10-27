@@ -6,3 +6,4 @@
 * [Traffic Accidents](http://bit.ly/TrafficAccidents-PowerBI)
 * [Titanic ](http://bit.ly/TitanicSurvival-PowerBI)
 * [Big City](http://j.mp/BigCity-DEMO)
+* [IMDb](http://j.mp/IMDb-PowerBI)

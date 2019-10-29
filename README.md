@@ -17,6 +17,8 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
 * [Official References](#official-references)
     * [Docs and Whitepapers](#docs-and-whitepapers)
+    * [Roadmap](#roadmap)
+    * [API and PowerShell](#api-and-powershell)
 * [Power BI Family and Tools](#power-bi-family-and-tools)
     * [Power BI Family](#power-bi-family)
     * [Tools](#tools)

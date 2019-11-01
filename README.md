@@ -54,6 +54,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Matt Alington [Excelerator BI](https://www.youtube.com/channel/UCJIC_Bi1VNsf2QTLOlcTrzA)
 * Microsoft [Microsoft Power BI](https://www.youtube.com/user/mspowerbi)
 * Ruth Pozuelo Martinez [Curbal](https://lnkd.in/dAfAQik)
+* Parker Stevens [BI Elite](https://www.youtube.com/channel/UC-h-wArcxJC8zBOD-UxfCOg)
 * Sam McKay [Enterprise DNA](https://www.youtube.com/channel/UCy2rBgj4M1tzK-urTZ28zcA)
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 

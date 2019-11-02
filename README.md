@@ -311,7 +311,9 @@ It is so easy to start with Power BI, but hard to master it.
 
 -----
 ## Drivers
-* [32-bit Oracle Data Access Components (ODAC) with Oracle Developer Tools for Visual Studio](https://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html)
+* Oracle
+    * [32-bit Oracle Data Access Components (ODAC) with Oracle Developer Tools for Visual Studio](https://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html)
+    * [64-bit Oracle Data Access Components (ODAC)](https://www.oracle.com/database/technologies/odac-downloads.html)
 * [Microsoft Access Database Engine 2010 Redistributable](https://www.microsoft.com/en-US/download/details.aspx?id=13255)
 * [MySQL Connectors and APIs](https://dev.mysql.com/doc/index-connectors.html)
 * [PostgreSQL](https://github.com/npgsql/Npgsql/releases)

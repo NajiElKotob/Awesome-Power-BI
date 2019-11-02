@@ -15,6 +15,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Blogs](#blogs)
 * [Learning](#learning) :star:
 * [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
+* [Power BI Service and Mobile Feature Summary](#power-bi-service-and-mobile-feature-summary)
 * [Official References](#official-references)
     * [Docs and Whitepapers](#docs-and-whitepapers)
     * [Roadmap](#roadmap)

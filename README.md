@@ -34,6 +34,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Drivers](#drivers)
 * [Datasets](#datasets)
 * [Special Features and Advanced Topics](#special-features-and-advanced-topics)
+    * [Q&A](#q&a)
     * [Dataflows](#dataflows)
     * [Aggregation](#aggregation)
     * [Machine Learning](#machine-learning)

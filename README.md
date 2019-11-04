@@ -285,13 +285,16 @@ It is so easy to start with Power BI, but hard to master it.
     * [Certifying Custom Visuals For Power BI](https://datachant.com/2018/09/18/governing-custom-visuals-power-bi-2/)
 -----
 ## DAX
-* [DAX basics in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics)
-* [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
-* [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
-* [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
-* [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
-* [Advanced DAX (Video)](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari
-* SQLBI [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/)
+* Microsoft Docs
+    * [Introduction to DAX](https://docs.microsoft.com/en-us/power-bi/guided-learning/introductiontodax)
+    * [DAX basics in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics)
+    * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
+* SQLBI 
+    * [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/) :star:
+    * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
+    * [Advanced DAX (Video)](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari
+    * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
+    * [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
 * Matt Allington
     * [Evaluation Contexts in DAX - Level 200 (Video)](https://www.youtube.com/watch?v=1yWLhxYoq88)
     * [DAX 50 (Video)](https://exceleratorbi.com.au/my-mdis-presentations) - Matt Allington

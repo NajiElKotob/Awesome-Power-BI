@@ -43,6 +43,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Python](#python)
     * [R](#r)
 * [Storytelling](#storytelling)
+* [Templates and Showcases](#templates-and-showcases)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
 * [Data - Job Descriptions](#job-descriptions)
@@ -405,6 +406,11 @@ It is so easy to start with Power BI, but hard to master it.
         * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)
         * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
 
+-----
+## Templates and Showcases
+* [Campaign and Brand Management Solution Templates for Twitter](https://app.powerbi.com/view?r=eyJrIjoiODFkOGZhOTctZjQ2OC00NGFiLThmZTAtOTAwOTk2NjYyNzQzIiwidCI6IjA4YTBiODI0LTU2ZjktNDk4My1hYzhhLTNmZDM3M2Y2ODQ2NiIsImMiOjF9)
+    * [Campaign/Brand Management for Twitter (Video)](https://www.youtube.com/watch?v=c3POKgojksw)
+    
 -----
 ## Styles and Themes
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)

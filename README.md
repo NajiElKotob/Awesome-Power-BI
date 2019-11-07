@@ -16,6 +16,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Learning](#learning) :star:
 * [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
 * [Power BI Service and Mobile Feature Summary](#power-bi-service-and-mobile-feature-summary)
+    * [Power BI Samples](#power-bi-samples)
 * [Official References](#official-references)
     * [Docs and Whitepapers](#docs-and-whitepapers)
     * [Roadmap](#roadmap)
@@ -26,13 +27,11 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Report Server](#power-bi-report-server)
 * [Books](#books)
 * [Conferences, Groups and Social Media](#conferences-groups-and-social-media)
-* [Power BI Samples](#power-bi-samples)
 * [Exam 70-778](#exam-70-778)
 * [Visuals](#visuals)
+* [Storytelling](#storytelling)
 * [DAX](#dax)
 * [M](#m)
-* [Drivers](#drivers)
-* [Datasets](#datasets)
 * [Special Features and Advanced Topics](#special-features-and-advanced-topics)
     * [Q&A](#qa)
     * [Dataflows](#dataflows)
@@ -42,7 +41,8 @@ It is so easy to start with Power BI, but hard to master it.
     * [Power Platform](#power-platform)
     * [Python](#python)
     * [R](#r)
-* [Storytelling](#storytelling)
+* [Drivers](#drivers)
+* [Datasets](#datasets)
 * [Templates and Showcases](#templates-and-showcases)
 * [Styles and Themes](#styles-and-themes)
 * [Competitive Analysis](#competitive-analysis)
@@ -116,6 +116,10 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop March 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2018-feature-summary)
 * [Power BI Desktop February 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2018-feature-summary)
 * [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
+
+### Power BI Samples
+* [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
+* [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
 
 -----
 ## Power BI Service and Mobile Feature Summary
@@ -255,10 +259,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Community](https://community.powerbi.com) - Connect, learn and discuss with business intelligence experts and peers
 * [Power BI User Group](https://www.pbiusergroup.com) - Your Community. Your Connections. Your Questions Answered.
 
------
-## Power BI Samples
-* [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
-* [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
+
 -----
 ## Exam 70-778
 * [Exam 70-778](https://www.microsoft.com/en-us/learning/exam-70-778.aspx) - Analyzing and Visualizing Data with Microsoft Power BI
@@ -284,6 +285,22 @@ It is so easy to start with Power BI, but hard to master it.
     * [Node.js](https://nodejs.org)
 * Related Articles
     * [Certifying Custom Visuals For Power BI](https://datachant.com/2018/09/18/governing-custom-visuals-power-bi-2/)
+
+-----
+## Storytelling
+* Bill Shander
+    * [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67)
+    * [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f)
+* Hans Rosling
+    * [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w)
+* Neil Halloran
+    * [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
+* Erin Ostrowsky (Pragmatic Works)
+    * [Intro to Data Storytelling Vizualization with Power BI](https://www.youtube.com/watch?v=WKWP_-6YmFE)
+* Storytelling with data and Power BI
+    * Ruth Pozuelo Martinez
+        * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)
+        * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
 -----
 ## DAX
 * Microsoft Docs
@@ -323,21 +340,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Document all Power Query M code without copy pasting it (Video)](https://www.youtube.com/watch?v=fseh56DYeLc) - Curbal
 
 
------
-## Drivers
-* Oracle
-    * [32-bit Oracle Data Access Components (ODAC) with Oracle Developer Tools for Visual Studio](https://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html)
-    * [64-bit Oracle Data Access Components (ODAC)](https://www.oracle.com/database/technologies/odac-downloads.html)
-* [Microsoft Access Database Engine 2010 Redistributable](https://www.microsoft.com/en-US/download/details.aspx?id=13255)
-* [MySQL Connectors and APIs](https://dev.mysql.com/doc/index-connectors.html)
-* [PostgreSQL](https://github.com/npgsql/Npgsql/releases)
 
-
-
-
------
-## Datasets
-* [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
 
 -----
 ## Special Features and Advanced Topics
@@ -391,21 +394,19 @@ It is so easy to start with Power BI, but hard to master it.
 * [Create Power BI visuals using R](https://docs.microsoft.com/en-us/power-bi/desktop-r-visuals)
 
 
+
 -----
-## Storytelling
-* Bill Shander
-    * [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67)
-    * [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f)
-* Hans Rosling
-    * [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w)
-* Neil Halloran
-    * [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
-* Erin Ostrowsky (Pragmatic Works)
-    * [Intro to Data Storytelling Vizualization with Power BI](https://www.youtube.com/watch?v=WKWP_-6YmFE)
-* Storytelling with data and Power BI
-    * Ruth Pozuelo Martinez
-        * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)
-        * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
+## Drivers
+* Oracle
+    * [32-bit Oracle Data Access Components (ODAC) with Oracle Developer Tools for Visual Studio](https://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html)
+    * [64-bit Oracle Data Access Components (ODAC)](https://www.oracle.com/database/technologies/odac-downloads.html)
+* [Microsoft Access Database Engine 2010 Redistributable](https://www.microsoft.com/en-US/download/details.aspx?id=13255)
+* [MySQL Connectors and APIs](https://dev.mysql.com/doc/index-connectors.html)
+* [PostgreSQL](https://github.com/npgsql/Npgsql/releases)
+
+-----
+## Datasets
+* [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
 
 -----
 ## Templates and Showcases

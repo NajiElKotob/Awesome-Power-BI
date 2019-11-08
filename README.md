@@ -27,7 +27,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Report Server](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Report%20Server.md)
 * [Books](#books)
 * [Conferences, Groups and Social Media](#conferences-groups-and-social-media)
-* [Exam 70-778](#exam-70-778)
+* [Exam 70-778](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Exam%2070-778.md)
 * [Visuals](#visuals)
 * [Storytelling](#storytelling)
 * [DAX](#dax)
@@ -212,13 +212,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI User Group](https://www.pbiusergroup.com) - Your Community. Your Connections. Your Questions Answered.
 
 
------
-## Exam 70-778
-* [Exam 70-778](https://www.microsoft.com/en-us/learning/exam-70-778.aspx) - Analyzing and Visualizing Data with Microsoft Power BI
-* [Microsoft Power BI Exam Ref 70-778](https://amzn.to/2UIB1Tz) - Daniil Maslyuk
-* [Tips on Preparing for Microsoft Certifications (Video)](https://www.youtube.com/watch?v=Kf1IoZokm4g) - Pragmatic Works
-* [Preparing for Power BI Certification Exam 70-778: Level 1 (Video)](https://www.youtube.com/watch?v=CTgzCTFMNnk) - Ted Pattison
-* [Prepare for the Power BI Certification 70-778 (Video)](https://www.youtube.com/playlist?list=PLv2BtOtLblH1dQPV49Ni12olDcUoW-GEl) - Guy in a Cube
+
 
 -----
 ## Visuals

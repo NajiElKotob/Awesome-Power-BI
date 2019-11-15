@@ -94,6 +94,7 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Power BI Desktop Feature Summary
 ### 2019
+* [Power BI Desktop November 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-2019-feature-summary)
 * [Power BI Desktop October 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-october-2019-feature-summary)
 * [Power BI Desktop September 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-september-2019-feature-summary)
 * [Power BI Desktop August 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2019-feature-summary)
@@ -217,10 +218,7 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Visuals
 * [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - Marketplace visuals (223 Viz on October 2019)
-    * [Visual Awesomeness Unlocked: Pulse Chart](https://powerbi.microsoft.com/de-de/blog/visual-awesomeness-unlocked-pulse-chart/) - Lukasz Pawlowski
-    * [Interactive Sanddance Demo](https://sanddance.azurewebsites.net) - Microsoft Research
-* Key Influencers
-    * [Exploring Key Influencers Algorithms with citizen tools](https://medium.com/@prickofdeath/exploring-key-influencers-algorithms-with-citizen-tools-850284d26dc6) (March 2019)
+* [Power BI Custom Visuals (Resources and References)](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Custom%20Visuals.md) - Naji El Kotob
 * Visual Vocabulary
     * [Visual Vocabulary - Website](http://ft-interactive.github.io/visual-vocabulary/)
     * [Visual Vocabulary - Poster](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)

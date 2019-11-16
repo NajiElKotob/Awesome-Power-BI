@@ -5,6 +5,12 @@
 ### [Custom Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - appsource.microsoft.com
 -----
 
+### Esri ArcGIS Maps
+* [Power BI and Esri ArcGIS](https://powerbi.microsoft.com/en-us/power-bi-esri-arcgis/)
+* [Bring your data to life](https://doc.arcgis.com/en/maps-for-powerbi/) - arcgis.com
+* [Esri ArcGIS Online and Plus subscription](https://powerbi.microsoft.com/en-us/blog/esri-arcgis-online-and-plus-organizational-purchase-now-available-for-arcgis-maps-for-power-bi/) - Microsoft
+
+
 ### Key Influencers
 * [Exploring Key Influencers Algorithms with citizen tools](https://medium.com/@prickofdeath/exploring-key-influencers-algorithms-with-citizen-tools-850284d26dc6) (March 2019)
 

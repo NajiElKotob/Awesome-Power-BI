@@ -347,6 +347,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [64-bit Oracle Data Access Components (ODAC)](https://www.oracle.com/database/technologies/odac-downloads.html)
 * [Microsoft Access Database Engine 2010 Redistributable](https://www.microsoft.com/en-US/download/details.aspx?id=13255)
 * [MySQL Connectors and APIs](https://dev.mysql.com/doc/index-connectors.html)
+* [Use SAP HANA in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-sap-hana)
 * [PostgreSQL](https://github.com/npgsql/Npgsql/releases)
 
 -----

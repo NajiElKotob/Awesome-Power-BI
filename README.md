@@ -136,6 +136,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ### Docs and Whitepapers
 * [Official Power BI Docs](https://docs.microsoft.com/power-bi)
+* [Power BI guidance documentation](https://docs.microsoft.com/en-us/power-bi/guidance/) - Microsoft Docs
 * [Power BI Whitepapers](http://bit.ly/PowerBIWhitepapers)
 
 ### Roadmap

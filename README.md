@@ -318,6 +318,8 @@ It is so easy to start with Power BI, but hard to master it.
 * [Aggregations for petabyte-scale](https://powerbi.microsoft.com/en-us/blog/aggregations-for-petabyte-scale-bi-available-in-the-power-bi-service/) - Christian Wade
     * [Aggregations in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-aggregations)
 * [Create the Aggregated Table](http://radacad.com/power-bi-aggregation-step-1-create-the-aggregated-table) -  Reza Rad @ RADACAD Blog
+* [Aggregations in Power BI](https://shabnamwatson.wordpress.com/2019/11/21/aggregations-in-power-bi/) - Shabnam Watson
+
 
 ### Machine Learning
 * [Creating Machine Learning models in Power BI](https://powerbi.microsoft.com/en-us/blog/creating-machine-learning-models-in-power-bi/)

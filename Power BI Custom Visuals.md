@@ -20,6 +20,12 @@
 ### SandDance
 * [Interactive Sanddance Demo](https://sanddance.azurewebsites.net) - Microsoft Research
 
+### Synoptic Panel
+* [Synoptic Panel by OKViz](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380873?src=office) - AppSource
+* [Visual Awesomeness Unlocked – Using the Synoptic Panel](https://powerbi.microsoft.com/fr-fr/blog/visual-awesomeness-unlocked-using-the-synoptic-panel/) - The Power BI Team
+* [How to use Synoptic Panel](https://okviz.com/blog/introducing-synoptic-panel-v1-4/) - OKViz
+* [Synoptic Designer for Power BI](https://synoptic.design/) - OKViz
+
 ### Timeline Storyteller
 * [Timeline Storyteller](https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104381136) - AppSource
 * [Interactive Demo](https://timelinestoryteller.com/app/) - Microsoft

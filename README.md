@@ -357,6 +357,8 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Datasets
 * [Awesome Datasets](https://github.com/NajiElKotob/Awesome-Datasets)
+### Power BI Datasets
+* [Contoso Sales for Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=46801) - Microsoft
 
 -----
 ## Templates and Showcases

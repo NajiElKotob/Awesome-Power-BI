@@ -77,11 +77,13 @@ It is so easy to start with Power BI, but hard to master it.
 ## Blogs
 * [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)
 * David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
+* [Kasper On BI](https://www.kasperonbi.com/) - All about Power BI, Modelling, DAX and Microsoft BI
 * Imke Feldmann [The BIccountant](https://www.thebiccountant.com/category/power-bi/)
 * Marco Russo and Alberto Ferrari [SQLBI](https://www.sqlbi.com/articles/?author=&tag_id=401)
 * Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
+
 
 
 -----

@@ -49,6 +49,7 @@
 * [Branding the web portal](https://docs.microsoft.com/en-us/sql/reporting-services/branding-the-web-portal)
 * [Manage content in the web portal](https://docs.microsoft.com/en-us/power-bi/report-server/getting-around)
 * [Work with shared datasets](https://docs.microsoft.com/en-us/sql/reporting-services/work-with-shared-datasets-web-portal)
+    * [Connect to OData feeds in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-connect-odata)
 * [Create shared data sources and datasets for your reports (Video)](https://channel9.msdn.com/Events/DataDriven/SQLServer2016/shared-data-sources-and-datasets-for-your-reports)
 
 -----

@@ -109,19 +109,8 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop April 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-april-2019-feature-summary)
 * [Power BI Desktop March 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2019-feature-summary)
 * [Power BI Desktop February 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2019-feature-summary)
-### 2018
-* [Power BI Desktop December 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-december-2018-feature-summary)
-* [Power BI Desktop November 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-2018-feature-summary)
-* [Power BI Desktop October 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-october-2018-feature-summary)
-* [Power BI Desktop September 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-september-2018-feature-summary)
-* [Power BI Desktop August 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary)
-* [Power BI Desktop July 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2018-feature-summary)
-* [Power BI Desktop June 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2018-feature-summary)
-* [Power BI Desktop May 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2018-feature-summary)
-* [Power BI Desktop April 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-april-2018-feature-summary)
-* [Power BI Desktop March 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2018-feature-summary)
-* [Power BI Desktop February 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2018-feature-summary)
-* [Power BI Desktop January 2018 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-january-2018-feature-summary)
+### Previous years
+* [Power BI Desktop Feature Summary History](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Desktop%20Feature%20Summary.md)
 
 ### Power BI Samples
 * [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)

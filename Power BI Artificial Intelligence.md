@@ -6,3 +6,5 @@
 * [Automated Machine Learning in Power BI](https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated) 
 * [Quick Insights](https://docs.microsoft.com/en-us/power-bi/service-insights)
 * [Use the decomposition tree visual in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
+* [Add a column from an example](https://docs.microsoft.com/en-us/power-bi/desktop-add-column-from-example)
+* [Get data from a Web page by providing an example](https://docs.microsoft.com/en-us/power-bi/desktop-connect-to-web-by-example)

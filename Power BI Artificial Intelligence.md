@@ -1,1 +1,8 @@
 # Power BI Artificial Intelligence (AI)
+* [Use AI Insights in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-ai-insights)
+* [Use insights in Power BI Desktop to explain increases and decreases seen in visuals](https://docs.microsoft.com/en-us/power-bi/desktop-insights) 
+* [Key influencers visualization](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers)
+* [Introduction to Power BI Q&A visual](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-q-and-a)
+* [Automated Machine Learning in Power BI](https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated) 
+* [Quick Insights](https://docs.microsoft.com/en-us/power-bi/service-insights)
+* [Use the decomposition tree visual in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)

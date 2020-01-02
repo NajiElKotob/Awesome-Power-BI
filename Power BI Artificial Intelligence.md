@@ -1,4 +1,9 @@
 # Power BI Artificial Intelligence (AI)
+-----
+It is crucial for data analysts to explore and visualize data to help their stakeholders gain effective insights quickly. Business demands have evolved from executives asking what, which and when something happened, to asking why it happened and what will occur in the future. AI is the answer and Power BI adopted AI for analysts and business decision-makers!
+
+-----
+
 * [Use AI Insights in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-ai-insights)
 * [Use insights in Power BI Desktop to explain increases and decreases seen in visuals](https://docs.microsoft.com/en-us/power-bi/desktop-insights) 
 * [Key influencers visualization](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers)

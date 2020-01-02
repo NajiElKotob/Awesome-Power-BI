@@ -4,6 +4,7 @@ It is crucial for data analysts to explore and visualize data to help their stak
 
 -----
 
+## AI is Changing Power BI
 * [Use AI Insights in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-ai-insights)
 * [Use insights in Power BI Desktop to explain increases and decreases seen in visuals](https://docs.microsoft.com/en-us/power-bi/desktop-insights) 
 * [Key influencers visualization](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers)

@@ -292,16 +292,6 @@ It is so easy to start with Power BI, but hard to master it.
 * [Use Power BI Q&A to explore your data and create visuals](https://docs.microsoft.com/en-us/power-bi/power-bi-tutorial-q-and-a)
 
 
-### Dataflows
-* [A Beginner s Guide to dataflows in Power BI (Video)](https://www.youtube.com/watch?v=Z7WP__fGhy8) - Pragmatic Works
-* [Power BI dataflows January updates](https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-january-updates)
-* [Power BI Dataflows FAQ](https://ssbipolar.com/2018/11/27/power-bi-dataflows-faq/) - Matthew Roche
-* [Power BI data prep with dataflows](https://powerbi.microsoft.com/en-us/blog/introducing-power-bi-data-prep-wtih-dataflows/) - Adi Regev
-* [A quick look at Power BI dataflows](https://www.youtube.com/watch?v=veuxofp0ZIg) - Adam Saxton
-* [Introducing Power BI data prep with dataflows](https://www.youtube.com/watch?v=0bJpCVj3JfQ) - Matthew Roche
-* [What is a Power BI dataflow? A deep dive on Dataflows for Power BI](https://www.youtube.com/watch?v=bkFG8s_9sGE) - Ruth Martinez
-* [What are the Use Cases of Dataflow for You in Power BI?](http://radacad.com/what-are-the-use-cases-of-dataflow-for-you-in-power-bi) -  Reza Rad
-
 ### Star Schema
 * [Understand a star schema and the importance for Power BI](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema)
 

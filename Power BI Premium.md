@@ -7,3 +7,4 @@ Power BI Premium offers advanced, self-service data preparation that allows ever
 
 
 * [Power BI Premium FAQ](https://docs.microsoft.com/en-us/power-bi/service-premium-faq)
+* [Power BI Premium Whitepaper](https://go.microsoft.com/fwlink/?LinkId=874413&clcid=0x409)

@@ -158,6 +158,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [VertiPaq Analyzer](https://www.sqlbi.com/tools/vertipaq-analyzer/) - A useful tool to analyze VertiPaq storage structures for a data model in Analysis Services Tabular.
 * [Power BI Helper](http://radacad.com/power-bi-helper) 
 * [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
+* [Power BI Data Connection file PBIDS](https://connections.powerbi.tips/)
 * [Coolors](https://coolors.co/) - The super fast color schemes generator.
 * [Online Image Color Picker](https://pinetools.com/image-color-picker) 
 

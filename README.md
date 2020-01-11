@@ -67,6 +67,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Microsoft Power BI: BI power hour](https://www.youtube.com/watch?v=yNdNZwzPV1Y) - All the BI gangs are here (June 2019)
 * [Microsoft Power BI: Premium capacity (June 2019)](https://www.youtube.com/watch?v=C6vk6wk9dcw) - In what cases you should use it, how to perform capacity planning in various deployment scenarios, and how your users can leverage unique features in Premium to utilize the Premium capacity more efficiently.
 * [Fusing AI and data visualization (October 2018, Ignite 18)](https://www.youtube.com/watch?v=G3Vxys_jsqY)
+* [Data prep and wrangling with Microsoft Power BI Desktop](https://www.microsoft.com/en-us/businessapplicationssummit/video/BAS2018-2167) - Miguel Llopis (July 2018)
 * [Microsoft Power BI: The future of modern BI - Roadmap and Vision](https://www.youtube.com/watch?v=8WhXCwHynEE)
 * [Enterprise-grade BI with Power BI dataflows](https://community.powerbi.com/t5/MBAS-Gallery/Microsoft-Power-BI-Enterprise-grade-BI-with-Power-BI-dataflows/m-p/711416) - Cristian Petculescu, Mohammad Ali
 * [Analyzing country data in less than 60 minutes](https://www.youtube.com/watch?v=EcMXA6uiz9A) - Marc Reguera

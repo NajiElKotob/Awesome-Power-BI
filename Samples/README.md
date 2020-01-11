@@ -9,3 +9,4 @@
   * [Retail Analysis sample (PBIX)](https://download.microsoft.com/download/9/6/D/96DDC2FF-2568-491D-AAFA-AFDD6F763AE3/Retail%20Analysis%20Sample%20PBIX.pbix)
   * [Sales and Marketing sample (PBIX)](https://download.microsoft.com/download/9/7/6/9767913A-29DB-40CF-8944-9AC2BC940C53/Sales%20and%20Marketing%20Sample%20PBIX.pbix)
   * [Supplier Quality Analysis sample (PBIX)](https://download.microsoft.com/download/8/C/6/8C661638-C102-4C04-992E-9EA56A5D319B/Supplier-Quality-Analysis-Sample-PBIX.pbix)
+  * [Financial Sample workbook (Excel)](https://go.microsoft.com/fwlink/?LinkID=521962)

@@ -301,6 +301,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ### Shared Dataset
 * [Use datasets across workspaces](https://docs.microsoft.com/en-us/power-bi/service-datasets-across-workspaces)
+* [New Power BI Reports from a Golden Dataset](https://exceleratorbi.com.au/new-power-bi-reports-golden-dataset/) - Matt Allington (June 2018)
 
 ### Aggregation
 * [Aggregations for petabyte-scale](https://powerbi.microsoft.com/en-us/blog/aggregations-for-petabyte-scale-bi-available-in-the-power-bi-service/) - Christian Wade

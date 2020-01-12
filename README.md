@@ -364,6 +364,10 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI vs Tableau: A Data Analytics Duel](https://technologyadvice.com/blog/information-technology/power-bi-vs-tableau/)
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
 
+### Demos
+* [Power BI Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
+* [Tableau Solutions Gallery](http://tableau.com/solutions/gallery)
+* [Qlik Sense](https://sense-demo.qlik.com/hub/stream/aaec8d41-5201-43ab-809f-3063750dfafd)
 
 
 -----

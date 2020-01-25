@@ -61,7 +61,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Ruth Pozuelo Martinez [Curbal](https://lnkd.in/dAfAQik)
 * Parker Stevens [BI Elite](https://www.youtube.com/channel/UC-h-wArcxJC8zBOD-UxfCOg)
 * [Pragmatic Work](https://www.youtube.com/channel/UC5CugyvTdOloiuTc9nN09TA)
-* Sam McKay [Enterprise DNA](https://www.youtube.com/channel/UCy2rBgj4M1tzK-urTZ28zcA) - 
+* Sam McKay [Enterprise DNA](https://www.youtube.com/channel/UCy2rBgj4M1tzK-urTZ28zcA) 
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 ### Special Videos
@@ -141,6 +141,8 @@ It is so easy to start with Power BI, but hard to master it.
 ### Roadmap
 * [Microsoft Power BI roadmap](https://powerbi.microsoft.com/en-us/roadmap/) - The Power BI public product roadmap provides a glimpse into the capabilities that will become available in the next wave of product updates.
     * [What's new and planned for Business intelligence](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/business-intelligence/planned-features)
+* [Power BI Ideas (Top Ideas)](https://ideas.powerbi.com/forums/265200-power-bi-ideas/filters/top)
+
 ### API and PowerShell
 * [REST API](https://docs.microsoft.com/en-us/rest/api/power-bi/) - Power BI REST API provides service endpoints for embedding, administration, and user resources.
 * [Microsoft Power BI Cmdlets](https://docs.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps) - Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell Core

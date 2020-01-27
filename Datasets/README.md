@@ -1,8 +1,9 @@
 # Power BI datasets samples
 * AdventureWorks
-* VanArsdel
 * Coffee and Code
 * ENA (Europe and North America) Sales
+* Gapminder
+* IMDb
 * Sales Matrix
 * Sales Person
-* Gapminder
+* VanArsdel

@@ -6,7 +6,7 @@
 ```sh
 It is so easy to start with Power BI, but hard to master it. 
 ```
-"Power BI is a suite of business analytics tools to analyze data and share insights. Monitor your business and get answers quickly with rich dashboards available on every device."
+"Power BI is a business analytics solution that lets you visualize your data and share insights across your organization, or embed them in your app or website. Connect to hundreds of data sources and bring your data to life with live dashboards and reports."
 
 ## Table of contents
 

@@ -387,6 +387,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Data Architect job description](https://resources.workable.com/data-architect-job-description)
 * [Data Scientist job description](https://resources.workable.com/data-scientist-job-description)
 * [List of Job Descriptions](https://resources.workable.com/job-descriptions/)
+* [Power BI is Hiring](https://dxt.powerbi.com/view?r=eyJrIjoiOWNlOGZiZjMtNTVlYy00ZWVmLThkNDgtYzUzZTAxODE5OWM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjJ9) - Microsoft
 
 <br/>[:top:](#table-of-contents)
 

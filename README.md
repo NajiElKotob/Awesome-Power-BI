@@ -36,7 +36,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Q&A](#qa)
     * [Dataflows](#dataflows)
     * [Aggregation](#aggregation)
-    * [Machine Learning](#machine-learning)
+    * [Machine Learning](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Artificial%20Intelligence.md)
     * [Advanced Topics](#advanced-topics)
     * [Power Platform](#power-platform)
     * [Python](#python)
@@ -314,9 +314,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Aggregations in Power BI](https://shabnamwatson.wordpress.com/2019/11/21/aggregations-in-power-bi/) - Shabnam Watson
 
 
-### Machine Learning
-* [Creating Machine Learning models in Power BI](https://powerbi.microsoft.com/en-us/blog/creating-machine-learning-models-in-power-bi/)
-* [AI in Power BI (Video)](https://mybuild.techcommunity.microsoft.com/sessions/77088?source=sessions&ref=najielkotob) - AI can help everyone in an organization automatically find patterns in their data, understand what the data means, and predict future outcomes to help business drive results. 
+ 
 
 ### Advanced Topics
 * [Parameters and Templates](https://powerbi.microsoft.com/en-us/blog/deep-dive-into-query-parameters-and-power-bi-templates) - Deep Dive into Query Parameters and Power BI Templates

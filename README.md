@@ -244,6 +244,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w)
 * Neil Halloran
     * [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
+* [Stephanie Starling](http://www.stephaniestarling.com/) - freelance researcher and data journalist
 * Erin Ostrowsky (Pragmatic Works)
     * [Intro to Data Storytelling Vizualization with Power BI](https://www.youtube.com/watch?v=WKWP_-6YmFE)
 * Storytelling with data and Power BI

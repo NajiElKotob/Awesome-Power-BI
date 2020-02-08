@@ -65,6 +65,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 ### Special Videos
+* [Best practices in visualization creation in Power BI Desktop](https://www.youtube.com/watch?v=2QMhm_5HVyo) - Microsoft Power BI (February 2020)
 * [How to build custom visuals without code with Power BI](https://www.youtube.com/watch?v=lR_1n4Jcwww) - Mike Carlo (January 2020)
 * [Microsoft Power BI: BI power hour](https://www.youtube.com/watch?v=yNdNZwzPV1Y) - All the BI gangs are here (June 2019)
 * [Microsoft Power BI: Premium capacity (June 2019)](https://www.youtube.com/watch?v=C6vk6wk9dcw) - In what cases you should use it, how to perform capacity planning in various deployment scenarios, and how your users can leverage unique features in Premium to utilize the Premium capacity more efficiently.

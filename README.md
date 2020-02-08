@@ -230,13 +230,8 @@ It is so easy to start with Power BI, but hard to master it.
     * [Visual Vocabulary - Website](http://ft-interactive.github.io/visual-vocabulary/)
     * [Visual Vocabulary - Poster](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)
 * [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz is a classification of chart types based on input data format.
-* Developer
-    * [Create custom visuals for Power BI](https://powerbi.microsoft.com/en-us/developers/custom-visualization/)
-    * [D3.js](https://d3js.org) -  Data-Driven Documents
-    * [TypeScript](https://www.typescriptlang.org/)
-    * [Node.js](https://nodejs.org)
-* Related Articles
-    * [Certifying Custom Visuals For Power BI](https://datachant.com/2018/09/18/governing-custom-visuals-power-bi-2/)
+* [7 Gestalt principles of visual perception: cognitive psychology for UX](https://www.usertesting.com/blog/gestalt-principles/)
+* [What is the F-Pattern and How to Use It for Increased Conversions](https://instapage.com/blog/f-pattern-layout)
 
 -----
 ## Storytelling

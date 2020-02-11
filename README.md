@@ -238,6 +238,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Bill Shander
     * [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67)
     * [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f)
+    * [From Numbers to Narrative (Key Takeaways)](https://chapters.theiia.org/milwaukee/News/ChapterDocuments/Storytelling%20with%20Data%20-%20Key%20Takeaways%2009.19.08.pdf) 
 * Hans Rosling
     * [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w)
 * Neil Halloran

@@ -1,5 +1,6 @@
 # Power BI Reports
 
+* [Oil and Gas (Gapminder)](http://j.mp/OilGaz-PBI-NajiElKotob)
 * [Quality of Government](http://j.mp/QoG-NajiElKotob)
 * [OMSAR Expenses](http://bit.ly/OMSARExpenses-PowerBI)
 * [Banks Accounts Distribution (Unofficial)](http://j.mp/BanksAccountsDist-LB) - January 2020
@@ -10,4 +11,4 @@
 * [Big City](http://j.mp/BigCity-DEMO)
 * [IMDb](http://j.mp/IMDb-PowerBI)
 * [Sales Matrix](http://j.mp/SalesMatrix-PowerBI)
-* [Banks Accounts Distribution | Lebanon](http://j.mp/BanksAccountsDist-LB) - Unknown Source
+

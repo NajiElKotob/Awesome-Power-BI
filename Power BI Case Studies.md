@@ -9,3 +9,6 @@
 
 ## Insurance
 * [AXA ensures innovation in digital customer service and empowers employees with Microsoft 365](https://customers.microsoft.com/en-us/story/765562-axa-insurance-m365-casestudy)
+
+## IT Consulting and Services
+* [Avanade](https://customers.microsoft.com/en-us/story/788776-avanade-partner-professional-services-power-bi) - (February 2020)

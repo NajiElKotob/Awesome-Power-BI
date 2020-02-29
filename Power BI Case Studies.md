@@ -1,5 +1,10 @@
 # Power BI Case Studies
 
+## Government
+* [Abu Dhabi Digital Authority (ADDA)](https://customers.microsoft.com/en-US/story/779787-adda-government-azure-dynamics365-powerbi-uae)
+* [Check all the Customer Stories](https://customers.microsoft.com/en-US/search?sq=&ff=story_industry_friendlyname%26%3EGovernment%26%26story_product_categories%26%3EPower%20BI&p=1&so=story_publish_date%20desc)
+
+
 ## Banking
 * [The Saudi Investment Bank reforms operations with swift integration of Power BI](https://customers.microsoft.com/en-us/story/780556-the-saudi-investment-bank-banking-powerbi-saudi-arabia?_lrsc=a35917a3-7c46-4622-9ad8-49b466c2cef6)
 

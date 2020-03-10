@@ -277,6 +277,9 @@ It is so easy to start with Power BI, but hard to master it.
     * [Using the DAX Calculate and Values Functions](https://www.red-gate.com/simple-talk/sql/bi/using-the-dax-calculate-and-values-functions/)
     * [Using the FILTER Function in DAX](https://www.red-gate.com/simple-talk/sql/bi/using-the-filter-function-in-dax/)
     * [Cracking DAX – the EARLIER and RANKX Functions](https://www.red-gate.com/simple-talk/sql/bi/cracking-dax-the-earlier-and-rankx-functions/)
+* LazyDAX - Arnaud Gastelblum
+    * [Learn DAX from Examples](https://github.com/arnaudgastelblum/LazyDAX)
+    * [LazyDAX 2.0 (YouTube)](https://www.youtube.com/watch?v=cnPDlJqjBYE)
 * SSMS
     * [Getting Started with the SSAS Tabular Model](https://www.red-gate.com/simple-talk/sql/reporting-services/getting-started-with-the-ssas-tabular-model-/) - Robert Sheldon
     * [Using DAX to retrieve tabular data](https://www.red-gate.com/simple-talk/sql/reporting-services/using-dax-to-retrieve-tabular-data) - Robert Sheldon

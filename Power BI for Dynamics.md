@@ -9,3 +9,6 @@
 * [Dynamics AX](http://database.fun/)
 * [Microsoft Dynamics NAV Data Model](https://dynamicsdocs.com/) - NAV 2016/17/18
 
+### Business Central
+* [Enabling Your Business Data for Power BI](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi)
+

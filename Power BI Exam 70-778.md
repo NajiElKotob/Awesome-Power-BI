@@ -1,5 +1,9 @@
 # Power BI Exam 70-778
 
+```
+This exam retires on June 30, 2020. 
+```
+
 ## Microsoft
   * [Course 20-778](https://www.microsoft.com/en-us/learning/course.aspx?cid=20778) - Analyzing Data with Power BI
   * [Exam 70-778](https://www.microsoft.com/en-us/learning/exam-70-778.aspx) - Analyzing and Visualizing Data with Microsoft Power BI

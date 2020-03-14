@@ -1,7 +1,7 @@
 # Power BI Desktop Feature Summary
 
 ## 2020
-* [Power BI Desktop 2019 and 2020 Feature Summary](https://github.com/NajiElKotob/Awesome-Power-BI#power-bi-desktop-feature-summary)
+* [Power BI Desktop 2020 Feature Summary](https://github.com/NajiElKotob/Awesome-Power-BI#power-bi-desktop-feature-summary)
 
 ## 2019
 * [Power BI Desktop December 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-december-2019-feature-summary)

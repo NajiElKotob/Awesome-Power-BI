@@ -65,6 +65,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 ### Special Videos
+* [Creating custom visuals in Power BI using R script, JSON, and Charticulator](https://www.youtube.com/watch?v=qbUWt8PeafM) - Community Webinars (March 2020)
 * [Dataflow and shared dataset multi-developer architecture for Power BI](https://www.youtube.com/watch?v=qZF2pzGyIrg) - Microsoft Power BI (March 2020) 
 * [Data modelling in Power BI Desktop](https://www.youtube.com/watch?v=NLbW9Yft-5M) - Microsoft Power BI (February 2020)
 * [Self Service AI in Power BI Desktop (Community Webinar)](https://www.youtube.com/watch?v=9Uvudoj9-Gc) - Microsoft Power BI (February 2020)

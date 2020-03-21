@@ -153,6 +153,7 @@ It is so easy to start with Power BI, but hard to master it.
 ### Roadmap
 * [Microsoft Power BI roadmap](https://powerbi.microsoft.com/en-us/roadmap/) - The Power BI public product roadmap provides a glimpse into the capabilities that will become available in the next wave of product updates.
     * [What's new and planned for Business intelligence](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/business-intelligence/planned-features)
+* [Power Platform: 2020 release wave 1 plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/)
 * [Power BI Ideas (Top Ideas)](https://ideas.powerbi.com/forums/265200-power-bi-ideas/filters/top)
 
 ### API and PowerShell

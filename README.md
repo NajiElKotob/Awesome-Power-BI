@@ -144,6 +144,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Power BI Samples
 * [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
 * [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
+* [Themeable Backgrounds for Power BI](https://alluringbi.com/2020/05/05/themeable-backgrounds-for-power-bi/) - Chris Hamill (May 2020)
 
 -----
 ## Official References

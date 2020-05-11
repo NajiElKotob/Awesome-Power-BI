@@ -386,6 +386,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Alteryx Platform vs Microsoft Power BI](https://www.trustradius.com/compare-products/alteryx-platform-vs-microsoft-power-bi)
 * [Power BI vs Tableau: A Data Analytics Duel](https://technologyadvice.com/blog/information-technology/power-bi-vs-tableau/)
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
+* [Microsoft Power BI vs Google Chart](https://comparisons.financesonline.com/microsoft-power-bi-vs-google-chart-tools) - financesonline.com
 * [Microsoft named a Leader in Gartner’s 2020 Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartners-2020-magic-quadrant-for-analytics-and-bi-platforms/) - Gartner (Feburary 2020)
 
 

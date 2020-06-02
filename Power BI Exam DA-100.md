@@ -12,6 +12,7 @@ Power BI Exam DA-100
 * [Connect to data sources in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data) - Microsoft Docs
 * [Connect to an Access database (Video)](https://www.youtube.com/watch?v=S6s0osmRCZ4&list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP&index=6) - Power BI
 * [PBIDS (Power BI Desktop Source) Files](https://powerbi.tips/2019/10/make-pbids-files/) - powerbi.tips (October 2019)
+* [How To Change Data Source Of Existing Report In Power BI](https://www.c-sharpcorner.com/article/how-to-change-data-source-of-existing-report-in-power-bi/) - Sarvesh Shinde (February 2020)
 
 ### Model the data (25-30%)
 ### Visualize the data (20-25%)

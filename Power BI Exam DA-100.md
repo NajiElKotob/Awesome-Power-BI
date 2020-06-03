@@ -11,6 +11,7 @@ Power BI Exam DA-100
 ##### Get data from different data sources
 * [Connect to data sources in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data) - Microsoft Docs
 * [Connect to an Access database (Video)](https://www.youtube.com/watch?v=S6s0osmRCZ4&list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP&index=6) - Power BI
+* [Connect to data sources for Power BI dataflows](https://docs.microsoft.com/en-us/power-bi/transform-model/service-dataflows-data-sources) - Microsoft Docs
 * [PBIDS (Power BI Desktop Source) Files](https://powerbi.tips/2019/10/make-pbids-files/) - powerbi.tips (October 2019)
 * [How To Change Data Source Of Existing Report In Power BI](https://www.c-sharpcorner.com/article/how-to-change-data-source-of-existing-report-in-power-bi/) - Sarvesh Shinde (February 2020)
 

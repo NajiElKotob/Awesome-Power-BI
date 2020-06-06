@@ -4,7 +4,9 @@ Power BI Exam DA-100
 
 `Data Analysts enable businesses to maximize the value of their data assets by using Microsoft Power BI. As a subject matter expert, Data Analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations. Data Analysts also collaborate with key stakeholders across verticals to deliver relevant insights based on identified business requirements. The Data Analyst should have a fundamental understanding of data repositories and data processing both on-premises and in the cloud.`
 
-* [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100)
+## Exam
+* [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100) - Microsoft Certification can take you from the start of your career to its pinnacle. Certification can increase your visibility, differentiate you from your peers, and validate your knowledge and skills.
+* [About Microsoft Certification exams](https://docs.microsoft.com/en-us/learn/certifications/certification-exams)
 
 ## Skills measured
 ### Prepare the data (20-25%)

@@ -279,6 +279,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/) :star:
     * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
     * [Advanced DAX (Video)](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari
+    * [Deep dive into DAX evaluation context](https://youtu.be/teYwjHkCEm0) - Marco Russo (June 2019)
     * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
     * [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
 * Matt Allington

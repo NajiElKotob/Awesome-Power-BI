@@ -137,6 +137,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop Feature Summary History](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Desktop%20Feature%20Summary.md)
 
 ## Power BI Service and Mobile Feature Summary
+### 2020
+* [Power BI Service and Mobile _February and March 2020_ feature summary](https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-february-and-march-2020-feature-summary)
+
 ### 2019
 * [Power BI Service and Mobile _October and November 2019_ feature summary](https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-october-and-november-2019-feature-summary/)
 * [Power BI Service and Mobile _September 2019_ feature summary](https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-september-2019-feature-summary/)

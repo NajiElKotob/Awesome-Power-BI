@@ -65,6 +65,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 ### Special Videos
+* [Data modelling 101 with Power BI](https://www.youtube.com/watch?v=islhUWaCiJ0) (June 2020)
 * [How to build modern IoT solutions with Cosmos DB and Power BI](https://www.youtube.com/watch?v=SBk41L2SpuI) (June 2020)
 * [Data preparation tricks you should know for Power BI solutions](https://www.youtube.com/watch?v=jN87y6TbWXI) - Microsoft Power BI
 * [MBAS Recap with BIFocal](https://youtu.be/ZgBc-tHDa5k?t=431) - Guy in a Cube (May 2020)

@@ -17,10 +17,14 @@
 * [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/) - Power BI Report Server is the on-premises solution for reporting, with the flexibility to move to the cloud. 
 * [Power BI RS vs Power BI Service](https://docs.microsoft.com/en-us/power-bi/report-server/compare-report-server-service)
 * [What's new in Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/whats-new)
+* [What's new in Power BI Report Server](https://docs.microsoft.com/en-us/power-bi/report-server/whats-new)
+
 
 ## Feature Summary
 * [Power BI Report Server May 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2020-feature-summary/)
 * [Power BI Report Server January 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2020-feature-summary/)
+* [Power BI Report Server September 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-september-2019-feature-summary/)
+* [Power BI Report Server May 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-update-may-2019/)
 
 
 -----

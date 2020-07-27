@@ -65,6 +65,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 ### Special Videos
+* [Performance, Optimization, and Intelligent Error Handling in Power Query](https://www.youtube.com/watch?v=mD9gbgvLbEk) - Microsoft Power BI (July 2020)
 * [Thank You for 5 Years](https://www.youtube.com/watch?v=jPaG5Pi-68M) - Happy Birthday Power BI
 * [DAX Studio Release 2.11.1 (Tutorial)](https://www.youtube.com/watch?v=944Bc6QkKk4) (July 2020)
 * [Data modelling 101 with Power BI](https://www.youtube.com/watch?v=islhUWaCiJ0) (June 2020)

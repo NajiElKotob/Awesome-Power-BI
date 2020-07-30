@@ -145,6 +145,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 ## Power BI Service and Mobile Feature Summary
 ### 2020
+* [Power BI Service and Mobile May and June 2020 feature summary](https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-may-and-june-2020-feature-summary/)
 * [Power BI Service and Mobile _February and March 2020_ feature summary](https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-february-and-march-2020-feature-summary)
 
 ### 2019

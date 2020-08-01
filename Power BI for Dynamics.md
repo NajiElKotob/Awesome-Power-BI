@@ -14,6 +14,7 @@
 
 ### Business Central
 * [Enabling Your Business Data for Power BI](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi)
+* [How to create and embed a Power BI report into Dynamics 365 Business Central (Video)](https://www.youtube.com/watch?v=ZBDugiBZXDU) (April 2020)
 
 ### Business intelligence and reporting
 * [Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi) 

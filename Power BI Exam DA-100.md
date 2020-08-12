@@ -21,3 +21,6 @@ Power BI Exam DA-100
 ### Visualize the data (20-25%)
 ### Analyze the data (10-15%)
 ### Deploy and maintain deliverables (10-15%)
+
+## Kahoot
+* [Power BI Quiz with Will Thompson](https://www.youtube.com/watch?v=GHpm9EHVK4k)

@@ -23,4 +23,5 @@ Power BI Exam DA-100
 ### Deploy and maintain deliverables (10-15%)
 
 ## Kahoot
+* [Power BI Quiz with Adam Saxton](https://www.youtube.com/watch?v=KGWnrhILY7c)
 * [Power BI Quiz with Will Thompson](https://www.youtube.com/watch?v=GHpm9EHVK4k)

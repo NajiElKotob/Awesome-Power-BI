@@ -199,7 +199,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Data Connection file PBIDS](https://connections.powerbi.tips/)
 * [Coolors](https://coolors.co/) - The super fast color schemes generator.
 * [Online Image Color Picker](https://pinetools.com/image-color-picker) 
-
+* [Palettes and Theme Generator tool](https://gallery.powerbi.tips/) - powerbi.tips
 
     
 -----

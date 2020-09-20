@@ -1,8 +1,8 @@
 # Power BI Exam 70-778
 
-```
-This exam retires on June 30, 2020. 
-```
+
+This exam retired on June 30, 2020 (Knowledge has no expiry date). Please check the new version [DA-100](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Exam%20DA-100.md)
+
 
 ## Microsoft
   * [Course 20-778](https://www.microsoft.com/en-us/learning/course.aspx?cid=20778) - Analyzing Data with Power BI

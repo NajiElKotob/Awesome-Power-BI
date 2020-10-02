@@ -106,7 +106,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
-
+* [SQL Server Power BI Tips](https://www.mssqltips.com/sql-server-tip-category/211/power-bi/)
 
 
 -----

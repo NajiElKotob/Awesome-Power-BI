@@ -16,3 +16,6 @@ into an application by using user owns data.
 ## Tutorials
 * [Embed Power BI content into an application for your organization](https://docs.microsoft.com/en-us/power-bi/developer/embed-sample-for-your-organization)
 
+## Videos
+* [PBI API Service Principal Account](https://www.youtube.com/watch?v=wMdpLApYnCU) - SQLBI
+  * [Creating a service principal account for Power BI API](https://www.sqlbi.com/articles/creating-a-service-principal-account-for-power-bi-api/)

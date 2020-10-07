@@ -27,7 +27,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Report Server](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Report%20Server.md)
 * [Books](#books)
 * [Conferences, Groups and Social Media](#conferences-groups-and-social-media)
-* [Exam 70-778](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Exam%2070-778.md)
+* Exam
+  * [Exam DA-100](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Exam%20DA-100.md) - New
+  * [Exam 70-778](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Exam%2070-778.md)
 * [Visuals](#visuals)
 * [Storytelling](#storytelling)
 * [DAX](#dax)

@@ -1,4 +1,4 @@
-Power BI Exam DA-100
+# Power BI Exam DA-100
 
 {Work in Process, Stay Tuned}
 
@@ -11,11 +11,24 @@ Power BI Exam DA-100
 ## Skills measured
 ### Prepare the data (20-25%)
 ##### Get data from different data sources
-* [Connect to data sources in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data) - Microsoft Docs
-* [Connect to an Access database (Video)](https://www.youtube.com/watch?v=S6s0osmRCZ4&list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP&index=6) - Power BI
-* [Connect to data sources for Power BI dataflows](https://docs.microsoft.com/en-us/power-bi/transform-model/service-dataflows-data-sources) - Microsoft Docs
-* [PBIDS (Power BI Desktop Source) Files](https://powerbi.tips/2019/10/make-pbids-files/) - powerbi.tips (October 2019)
-* [How To Change Data Source Of Existing Report In Power BI](https://www.c-sharpcorner.com/article/how-to-change-data-source-of-existing-report-in-power-bi/) - Sarvesh Shinde (February 2020)
+* [Identify and connect to a data source](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data) - Microsoft Docs
+* Change data source settings
+  * [Manage data sources](https://docs.microsoft.com/en-us/power-bi/connect-data/service-gateway-data-sources)
+* [Select a shared dataset or create a local dataset]()
+* [Select a storage mode]()
+* [Choose an appropriate query type]()
+* [Identify query performance issues]()
+* [Use the Common Data Service (CDS)]()
+* [Use parameters]()
+
+* More
+  * [Connect to an Access database (Video)](https://www.youtube.com/watch?v=S6s0osmRCZ4&list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP&index=6) - Power BI
+  * [Connect to data sources for Power BI dataflows](https://docs.microsoft.com/en-us/power-bi/transform-model/service-dataflows-data-sources) - Microsoft Docs
+  * [PBIDS (Power BI Desktop Source) Files](https://powerbi.tips/2019/10/make-pbids-files/) - powerbi.tips (October 2019)
+  * [How To Change Data Source Of Existing Report In Power BI](https://www.c-sharpcorner.com/article/how-to-change-data-source-of-existing-report-in-power-bi/) - Sarvesh Shinde (February 2020)
+
+
+
 
 ### Model the data (25-30%)
 ### Visualize the data (20-25%)

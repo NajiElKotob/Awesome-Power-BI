@@ -181,6 +181,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [What's new and planned for Business intelligence](https://docs.microsoft.com/en-us/power-platform-release-plan/2019wave2/business-intelligence/planned-features)
 * [Power Platform: 2020 release wave 1 plan](https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/)
 * [Power BI Ideas (Top Ideas)](https://ideas.powerbi.com/forums/265200-power-bi-ideas/filters/top)
+* [Power BI Release Plan (PBI Report)](https://app.powerbi.com/view?r=eyJrIjoiYWE4ZDViNmQtNGMxMC00NGU0LTkwMmItM2RiNDFhNWUwODM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9&pageName=ReportSection) - Alex Powers
 
 ### API and PowerShell
 * [REST API](https://docs.microsoft.com/en-us/rest/api/power-bi/) - Power BI REST API provides service endpoints for embedding, administration, and user resources.

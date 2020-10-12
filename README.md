@@ -13,6 +13,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Heroes at YouTube :star2:](#power-bi-heroes-at-youtube)
    * [Special Videos](#special-videos)
 * [Blogs](#blogs)
+* [Podcast](#podcast)
 * [Learning](#learning) :star:
 * [Power BI Desktop Feature Summary](#power-bi-desktop-feature-summary)
 * [Power BI Service and Mobile Feature Summary](#power-bi-service-and-mobile-feature-summary)
@@ -110,6 +111,9 @@ It is so easy to start with Power BI, but hard to master it.
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
 * [SQL Server Power BI Tips](https://www.mssqltips.com/sql-server-tip-category/211/power-bi/)
 
+-----
+## Podcast
+* [Expert's Talk](https://ssbi-blog.de/podcast/experts-talk/) - Do you want to know what other Power BI experts think about certain aspects of Power BI? Here they share their expertise.
 
 -----
 ## Learning

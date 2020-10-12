@@ -114,6 +114,7 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Podcast
 * [Expert's Talk](https://ssbi-blog.de/podcast/experts-talk/) - Do you want to know what other Power BI experts think about certain aspects of Power BI? Here they share their expertise.
+* [Power BI & More](https://podcasts.apple.com/us/podcast/power-bi-more/id1457435035) - Ulrik Carlsson
 
 -----
 ## Learning

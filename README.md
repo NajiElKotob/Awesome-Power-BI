@@ -391,6 +391,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [MySQL Connectors and APIs](https://dev.mysql.com/doc/index-connectors.html)
 * [Use SAP HANA in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-sap-hana)
 * [PostgreSQL](https://github.com/npgsql/Npgsql/releases)
+* [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/sql-client-apps-powerbi.html)
 
 -----
 ## Datasets

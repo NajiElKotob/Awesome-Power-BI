@@ -68,6 +68,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 ### Special Videos
+* [Power BI Dev Camp: Writing PowerShell scripts for Power BI](https://www.youtube.com/watch?v=WaKvZgjTWmo) - Microsoft Power BI (October 2020) 
 * [Introduction to XMLA endpoints](https://www.youtube.com/watch?v=fHDDzEqtJcc) - Microsoft Power BI (August 2020) 
 * [Performance, Optimization, and Intelligent Error Handling in Power Query](https://www.youtube.com/watch?v=mD9gbgvLbEk) - Microsoft Power BI (July 2020)
 * [Thank You for 5 Years](https://www.youtube.com/watch?v=jPaG5Pi-68M) - Happy Birthday Power BI

@@ -19,6 +19,7 @@
 
 ### YouTube
 * [Power BI 101 for Microsoft Dynamics 365 Business Central](https://www.youtube.com/watch?v=lx8fZAxzwLc) - WebSanSolutionsInc
+* [Creating custom Power BI data sets and reports with Business Central](https://www.youtube.com/watch?v=qFpUWfgUCno) - Solution Systems, Inc.
 
 -----
 

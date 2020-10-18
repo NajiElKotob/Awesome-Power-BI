@@ -19,10 +19,11 @@
 
 -----
 
-## Dynamics NAV 2017
+## Dynamics NAV 2016/2017
 ### Schema
 * [Dynamics AX](http://database.fun/)
 * [Microsoft Dynamics NAV Data Model](https://dynamicsdocs.com/) - NAV 2016/17/18
 
 ### YouTube
 * [Power BI integration in Dynamics NAV 2017](https://www.youtube.com/watch?v=gWHnLeT-WXs)
+* [Power BI And Microsoft Dynamics NAV 2016](https://www.inecta.com/power-bi-microsoft-dynamics-nav-2016) - inecta.com

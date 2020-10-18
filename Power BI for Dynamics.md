@@ -14,6 +14,9 @@
 * [Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/admin-powerbi) 
 * [Dynamics 365 Finance](https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/analytics/power-bi-home-page?toc=/dynamics365/finance/toc.json) 
 
+### Excel
+* [Getting and Filtering Business Central Data in Excel](https://community.dynamics.com/business/b/financials/posts/getting-and-filtering-business-central-data-in-excel) - Jared Hall (January 2019)
+
 ### YouTube
 * [Power BI 101 for Microsoft Dynamics 365 Business Central](https://www.youtube.com/watch?v=lx8fZAxzwLc) - WebSanSolutionsInc
 

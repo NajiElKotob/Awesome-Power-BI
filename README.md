@@ -286,6 +286,8 @@ It is so easy to start with Power BI, but hard to master it.
     * [From Numbers to Narrative (Key Takeaways)](https://chapters.theiia.org/milwaukee/News/ChapterDocuments/Storytelling%20with%20Data%20-%20Key%20Takeaways%2009.19.08.pdf) 
 * Hans Rosling
     * [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w)
+* Cole Nussbaumer Knaflic
+    * [SWD Chart Guide](http://www.storytellingwithdata.com/chart-guide)
 * Neil Halloran
     * [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
 * [Stephanie Starling](http://www.stephaniestarling.com/) - freelance researcher and data journalist

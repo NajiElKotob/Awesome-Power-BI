@@ -300,6 +300,8 @@ It is so easy to start with Power BI, but hard to master it.
         * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
 * Lucidworks
     * [Dark Data](https://lucidworks.com/darkdata/)
+* Quotes
+    * “Storytelling is the oldest form of education.” -- Terry Tempest Williams
     
 -----
 

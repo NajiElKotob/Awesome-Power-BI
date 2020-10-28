@@ -102,6 +102,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)
 * [Capstone Analytics](https://www.capstoneanalytics.com.au/blog/) - We bring analytics to your fingertips
 * Daniil Maslyuk [XXL BI](https://xxlbi.com/) - More than Excel BI
+* [Data witches](https://data-witches.com/) - 
 * Dave Ruijter [Modern Data and AI](https://www.moderndata.ai/category/powerbi/)
 * David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
 * [Kasper On BI](https://www.kasperonbi.com/) - All about Power BI, Modelling, DAX and Microsoft BI

@@ -134,6 +134,7 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Power BI Desktop Feature Summary
 ### 2020
+* [Power BI Desktop November 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-november-2020-feature-summary/)
 * [Power BI Desktop October 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-october-2020-feature-summary/)
 * [Power BI Desktop September 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/)
 * [Power BI Desktop August 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary)

@@ -79,6 +79,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [How to build modern IoT solutions with Cosmos DB and Power BI](https://www.youtube.com/watch?v=SBk41L2SpuI) (June 2020)
 * [Data preparation tricks you should know for Power BI solutions](https://www.youtube.com/watch?v=jN87y6TbWXI) - Microsoft Power BI
 * [MBAS Recap with BIFocal](https://youtu.be/ZgBc-tHDa5k?t=431) - Guy in a Cube (May 2020)
+* [How To Get Started with Power BI Dataflows and the Common Data Model](https://www.youtube.com/watch?v=Omq4J2eJB0Y) - AgileThought (April 2020)
 * [Let's Talk Paginated Reports In Power BI (Premium)](https://youtu.be/roNBmS398WQ?t=382) - Guy in a Cube (March 2020)
 * [Creating custom visuals in Power BI using R script, JSON, and Charticulator](https://www.youtube.com/watch?v=qbUWt8PeafM) - Community Webinars (March 2020)
 * [Dataflow and shared dataset multi-developer architecture for Power BI](https://www.youtube.com/watch?v=qZF2pzGyIrg) - Microsoft Power BI (March 2020) 

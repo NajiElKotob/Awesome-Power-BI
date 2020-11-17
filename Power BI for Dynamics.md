@@ -21,7 +21,7 @@
 * Using Power Platform Dataflows to extract and process data from Business Central
   * [Post 1](https://cloudblogs.microsoft.com/dynamics365/no-audience/2019/09/12/using-power-platform-dataflows-to-extract-and-process-data-from-business-central-post-1/)
   * [Post 2](https://cloudblogs.microsoft.com/dynamics365/no-audience/2019/09/16/using-power-platform-dataflows-to-extract-and-process-data-from-business-central-post-2/)
-  * [Post 3](https://cloudblogs.microsoft.com/dynamics365/no-audience/2019/09/18/using-power-platform-dataflows-to-extract-and-process-data-from-business-central-post-3/
+  * [Post 3](https://cloudblogs.microsoft.com/dynamics365/no-audience/2019/09/18/using-power-platform-dataflows-to-extract-and-process-data-from-business-central-post-3/)
   
 ### YouTub
 * [Power BI 101 for Microsoft Dynamics 365 Business Central](https://www.youtube.com/watch?v=lx8fZAxzwLc) - WebSanSolutionsInc

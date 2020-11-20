@@ -306,6 +306,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
         * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
 * Lucidworks
     * [Dark Data](https://lucidworks.com/darkdata/)
+*  Doug Rose
+    * [Data Science: Create Teams That Ask the Right Questions and Deliver Real Value (Book)](https://www.amazon.com/Data-Science-Create-Questions-Deliver/dp/1484222520)
 * Quotes
     * “Storytelling is the oldest form of education.” -- Terry Tempest Williams
     * “A great lasting story is about everyone or it will not last. The strange and foreign is not interesting--only the deeply personal and familiar.” -- John Steinbeck

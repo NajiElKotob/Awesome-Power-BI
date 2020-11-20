@@ -285,6 +285,8 @@ It is so easy to start with Power BI, but hard to master it.
 
 -----
 ## Storytelling
+* Effective data storytelling uses language and visualization to help the audience engage and connect with the larger meaning.
+
 * Bill Shander
     * [How to Tell Stories and Weave a Cohesive Narrative With Data](https://medium.com/@billshander/how-to-tell-stories-and-weave-a-cohesive-narrative-with-data-a56dea3d1d67)
     * [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f)

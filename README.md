@@ -308,6 +308,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Dark Data](https://lucidworks.com/darkdata/)
 * Quotes
     * “Storytelling is the oldest form of education.” -- Terry Tempest Williams
+    * “A great lasting story is about everyone or it will not last. The strange and foreign is not interesting--only the deeply personal and familiar.” -- John Steinbeck
     
 -----
 

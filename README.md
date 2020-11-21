@@ -312,6 +312,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * “Storytelling is the oldest form of education.” -- Terry Tempest Williams
     * “A great lasting story is about everyone or it will not last. The strange and foreign is not interesting--only the deeply personal and familiar.” -- John Steinbeck
     * “A story that contrasts the present with the future needs a great deal of trust.” -- Doug Rose
+    * “Numbers Don’t Lie, But Charts Do”
     
 -----
 

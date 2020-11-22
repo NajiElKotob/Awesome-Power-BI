@@ -1,7 +1,7 @@
 # Power BI Reports
 
 * [Lebanon Citizen Budget](http://www.institutdesfinances.gov.lb/data/lebanon-citizen-budget/) - About LCB
-  * [Lebanon Citizen Budget](http://bit.ly/LCBver1) - Report ver. 1.x
+  * [Lebanon Citizen Budget](http://bit.ly/LCBver1) - Report ver. 2.x
 * [2019 Novel Coronavirus](http://bit.ly/2019-nCoV-ME) - Middle East and Global Cases
   * [2019 Novel Coronavirus Dataset (Kaggle)](https://www.kaggle.com/devready/2019-novel-coronavirus-2019ncov)
 * [Baladiyat](http://bit.ly/baladiyat-report)

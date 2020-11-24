@@ -316,6 +316,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * “Numbers Don’t Lie, But Charts Do”
     * “Stories activate the same parts of our brains that are activated when processing real experiences.” 
     * “The data means nothing without context, without the story form around it.” -- Bill Shander
+    * “A story is 22 times more memorable than facts alone.” -- Jennifer Aaker
 
     
 -----

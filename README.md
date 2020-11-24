@@ -314,6 +314,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * “A great lasting story is about everyone or it will not last. The strange and foreign is not interesting--only the deeply personal and familiar.” -- John Steinbeck
     * “A story that contrasts the present with the future needs a great deal of trust.” -- Doug Rose
     * “Numbers Don’t Lie, But Charts Do”
+    * “Stories activate the same parts of our brains that are activated when processing real experiences.” 
     
 -----
 
@@ -358,7 +359,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 * [Power Query M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 * [Document all Power Query M code without copy pasting it (Video)](https://www.youtube.com/watch?v=fseh56DYeLc) - Curbal
-* [Lean more about Power Query and M langauge](https://github.com/NajiElKotob/Awesome-PowerQuery) ⚡
+* [Lean more about Power Query and M Language](https://github.com/NajiElKotob/Awesome-PowerQuery) ⚡
 
 
 

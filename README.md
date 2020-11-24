@@ -315,6 +315,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * “A story that contrasts the present with the future needs a great deal of trust.” -- Doug Rose
     * “Numbers Don’t Lie, But Charts Do”
     * “Stories activate the same parts of our brains that are activated when processing real experiences.” 
+    * “The data means nothing without context, without the story form around it.” -- Bill Shander
+
     
 -----
 

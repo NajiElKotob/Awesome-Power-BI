@@ -358,7 +358,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Quick tour of the Power Query M formula language](https://docs.microsoft.com/en-us/powerquery-m/quick-tour-of-the-power-query-m-formula-language)
 * [Power Query M function reference](https://docs.microsoft.com/en-us/powerquery-m/power-query-m-function-reference)
 * [Document all Power Query M code without copy pasting it (Video)](https://www.youtube.com/watch?v=fseh56DYeLc) - Curbal
-
+* [Lean more about Power Query and M langauge](https://github.com/NajiElKotob/Awesome-PowerQuery) ⚡
 
 
 

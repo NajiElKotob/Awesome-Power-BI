@@ -8,6 +8,8 @@
 ## Banking
 * [The Saudi Investment Bank reforms operations with swift integration of Power BI](https://customers.microsoft.com/en-us/story/780556-the-saudi-investment-bank-banking-powerbi-saudi-arabia?_lrsc=a35917a3-7c46-4622-9ad8-49b466c2cef6)
 
+## Foot processing
+* [Nestlé invests in advanced technologies, including Power BI, to foster a data-driven culture and empower employees to make smart business decisions](https://customers.microsoft.com/en-us/story/857107-nestle-consumer-goods-azure-power-bi) - (December 2020)
 
 ## Oil and Energy
 * [ITRAK Case Study, Secure Energy Services](https://media.featuredcustomers.com/CustomerCaseStudy.document/microsoft-power-bi_secure-energy-services_None.pdf)

@@ -314,6 +314,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [Data Science: Create Teams That Ask the Right Questions and Deliver Real Value (Book)](https://www.amazon.com/Data-Science-Create-Questions-Deliver/dp/1484222520)
 * Samples
     * [Nine Charts about Wealth Inequality in America](https://apps.urban.org/features/wealth-inequality-charts/) - urban.org
+    * [Storytelling: Minard vs. Nightingale](https://eagereyes.org/journalism/storytelling-minard-vs-nightingale) - Robert Kosara
 * Quotes
     * “Storytelling is the oldest form of education.” -- Terry Tempest Williams
     * “A great lasting story is about everyone or it will not last. The strange and foreign is not interesting--only the deeply personal and familiar.” -- John Steinbeck

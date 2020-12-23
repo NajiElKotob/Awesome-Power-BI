@@ -329,6 +329,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
         * KWYANTH "Know What Your Audience Needs to Hear"
     * “A story is 22 times more memorable than facts alone.” -- Jennifer Aaker
     * “ASK - Accurate . Story . Knowledge” -- Bill Shander
+    * "Stories make data analysis accessible to a wider audience. They also make analysis more engaging." -- Kubicle.com
 
     
 -----

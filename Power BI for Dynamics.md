@@ -19,6 +19,7 @@
 
 ### Power BI
 * [Create a multi company Power BI report](https://thinkaboutit.be/2019/06/how-do-i-create-a-multi-company-power-bi-report-with-the-business-central-connector/)
+* [Using Dynamics 365 Sales and Wondering Where to Start with Power BI?](https://mattwittemann.com/2020/06/26/using-dynamics-365-sales-and-wondering-where-to-start-with-power-bi/) - Matt Wittemann (June 2020)
 
 ### Dataflows
 * Using Power Platform Dataflows to extract and process data from Business Central

@@ -120,7 +120,7 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Podcast
 * [Expert's Talk](https://ssbi-blog.de/podcast/experts-talk/) - Do you want to know what other Power BI experts think about certain aspects of Power BI? Here they share their expertise.
-* [Power BI & More](https://podcasts.apple.com/us/podcast/power-bi-more/id1457435035) - Ulrik Carlsson
+* Power BI & More at [Apple](https://podcasts.apple.com/us/podcast/power-bi-more/id1457435035) and [Listen Notes](https://www.listennotes.com/podcasts/power-bi-more-ulrik-carlsson-j5BL9t6Yg4o/) - Ulrik Carlsson
 
 -----
 ## Learning
@@ -239,6 +239,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Storytelling with Data](https://amzn.to/2Qht2yd) - A Data Visualization Guide for Business Professionals
 * [The Big Book of Dashboards: Visualizing Your Data Using Real-World Business Scenarios](https://amzn.to/2rSUTWX) - Steve Wexler
 * [The Truthful Art: Data, Charts, and Maps for Communication](https://amzn.to/2Va8VAB) - Alberto Cairo
+
 -----
 ## Conferences, Groups and Social Media
 

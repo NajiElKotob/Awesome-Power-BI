@@ -313,6 +313,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [Dark Data](https://lucidworks.com/darkdata/)
 *  Doug Rose
     * [Data Science: Create Teams That Ask the Right Questions and Deliver Real Value (Book)](https://www.amazon.com/Data-Science-Create-Questions-Deliver/dp/1484222520)
+* David JP Phillips
+    * [The magical science of storytelling (TEDxStockholm)](https://www.youtube.com/watch?v=Nj-hdQMa3uA)
 * Samples
     * [Nine Charts about Wealth Inequality in America](https://apps.urban.org/features/wealth-inequality-charts/) - urban.org
     * [Storytelling: Minard vs. Nightingale](https://eagereyes.org/journalism/storytelling-minard-vs-nightingale) - Robert Kosara

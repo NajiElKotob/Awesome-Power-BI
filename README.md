@@ -131,7 +131,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Introduction](https://www.red-gate.com/simple-talk/sql/bi/power-bi-part-1-introduction/) - Robert Sheldon (redgate Hub)
 * [Power BI Premium Demo](http://www.powerbiclickthrough.com/demos/powerbipremium)
 * [Power BI webinars](https://docs.microsoft.com/en-us/power-bi/fundamentals/webinars)
-
+* [Power BI Events Catalog](https://events.microsoft.com/?timeperiod=next90Days&product=Power%20BI&isSharedInLocalViewMode=false&_lrsc=b985f9fa-d2c7-49da-ad9f-9748f4b6540c&startTime=&endTime=&category=Online) - events.microsoft.com
 
 -----
 ## Power BI Desktop Feature Summary

@@ -35,6 +35,11 @@
 ### Analyze the data (10-15%)
 ### Deploy and maintain deliverables (10-15%)
 
+-----
+
 ## Kahoot
 * [Power BI Quiz with Adam Saxton](https://www.youtube.com/watch?v=KGWnrhILY7c)
 * [Power BI Quiz with Will Thompson](https://www.youtube.com/watch?v=GHpm9EHVK4k)
+
+## Microsoft Learn
+* [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/)

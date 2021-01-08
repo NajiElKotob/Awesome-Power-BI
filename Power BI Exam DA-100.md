@@ -45,3 +45,6 @@
 * [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/)
 * [Prepare data for analysis](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/)
 * [Model data in Power BI](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/)
+* [Visualize data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/)
+* [Data analysis in Power BI](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/)
+* [Manage workspaces and datasets in Power BI](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/)

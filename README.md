@@ -217,6 +217,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Helper](http://radacad.com/power-bi-helper) 
 * [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
 * [Power BI Data Connection file PBIDS](https://connections.powerbi.tips/)
+* [ColorsWall](https://colorswall.com/) | Place to store your color palettes and generate palette in one click
 * [Coolors](https://coolors.co/) - The super fast color schemes generator.
 * [Online Image Color Picker](https://pinetools.com/image-color-picker) 
 * [Palettes and Theme Generator tool](https://gallery.powerbi.tips/) - powerbi.tips

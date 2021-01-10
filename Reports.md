@@ -5,6 +5,7 @@
 * [2019 Novel Coronavirus](http://bit.ly/2019-nCoV-ME) - Middle East and Global Cases
   * [2019 Novel Coronavirus Dataset (Kaggle)](https://www.kaggle.com/devready/2019-novel-coronavirus-2019ncov)
 * [Baladiyat](http://bit.ly/baladiyat-report) 📈📉
+* [COVID-19 Middle East](http://bit.ly/2019-nCoV-ME) 🦠
 * [Financial Analysis](http://bit.ly/FinancialAnalysis-PowerBI)
 * [Oil Consumption vs Oil Production (Gapminder)](http://j.mp/OilGaz-PBI-NajiElKotob) 🛢🛢🛢
 * [Quality of Government](http://j.mp/QoG-NajiElKotob)

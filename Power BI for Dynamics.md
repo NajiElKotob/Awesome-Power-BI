@@ -41,3 +41,4 @@
 ### YouTube
 * [Power BI integration in Dynamics NAV 2017](https://www.youtube.com/watch?v=gWHnLeT-WXs)
 * [Power BI And Microsoft Dynamics NAV 2016](https://www.inecta.com/power-bi-microsoft-dynamics-nav-2016) - inecta.com
+* [Dynamics 365 Business Central: Warehouse Management](https://www.youtube.com/watch?v=aizdmCGtmHs&list=PLJDdNuGpFiaqMeXXlCxsRo_-uf7-1kLiH) - iNECTA University

@@ -31,6 +31,9 @@
 * [Power BI 101 for Microsoft Dynamics 365 Business Central](https://www.youtube.com/watch?v=lx8fZAxzwLc) - WebSanSolutionsInc
 * [Creating custom Power BI data sets and reports with Business Central](https://www.youtube.com/watch?v=qFpUWfgUCno) - Solution Systems, Inc.
 
+### Troubleshooting
+* [How to create a demo account for any country version of Business Central](https://community.dynamics.com/business/b/businesscentraldevitpro/posts/get-a-demo-of-bc)
+
 -----
 
 ## Dynamics NAV 2016/2017

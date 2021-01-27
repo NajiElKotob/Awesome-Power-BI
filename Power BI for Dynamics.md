@@ -5,6 +5,7 @@
 ## Docs
 * [Microsoft Dynamics 365 documentation](https://docs.microsoft.com/en-us/dynamics365/)
 
+
 -----
 
 ## Business Central
@@ -35,6 +36,9 @@
 
 ### Troubleshooting
 * [How to create a demo account for any country version of Business Central](https://community.dynamics.com/business/b/businesscentraldevitpro/posts/get-a-demo-of-bc)
+
+### AL Language
+* [AL Language (VSC Extension)](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) AL development tools for Dynamics 365 Business Central
 
 -----
 

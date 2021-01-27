@@ -41,6 +41,10 @@
 ### AL Language
 * [AL Language (VSC Extension)](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) AL development tools for Dynamics 365 Business Central
 
+### Books
+* [Programming Microsoft Dynamics 365 Business Central](https://www.amazon.com/Programming-Microsoft-Dynamics-Business-Central/dp/1789137799) - Build customized business applications with the latest tools in Dynamics 365 Business Central
+  * [Source code](https://github.com/PacktPublishing/Programming-Microsoft-Dynamics-365-Business-Central-Sixth-Edition)
+
 -----
 
 ## Dynamics NAV 2016/2017

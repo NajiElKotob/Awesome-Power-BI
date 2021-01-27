@@ -33,6 +33,7 @@
 
 ### Developement
 * [Get started with the Container Sandbox Development Environment](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-get-started-container-sandbox)
+* [Design Details](https://docs.microsoft.com/en-us/dynamics365/business-central/design-details-application-design) - Design details content is aimed at implementers, developers, and super users who need deeper insight to implement, customize, or set up the features in question.
 
 ### Troubleshooting
 * [How to create a demo account for any country version of Business Central](https://community.dynamics.com/business/b/businesscentraldevitpro/posts/get-a-demo-of-bc)

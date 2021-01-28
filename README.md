@@ -201,6 +201,7 @@ It is so easy to start with Power BI, but hard to master it.
 ### API and PowerShell
 * [REST API](https://docs.microsoft.com/en-us/rest/api/power-bi/) - Power BI REST API provides service endpoints for embedding, administration, and user resources.
 * [Microsoft Power BI Cmdlets](https://docs.microsoft.com/en-us/powershell/power-bi/overview?view=powerbi-ps) - Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell Core
+* [PowerShell script to publish Power BI reports](https://powerofbi.org/2021/01/27/powershell-script-to-publish-power-bi-reports/) - Andrzej Leszkiewicz (January 2021)
 
 -----
 ## Power BI Family and Tools

@@ -27,10 +27,6 @@
   * [Post 2](https://cloudblogs.microsoft.com/dynamics365/no-audience/2019/09/16/using-power-platform-dataflows-to-extract-and-process-data-from-business-central-post-2/)
   * [Post 3](https://cloudblogs.microsoft.com/dynamics365/no-audience/2019/09/18/using-power-platform-dataflows-to-extract-and-process-data-from-business-central-post-3/)
   
-### YouTub
-* [Power BI 101 for Microsoft Dynamics 365 Business Central](https://www.youtube.com/watch?v=lx8fZAxzwLc) - WebSanSolutionsInc
-* [Creating custom Power BI data sets and reports with Business Central](https://www.youtube.com/watch?v=qFpUWfgUCno) - Solution Systems, Inc.
-
 ### Developement
 * [Get started with the Container Sandbox Development Environment](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-get-started-container-sandbox)
 * [Design Details](https://docs.microsoft.com/en-us/dynamics365/business-central/design-details-application-design) - Design details content is aimed at implementers, developers, and super users who need deeper insight to implement, customize, or set up the features in question.
@@ -40,6 +36,13 @@
 
 ### AL Language
 * [AL Language (VSC Extension)](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) AL development tools for Dynamics 365 Business Central
+
+### Blogs
+* [Tech-Quantum Ecosystem](https://www.tech-quantum.com/category/microsoft-dynamics/business-central/)
+
+### YouTub
+* [Power BI 101 for Microsoft Dynamics 365 Business Central](https://www.youtube.com/watch?v=lx8fZAxzwLc) - WebSanSolutionsInc
+* [Creating custom Power BI data sets and reports with Business Central](https://www.youtube.com/watch?v=qFpUWfgUCno) - Solution Systems, Inc.
 
 ### Books
 * [Programming Microsoft Dynamics 365 Business Central](https://www.amazon.com/Programming-Microsoft-Dynamics-Business-Central/dp/1789137799) - Build customized business applications with the latest tools in Dynamics 365 Business Central

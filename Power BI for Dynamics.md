@@ -40,12 +40,13 @@
 ### Blogs
 * [Tech-Quantum Ecosystem](https://www.tech-quantum.com/category/microsoft-dynamics/business-central/)
 
-### YouTub
+### YouTube
 * [Power BI 101 for Microsoft Dynamics 365 Business Central](https://www.youtube.com/watch?v=lx8fZAxzwLc) - WebSanSolutionsInc
 * [Creating custom Power BI data sets and reports with Business Central](https://www.youtube.com/watch?v=qFpUWfgUCno) - Solution Systems, Inc.
+* [iNECTA (100+ videos)](https://www.inecta.com/inecta-introduction-video) - iNECTA is a Microsoft Dynamics NAV Solution Center established in 2001
 
 ### Books
-* [Programming Microsoft Dynamics 365 Business Central](https://www.amazon.com/Programming-Microsoft-Dynamics-Business-Central/dp/1789137799) - Build customized business applications with the latest tools in Dynamics 365 Business Central
+* [Programming Microsoft Dynamics (100+ videos)namics 365 Business Central
   * [Source code](https://github.com/PacktPublishing/Programming-Microsoft-Dynamics-365-Business-Central-Sixth-Edition)
 
 -----

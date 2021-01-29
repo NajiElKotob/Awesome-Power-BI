@@ -326,6 +326,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [The Pudding](https://pudding.cool/) - is a digital publication that explains ideas debated in culture with visual essays.
     * [Data Is Beautiful (reddit)](https://www.reddit.com/r/dataisbeautiful/)
     * [Data Art (reddit)](https://www.reddit.com/r/DataArt/)
+    * [One year later: The path to carbon negative – a progress report on our climate ‘moonshot’](https://blogs.microsoft.com/blog/2021/01/28/one-year-later-the-path-to-carbon-negative-a-progress-report-on-our-climate-moonshot/) - Brad Smith (January 2021)
 * Quotes
     * “Storytelling is the oldest form of education.” -- Terry Tempest Williams
     * “A great lasting story is about everyone or it will not last. The strange and foreign is not interesting--only the deeply personal and familiar.” -- John Steinbeck

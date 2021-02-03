@@ -38,7 +38,8 @@
 * [AL Language (VSC Extension)](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al) AL development tools for Dynamics 365 Business Central
 
 ### Blogs
-* [Tech-Quantum Ecosystem](https://www.tech-quantum.com/category/microsoft-dynamics/business-central/)
+* [Tech-Quantum Ecosystem](https://www.tech-quantum.com/category/microsoft-dynamics/business-central/) - tech-quantum.com
+* [Think About It](https://thinkaboutit.be/?s=business+central&submit=Search) - thinkaboutit.be
 
 ### YouTube
 * [Power BI 101 for Microsoft Dynamics 365 Business Central](https://www.youtube.com/watch?v=lx8fZAxzwLc) - WebSanSolutionsInc

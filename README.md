@@ -69,6 +69,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 ### Special Videos
+* [Power BI Dev Camp: Developing Custom Visuals for Power BI](https://www.youtube.com/watch?v=LQB-q9SVyY4) - Microsoft Power BI (February 2021)
 * [Why Dataflows With Matthew Roche](https://www.youtube.com/watch?v=8Ir6NeX-h0g) - Havens Consulting (November 2020)
 * [HTML Content Custom Visual](https://www.youtube.com/watch?v=gLyZukIpUg8) - PowerBI.Tips, Daniel Marsh-Patrick (October 2020)
 * [Power BI Dev Camp: Writing PowerShell scripts for Power BI](https://www.youtube.com/watch?v=WaKvZgjTWmo) - Microsoft Power BI (October 2020) 

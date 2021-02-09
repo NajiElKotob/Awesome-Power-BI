@@ -15,7 +15,7 @@ It is crucial for data analysts to explore and visualize data to help their stak
 * [Use the decomposition tree visual in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
 * [Add a column from an example](https://docs.microsoft.com/en-us/power-bi/desktop-add-column-from-example)
 * [Get data from a Web page by providing an example](https://docs.microsoft.com/en-us/power-bi/desktop-connect-to-web-by-example)
-
+* [Anomaly detection](https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview/)
 
 ## Articles and Videos
 * [Creating Machine Learning models in Power BI](https://powerbi.microsoft.com/en-us/blog/creating-machine-learning-models-in-power-bi/)

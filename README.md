@@ -392,6 +392,9 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Lean more about Power Query and M Language](https://github.com/NajiElKotob/Awesome-PowerQuery) ⚡
 
 
+-----
+## Best Practices
+* [Best practice rules to improve your model’s performance](https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/?src=AwesomePowerBI) - Michael Kovalsky (February 2021)
 
 -----
 ## Special Features and Advanced Topics

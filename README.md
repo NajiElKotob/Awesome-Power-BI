@@ -290,7 +290,9 @@ It is so easy to start with Power BI, but hard to master it.
     * [Data Viz Project](https://datavizproject.com/) - ferdio
     * [Datawrapper Academy](https://academy.datawrapper.de/) - academy.datawrapper.de
 * [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz is a classification of chart types based on input data format.
-* [7 Gestalt principles of visual perception: cognitive psychology for UX](https://www.usertesting.com/blog/gestalt-principles/)
+*  Gestalt
+    * [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design) - Cameron Chapman
+    * [7 Gestalt principles of visual perception: cognitive psychology for UX](https://www.usertesting.com/blog/gestalt-principles/)
 * [What is the F-Pattern and How to Use It for Increased Conversions](https://instapage.com/blog/f-pattern-layout)
 
 -----

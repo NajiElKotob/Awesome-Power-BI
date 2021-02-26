@@ -9,7 +9,7 @@ It is crucial for data analysts to explore and visualize data to help their stak
 * [Use AI Insights in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-ai-insights)
 * [Use insights in Power BI Desktop to explain increases and decreases seen in visuals](https://docs.microsoft.com/en-us/power-bi/desktop-insights) 
 * [Key influencers visualization](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers)
-  * [Power BI identifies key influencers using ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/customers/power-bi)
+  * With categorical values, Key Influencers uses ML.NET to run logistic regression for categorical metrics, using the One-hot encoding, Replace missing value, and Normalize mean variance data transformations and the L-BFGS Logistic Regression algorithm. While in numerical values, Key Influencers uses ML.NET to run linear regression, using the same data transformations as the categorical key influencers and using the SDCA regression algorithm. On the other hand, the Top Segments uses ML.NET to run a decision tree, using Fast tree algorithms (categorical and numerical), to find interesting subgroups.  _[learn more](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/customers/power-bi)_
 * [Introduction to Power BI Q&A visual](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-q-and-a)
 * [Automated Machine Learning in Power BI](https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated) 
 * [Quick Insights](https://docs.microsoft.com/en-us/power-bi/service-insights)

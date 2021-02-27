@@ -17,6 +17,7 @@ It is crucial for data analysts to explore and visualize data to help their stak
 * [Add a column from an example](https://docs.microsoft.com/en-us/power-bi/desktop-add-column-from-example)
 * [Get data from a Web page by providing an example](https://docs.microsoft.com/en-us/power-bi/desktop-connect-to-web-by-example)
 * [Anomaly detection](https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview/)
+* [Cognitive Services in Power BI](https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-machine-learning-integration) - The services that are supported today are Sentiment Analysis, Key Phrase Extraction, Language Detection, and Image Tagging.
 
 ## Articles and Videos
 * [Creating Machine Learning models in Power BI](https://powerbi.microsoft.com/en-us/blog/creating-machine-learning-models-in-power-bi/)

@@ -31,6 +31,23 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Connect to a dataset using the XMLA endpoint
   * [Dataset connectivity with the XMLA endpoint](https://docs.microsoft.com/en-us/power-bi/admin/service-premium-connect-tools) 
 
+##### Profile the data
+* Identify data anomalies
+* Examine data structures
+* Interrogate column properties
+* Interrogate data statistics
+
+##### Clean, transform, and load the data
+* Resolve inconsistencies, unexpected or null values, and data quality issues
+* Apply user-friendly value replacements
+* Identify and create appropriate keys for joins
+* Evaluate and transform column data types
+* Apply data shape transformations to table structures
+* Combine queries
+* Apply user-friendly naming conventions to columns and queries
+* Leverage Advanced Editor to modify Power Query M code
+* Configure data loading
+* Resolve data import errors
 
 ### Model the data (25-30%)
 ### Visualize the data (20-25%)

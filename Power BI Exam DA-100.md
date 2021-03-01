@@ -19,7 +19,7 @@
 * [Choose an appropriate query type]()
 * [Identify query performance issues]()
 * [Use the Common Data Service (CDS)]()
-* [Use parameters]()
+* [Use parameters](https://docs.microsoft.com/en-us/power-query/power-query-query-parameters)
 
 * More
   * [Connect to an Access database (Video)](https://www.youtube.com/watch?v=S6s0osmRCZ4&list=PL1N57mwBHtN0JFoKSR0n-tBkUJHeMP2cP&index=6) - Power BI

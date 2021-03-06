@@ -230,7 +230,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator.
 * [Online Image Color Picker](https://pinetools.com/image-color-picker) 
 * [Palettes and Theme Generator tool](https://gallery.powerbi.tips/) - powerbi.tips
-
+* [Tabular Editor](https://github.com/TabularEditor/tabulareditor.github.io) - Tabular Editor provides an intuitive hierarchical view of every object in your Tabular Model metadata. 
     
 -----
 ## Books

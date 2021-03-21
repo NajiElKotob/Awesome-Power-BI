@@ -20,7 +20,8 @@ It is crucial for data analysts to explore and visualize data to help their stak
 * [Cognitive Services in Power BI](https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-machine-learning-integration) - The services that are supported today are Sentiment Analysis, Key Phrase Extraction, Language Detection, and Image Tagging.
 * Top N analysis
   * Q&A visual e.g., "What are the top 5 customers by sales in clustered column?", Top N filter, [TOPN](https://dax.guide/topn/) DAX formula
-
+* Clustering
+  * [Clustering using Scatter Charts](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-feature-summary/#clustering)
 
 ## Articles and Videos
 * [Creating Machine Learning models in Power BI](https://powerbi.microsoft.com/en-us/blog/creating-machine-learning-models-in-power-bi/)

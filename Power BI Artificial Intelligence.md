@@ -22,7 +22,11 @@ It is crucial for data analysts to explore and visualize data to help their stak
   * Q&A visual e.g., "What are the top 5 customers by sales in clustered column?", Top N filter, [TOPN](https://dax.guide/topn/) DAX formula
 * Clustering
   * [Clustering using Scatter Charts](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-feature-summary/#clustering)
-
+* Time Series
+  * [Forecasting with Line Chart](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane#apply-forecasting)
+  * Scatter chart
+  * Play Axis
+   
 ## Articles and Videos
 * [Creating Machine Learning models in Power BI](https://powerbi.microsoft.com/en-us/blog/creating-machine-learning-models-in-power-bi/)
 * [AI in Power BI (Video)](https://mybuild.techcommunity.microsoft.com/sessions/77088?source=sessions&ref=najielkotob) - AI can help everyone in an organization automatically find patterns in their data, understand what the data means, and predict future outcomes to help business drive results.

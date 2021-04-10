@@ -7,7 +7,7 @@
   * [2019 Novel Coronavirus Dataset (Kaggle)](https://www.kaggle.com/devready/2019-novel-coronavirus-2019ncov)
 * [Baladiyat](http://bit.ly/baladiyat-report) 📈📉
 * [COVID-19 Middle East](http://bit.ly/2019-nCoV-ME) 🦠
-* [Electricity consumption by Utility](https://j.mp/3s74E0f) ⚡ California Energy Commission (1990-2009)
+* [Electricity consumption by Utility (California)](https://bit.ly/elect-california) ⚡ California Energy Commission (1990-2009)
 * [Financial Analysis](http://bit.ly/FinancialAnalysis-PowerBI)
 * [Oil Consumption vs Oil Production (Gapminder)](http://j.mp/OilGaz-PBI-NajiElKotob) 🛢🛢🛢
 * [Quality of Government](http://j.mp/QoG-NajiElKotob)

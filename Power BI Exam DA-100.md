@@ -14,7 +14,9 @@ The Data Analyst should have a fundamental understanding of data repositories an
 ## Skills measured (March 23, 2021)
 ### Prepare the data (20-25%)
 ##### Get data from different data sources
-* [Identify and connect to a data source](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data) - Microsoft Docs
+* Identify and connect to a data source
+  * [Connect to data sources in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data)
+  * [SharePoint Folder](https://docs.microsoft.com/en-us/power-query/connectors/sharepointfolder)
 * Change data source settings
   * [Manage data sources](https://docs.microsoft.com/en-us/power-bi/connect-data/service-gateway-data-sources)
 * Select a shared dataset or create a local dataset

@@ -15,23 +15,23 @@ The Data Analyst should have a fundamental understanding of data repositories an
 ### Prepare the data (20-25%)
 ##### Get data from different data sources
 * Identify and connect to a data source
-  * [Connect to data sources in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data)
-  * [SharePoint Folder](https://docs.microsoft.com/en-us/power-query/connectors/sharepointfolder)
+  * [Connect to data sources in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data?ref=najielkotob)
+  * [SharePoint Folder](https://docs.microsoft.com/en-us/power-query/connectors/sharepointfolder?ref=najielkotob)
 * Change data source settings
-  * [Manage data sources](https://docs.microsoft.com/en-us/power-bi/connect-data/service-gateway-data-sources)
+  * [Manage data sources](https://docs.microsoft.com/en-us/power-bi/connect-data/service-gateway-data-sources?ref=najielkotob)
 * Select a shared dataset or create a local dataset
   * [Connect to datasets in the Power BI service from Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-report-lifecycle-datasets) 
-* [Select a storage mode](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-storage-mode)
+* [Select a storage mode](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-storage-mode?ref=najielkotob)
 * [Choose an appropriate query type]()
 * [Identify query performance issues]()
-* [Use Microsoft Dataverse](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-powerbi-connector) - Create a Power BI report using data from Dataverse
+* [Use Microsoft Dataverse](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-powerbi-connector?ref=najielkotob) - Create a Power BI report using data from Dataverse
   * Common Data Service has been renamed to Microsoft Dataverse
-* [Use parameters](https://docs.microsoft.com/en-us/power-query/power-query-query-parameters)
+* [Use parameters](https://docs.microsoft.com/en-us/power-query/power-query-query-parameters?ref=najielkotob)
 * Use or create a PBIDS file
   * [Using PBIDS files to get data](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources#using-pbids-files-to-get-data)
-* [Use or create a data flow](https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-create)
+* [Use or create a data flow](https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-create?ref=najielkotob)
 * Connect to a dataset using the XMLA endpoint
-  * [Dataset connectivity with the XMLA endpoint](https://docs.microsoft.com/en-us/power-bi/admin/service-premium-connect-tools) 
+  * [Dataset connectivity with the XMLA endpoint](https://docs.microsoft.com/en-us/power-bi/admin/service-premium-connect-tools?ref=najielkotob) 
 
 ##### Profile the data
 * Identify data anomalies
@@ -73,16 +73,57 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Import a custom visual
 * Configure conditional formatting
 * Apply slicing and filtering
-  * [How visuals cross-filter each other in a Power BI report](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-interactions) * Add an R or Python visual
+  * [How visuals cross-filter each other in a Power BI report](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-interactions?ref=najielkotob) * Add an R or Python visual
 * Configure the report page
 * Design and configure for accessibility
+  * [Design Power BI reports for accessibility](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-creating-reports?ref=najielkotob) 
 * Configure automatic page refresh
 * Create a paginated report
- 
+  * [What are paginated reports in Power BI Premium?](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi?ref=najielkotob)
 
 ### Analyze the data (10-15%)
-### Deploy and maintain deliverables (10-15%)
+#### Enhance reports to expose insights
+* Apply conditional formatting
+* Apply slicers and filters
+* Perform top N analysis
+* Explore statistical summary
+* Use the Q&A visual
+* Add a Quick Insights result to a report
+* Create reference lines by using Analytics pane
+* Use the Play Axis feature of a visualization
+* Personalize visuals
 
+
+#### Perform advanced analysis
+* Identify outliers
+* Conduct Time Series analysis
+* Use groupings and binnings
+  * [Use grouping and binning in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-grouping-and-binning?ref=najielkotob) 
+* Use the Key Influencers to explore dimensional variances
+* Use the decomposition tree visual to break down a measure
+* Apply AI Insights
+
+### Deploy and maintain deliverables (10-15%)
+#### Manage datasets
+* Configure a dataset scheduled refresh
+* Configure row-level security group membership
+* Providing access to datasets
+* Configure incremental refresh settings
+* Promote or certify Power BI datasets
+* Identify downstream dataset dependencies
+* Configure large dataset format
+
+
+#### Create and manage workspaces
+* Create and configure a workspace
+* Recommend a development lifecycle strategy
+* Assign workspace roles
+* Configure and update a workspace app
+* Publish, import, or update assets in a workspace
+* Apply sensitivity labels to workspace content
+* Use deployment pipelines
+* Configure subscriptions
+* Promote or certify Power BI content
 -----
 
 ## Kahoot
@@ -90,9 +131,9 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * [Power BI Quiz with Will Thompson](https://www.youtube.com/watch?v=GHpm9EHVK4k)
 
 ## Microsoft Learn
-* [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/)
-* [Prepare data for analysis](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/)
-* [Model data in Power BI](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/)
-* [Visualize data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/)
-* [Data analysis in Power BI](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/)
-* [Manage workspaces and datasets in Power BI](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/)
+* [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/?ref=najielkotob)
+* [Prepare data for analysis](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/?ref=najielkotob)
+* [Model data in Power BI](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/?ref=najielkotob)
+* [Visualize data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/?ref=najielkotob)
+* [Data analysis in Power BI](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/?ref=najielkotob)
+* [Manage workspaces and datasets in Power BI](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/?ref=najielkotob)

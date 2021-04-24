@@ -52,7 +52,34 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Resolve data import errors
 
 ### Model the data (25-30%)
+#### Design a data model
+* Define the tables
+* Configure table and column properties
+* Define quick measures
+* Flatten out a parent-child hierarchy
+* Define role-playing dimensions
+* Define a relationship's cardinality and cross-filter direction
+* Design the data model to meet performance requirements
+* Resolve many-to-many relationships
+* Create a common date table
+* Define the appropriate level of data granularity
+  
+
 ### Visualize the data (20-25%)
+#### Create Report
+* Add visualization items to reports
+* Choose an appropriate visualization type
+* Format and configure visualizations
+* Import a custom visual
+* Configure conditional formatting
+* Apply slicing and filtering
+  * [How visuals cross-filter each other in a Power BI report](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-interactions) * Add an R or Python visual
+* Configure the report page
+* Design and configure for accessibility
+* Configure automatic page refresh
+* Create a paginated report
+ 
+
 ### Analyze the data (10-15%)
 ### Deploy and maintain deliverables (10-15%)
 

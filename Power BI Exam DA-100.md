@@ -35,9 +35,15 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 ##### Profile the data
 * Identify data anomalies
+  * [Column profile](https://docs.microsoft.com/en-us/power-query/data-profiling-tools#column-profile) 
 * Examine data structures
+  * [Data types in Power Query](https://docs.microsoft.com/en-us/power-query/data-types) 
+  * [Column distribution](https://docs.microsoft.com/en-us/power-query/data-profiling-tools#column-distribution) 
 * Interrogate column properties
+  * [Column quality](https://docs.microsoft.com/en-us/power-query/data-profiling-tools#column-quality) 
 * Interrogate data statistics
+  * [Column profile](https://docs.microsoft.com/en-us/power-query/data-profiling-tools#column-profile) 
+
 
 ##### Clean, transform, and load the data
 * Resolve inconsistencies, unexpected or null values, and data quality issues

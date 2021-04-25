@@ -64,7 +64,26 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Create a common date table
 * Define the appropriate level of data granularity
   
-
+#### Develop a data model
+* Apply cross-filter direction and security filtering
+* Create calculated tables
+* Create hierarchies
+* Create calculated columns
+* Implement row-level security roles
+* Set up the Q&A feature
+#### Create measures by using DAX
+* Use DAX to build complex measures
+* Use CALCULATE to manipulate filters
+* Implement Time Intelligence using DAX
+* Replace numeric columns with measures
+* Use basic statistical functions to enhance data
+* Create semi-additive measures
+#### Optimize model performance
+* Remove unnecessary rows and columns
+* Identify poorly performing measures, relationships, and visuals
+* Improve cardinality levels by changing data types
+* Improve cardinality levels through summarization
+* Create and manage aggregations
 ### Visualize the data (20-25%)
 #### Create Report
 * Add visualization items to reports
@@ -81,6 +100,27 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Create a paginated report
   * [What are paginated reports in Power BI Premium?](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi?ref=najielkotob)
 
+#### Create dashboards
+* Set mobile view
+* Manage tiles on a dashboard
+* Configure data alerts
+* Use the Q&A feature
+* Add a dashboard theme
+* Pin a live report page to a dashboard
+#### Enrich reports for usability
+* Configure bookmarks
+* Create custom tooltips
+* Edit and configure interactions between visuals
+* Configure navigation for a report
+* Apply sorting
+* Configure Sync Slicers
+* Use the selection pane
+* Use drillthrough and cross filter
+* Drilldown into data using interactive visuals
+* Export report data
+* Design reports for mobile devices
+
+
 ### Analyze the data (10-15%)
 #### Enhance reports to expose insights
 * Apply conditional formatting
@@ -92,7 +132,6 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Create reference lines by using Analytics pane
 * Use the Play Axis feature of a visualization
 * Personalize visuals
-
 
 #### Perform advanced analysis
 * Identify outliers

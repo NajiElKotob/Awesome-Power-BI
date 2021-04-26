@@ -356,7 +356,9 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * “A story is 22 times more memorable than facts alone.” -- Jennifer Aaker
     * “ASK - Accurate . Story . Knowledge” -- Bill Shander
     * "Stories make data analysis accessible to a wider audience. They also make analysis more engaging." -- Kubicle.com
-
+* Hints
+    * A Power BI dashboard is made up of tiles that, together, tell a story. -- Microsoft
+    * Each report page is telling a story. To fully understand the story, you need to know if filters are being applied and what those filters are. -- Microsoft
     
 -----
 

@@ -43,6 +43,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
   * [Column quality](https://docs.microsoft.com/en-us/power-query/data-profiling-tools#column-quality) 
 * Interrogate data statistics
   * [Column profile](https://docs.microsoft.com/en-us/power-query/data-profiling-tools#column-profile) 
+  * [Create a Profiling Report in Power BI: Give the End User Information about the Data](https://radacad.com/create-a-profiling-report-in-power-bi-give-the-end-user-information-about-the-data?ref=najielkotob) - radacad.com
 
 
 ##### Clean, transform, and load the data

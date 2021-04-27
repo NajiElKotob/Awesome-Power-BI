@@ -67,6 +67,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Define role-playing dimensions
 * Define a relationship's cardinality and cross-filter direction
 * Design the data model to meet performance requirements
+  * [Best practice rules to improve your model’s performance](https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/?ref=najielkotob) 
 * Resolve many-to-many relationships
 * Create a common date table
 * Define the appropriate level of data granularity

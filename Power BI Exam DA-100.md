@@ -110,11 +110,21 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 #### Create dashboards
 * Set mobile view
+  * [Optimize Power BI reports for the mobile app](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-create-phone-report?ref=najielkotob) 
 * Manage tiles on a dashboard
+  * [Intro to dashboard tiles for Power BI designers](https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboard-tiles?ref=najielkotob)
+  * [Pin a tile to a Power BI dashboard from a report](https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboard-pin-tile-from-report?ref=najielkotob)
+  * [Pin a tile from one dashboard to another dashboard](https://docs.microsoft.com/en-us/power-bi/create-reports/service-pin-tile-to-another-dashboard?ref=najielkotob)
 * Configure data alerts
+  * [Data alerts in the Power BI service](https://docs.microsoft.com/en-us/power-bi/create-reports/service-set-data-alerts?ref=najielkotob) 
 * Use the Q&A feature
+  * [Tips for asking questions in Power BI Q&A](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-q-and-a-tips?ref=najielkotob)  
 * Add a dashboard theme
+  * [Use dashboard themes in the Power BI service](https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboard-themes?ref=najielkotob) 
 * Pin a live report page to a dashboard
+  * [Pin an entire report page, as a live tile, to a Power BI dashboard](https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboard-pin-live-tile-from-report?ref=najielkotob) 
+
+
 #### Enrich reports for usability
 * Configure bookmarks
 * Create custom tooltips

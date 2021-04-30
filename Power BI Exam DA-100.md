@@ -63,13 +63,17 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Define the tables
 * Configure table and column properties
 * Define quick measures
+  * [Use quick measures for common calculations](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-quick-measures) 
 * Flatten out a parent-child hierarchy
 * Define role-playing dimensions
+  *  [Understand star schema and the importance for Power BI](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema#role-playing-dimensions)
 * Define a relationship's cardinality and cross-filter direction
+  * [Model relationships in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-relationships-understand) 
 * Design the data model to meet performance requirements
   * [Best practice rules to improve your model’s performance](https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/?ref=najielkotob) 
 * Resolve many-to-many relationships
 * Create a common date table
+  * [Create date tables in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/guidance/model-date-tables) 
 * Define the appropriate level of data granularity
   
 #### Develop a data model

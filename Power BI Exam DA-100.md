@@ -177,14 +177,18 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 #### Create and manage workspaces
 * Create and configure a workspace
+  * [Create the new workspaces in Power BI](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-create-the-new-workspaces) 
 * Recommend a development lifecycle strategy
 * Assign workspace roles
+  * [Roles in the new workspaces](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-new-workspaces#roles-in-the-new-workspaces) 
 * Configure and update a workspace app
 * Publish, import, or update assets in a workspace
 * Apply sensitivity labels to workspace content
 * Use deployment pipelines
 * Configure subscriptions
 * Promote or certify Power BI content
+
+
 -----
 
 ## Kahoot

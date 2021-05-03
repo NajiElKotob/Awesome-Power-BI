@@ -78,11 +78,16 @@ The Data Analyst should have a fundamental understanding of data repositories an
   
 #### Develop a data model
 * Apply cross-filter direction and security filtering
+  * [Cross filter direction](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-relationships-understand#cross-filter-direction)
 * Create calculated tables
+  * [Create calculated tables in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-tables) 
 * Create hierarchies
 * Create calculated columns
+  * [Create calculated columns in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-columns) 
 * Implement row-level security roles
+  * [Row-level security (RLS) with Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) 
 * Set up the Q&A feature
+
 #### Create measures by using DAX
 * Use DAX to build complex measures
 * Use CALCULATE to manipulate filters
@@ -90,12 +95,14 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Replace numeric columns with measures
 * Use basic statistical functions to enhance data
 * Create semi-additive measures
+
 #### Optimize model performance
 * Remove unnecessary rows and columns
 * Identify poorly performing measures, relationships, and visuals
 * Improve cardinality levels by changing data types
 * Improve cardinality levels through summarization
 * Create and manage aggregations
+
 ### Visualize the data (20-25%)
 #### Create Report
 * Add visualization items to reports

@@ -176,11 +176,14 @@ The Data Analyst should have a fundamental understanding of data repositories an
 ### Deploy and maintain deliverables (10-15%)
 #### Manage datasets
 * Configure a dataset scheduled refresh
+  * [Data refresh in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/refresh-data) 
 * Configure row-level security group membership
 * Providing access to datasets
 * Configure incremental refresh settings
+  * [Incremental refresh for datasets](https://docs.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview) 
 * Promote or certify Power BI datasets
 * Identify downstream dataset dependencies
+  * [Identifying shared datasets](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-dataset-impact-analysis#identifying-shared-datasets) 
 * Configure large dataset format
 
 

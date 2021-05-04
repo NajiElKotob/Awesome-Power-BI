@@ -50,6 +50,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Resolve inconsistencies, unexpected or null values, and data quality issues
 * Apply user-friendly value replacements
 * Identify and create appropriate keys for joins
+  * [Seven Types of Table Joins](https://www.powerbi-pro.com/en/power-bi-seven-types-of-table-joins/) - powerbi-pro.com
 * Evaluate and transform column data types
 * Apply data shape transformations to table structures
 * Combine queries
@@ -57,6 +58,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Leverage Advanced Editor to modify Power Query M code
 * Configure data loading
 * Resolve data import errors
+  * [Viewing Error Messages For All Rows In Power Query](https://blog.crossjoin.co.uk/2014/12/22/viewing-error-messages-for-all-rows-in-power-query/) - Chris Webb's BI Blog
 
 ### Model the data (25-30%)
 #### Design a data model

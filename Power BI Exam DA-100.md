@@ -22,13 +22,15 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Select a shared dataset or create a local dataset
   * [Connect to datasets in the Power BI service from Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-report-lifecycle-datasets) 
 * [Select a storage mode](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-storage-mode?ref=najielkotob)
-* [Choose an appropriate query type]()
-* [Identify query performance issues]()
+* Choose an appropriate query type
+  * [Perform common query tasks in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-common-query-tasks?ref=najielkotob)
+* Identify query performance issues
+  * [Troubleshoot report performance in Power BI](https://docs.microsoft.com/en-us/power-bi/guidance/report-performance-troubleshoot?ref=najielkotob)
 * [Use Microsoft Dataverse](https://docs.microsoft.com/en-us/powerapps/maker/data-platform/data-platform-powerbi-connector?ref=najielkotob) - Create a Power BI report using data from Dataverse
   * Common Data Service has been renamed to Microsoft Dataverse
 * [Use parameters](https://docs.microsoft.com/en-us/power-query/power-query-query-parameters?ref=najielkotob)
 * Use or create a PBIDS file
-  * [Using PBIDS files to get data](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources#using-pbids-files-to-get-data)
+  * [Using PBIDS files to get data](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources#using-pbids-files-to-get-data?ref=najielkotob)
 * [Use or create a data flow](https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-create?ref=najielkotob)
 * Connect to a dataset using the XMLA endpoint
   * [Dataset connectivity with the XMLA endpoint](https://docs.microsoft.com/en-us/power-bi/admin/service-premium-connect-tools?ref=najielkotob) 

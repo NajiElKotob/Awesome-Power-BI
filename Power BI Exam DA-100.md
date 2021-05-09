@@ -94,11 +94,24 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 #### Create measures by using DAX
 * Use DAX to build complex measures
+  * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/) 
 * Use CALCULATE to manipulate filters
+  * [CALCULATE](https://docs.microsoft.com/en-us/dax/calculate-function-dax) 
+  * [How CALCULATE works in DAX](https://www.sqlbi.com/blog/marco/2010/01/03/how-calculate-works-in-dax/) - sqlbi.com
+  * [CALCULATE](https://dax.guide/calculate/) - dax.guide
 * Implement Time Intelligence using DAX
+  * [DATEADD](https://dax.guide/dateadd/) - dax.guide
+  * [DATEQTD](https://dax.guide/datesqtd/) - dax.guide
+  * [LASTDATE](https://dax.guide/lastdate/) - dax.guide
+  * [SAMEPERIODLASTYEAR](https://dax.guide/sameperiodlastyear/) - dax.guide
 * Replace numeric columns with measures
+  * [Calculated Columns and Measures in DAX](https://www.sqlbi.com/articles/calculated-columns-and-measures-in-dax/) - sqlbi.com
 * Use basic statistical functions to enhance data
+  * [MEDIAN](https://dax.guide/median/) - dax.guide
+  * [RANKX](https://dax.guide/rankx/) - dax.guide
+  * [TOPN](https://dax.guide/topn/) - dax.guide 
 * Create semi-additive measures
+  * [Semi-Additive Measures in DAX](https://www.sqlbi.com/articles/semi-additive-measures-in-dax/) - sqlbi.com
 
 #### Optimize model performance
 * Remove unnecessary rows and columns

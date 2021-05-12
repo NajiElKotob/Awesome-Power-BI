@@ -115,10 +115,14 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 #### Optimize model performance
 * Remove unnecessary rows and columns
+  * [Choose or remove columns](https://docs.microsoft.com/en-us/power-query/choose-remove-columns?ref=najielkotob)
 * Identify poorly performing measures, relationships, and visuals
+  * [Use Performance Analyzer to examine report element performance](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-performance-analyzer) 
 * Improve cardinality levels by changing data types
+  * [Data types in Power Query](https://docs.microsoft.com/en-us/power-query/data-types) 
 * Improve cardinality levels through summarization
 * Create and manage aggregations
+  * [Grouping or summarizing rows](https://docs.microsoft.com/en-us/power-query/group-by?ref=najielkotob) 
 
 ### Visualize the data (20-25%)
 #### Create Report
@@ -143,6 +147,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
   * [Intro to dashboard tiles for Power BI designers](https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboard-tiles?ref=najielkotob)
   * [Pin a tile to a Power BI dashboard from a report](https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboard-pin-tile-from-report?ref=najielkotob)
   * [Pin a tile from one dashboard to another dashboard](https://docs.microsoft.com/en-us/power-bi/create-reports/service-pin-tile-to-another-dashboard?ref=najielkotob)
+  * [Add images, videos, and more to your dashboard](https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboard-add-widget)
 * Configure data alerts
   * [Data alerts in the Power BI service](https://docs.microsoft.com/en-us/power-bi/create-reports/service-set-data-alerts?ref=najielkotob) 
 * Use the Q&A feature

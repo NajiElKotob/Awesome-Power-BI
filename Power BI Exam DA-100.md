@@ -213,13 +213,17 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Recommend a development lifecycle strategy
 * Assign workspace roles
   * [Roles in the new workspaces](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-new-workspaces#roles-in-the-new-workspaces) 
+  * [Organize work in the new workspaces in Power BI](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-new-workspaces)
 * Configure and update a workspace app
 * Publish, import, or update assets in a workspace
 * Apply sensitivity labels to workspace content
+  * [How to apply sensitivity labels in Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-security-apply-data-sensitivity-labels) 
 * Use deployment pipelines
+  * [Get started with deployment pipelines](https://docs.microsoft.com/en-us/power-bi/create-reports/deployment-pipelines-get-started?tabs=datasets) 
 * Configure subscriptions
+  *  [Subscribe others to your reports and dashboards in the Power BI service](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-report-subscribe)
 * Promote or certify Power BI content
-
+  * [Endorsement - Promoting and certifying Power BI content](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-endorsement-overview)
 
 -----
 

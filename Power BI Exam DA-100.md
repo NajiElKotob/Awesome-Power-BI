@@ -186,12 +186,17 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 #### Perform advanced analysis
 * Identify outliers
+  * [Detecting & Showcasing Outlier Results In Power BI](https://blog.enterprisedna.co/outlier-detection-and-visualization-in-power-bi-advanced-dax/) - enterprisedna.co
 * Conduct Time Series analysis
+  * [How Forecasting in Power BI Works](https://spreadsheeto.com/power-bi-forecasting/) - spreadsheeto.com
 * Use groupings and binnings
   * [Use grouping and binning in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-grouping-and-binning?ref=najielkotob) 
 * Use the Key Influencers to explore dimensional variances
+  * [Create key influencers visualizations](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers) 
 * Use the decomposition tree visual to break down a measure
+  * [Create and view decomposition tree visuals in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree) 
 * Apply AI Insights
+  * [Use AI Insights in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-ai-insights) 
 
 ### Deploy and maintain deliverables (10-15%)
 #### Manage datasets
@@ -228,8 +233,18 @@ The Data Analyst should have a fundamental understanding of data repositories an
 -----
 
 ## Kahoot
-* [Power BI Quiz with Adam Saxton](https://www.youtube.com/watch?v=KGWnrhILY7c)
-* [Power BI Quiz with Will Thompson](https://www.youtube.com/watch?v=GHpm9EHVK4k)
+* [Power BI Quiz with Chris Finlan](https://www.youtube.com/watch?v=SaUspKbXn6M) - March 2021
+* [Power BI Quiz with Lukasz Pawlowski](https://www.youtube.com/watch?v=PabsIDxMhWE) - February 2021
+* [Power BI Quiz with Alberto Ferrari](https://www.youtube.com/watch?v=MyjYbmVbL-o) - February 2021
+* [Power BI Quiz with Daniel Otykier](https://www.youtube.com/watch?v=MX_q_T2cb4w) - January 2021
+* [Power BI Quiz with Darren Gosbell](https://www.youtube.com/watch?v=7T6a3EA5pek) - January 2021
+* [Power BI Quiz with Matthew Roche](https://www.youtube.com/watch?v=L_nqoEB9Sfo) - July 2020
+* [Power BI Quiz with Rishi Sapra](https://www.youtube.com/watch?v=QIFGOzAe8Zo) - July 2020
+* [Power BI Quiz with Will Thompson](https://www.youtube.com/watch?v=GHpm9EHVK4k) - June 2020
+* [Power BI Quiz with Adam Saxton](https://www.youtube.com/watch?v=KGWnrhILY7c) - May 2020
+* [Power BI Quiz with Marco Russo](https://www.youtube.com/watch?v=skkA3CFUxDE) - May 2020
+* 
+
 
 ## Microsoft Learn
 * [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/?ref=najielkotob)

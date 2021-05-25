@@ -70,6 +70,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
 
 ### Special Videos
+* [Power BI for BI pros and Data Engineers (MSBuild)](https://mybuild.microsoft.com/sessions/a8ee3d06-07a7-426c-8eae-6f16a7ad4cb7?source=sessions) - Priya Sathy (May 2021)
 * [Common mistakes in big data models](https://www.youtube.com/watch?v=L3uT-cn_eO8) - SQLBI (April 2021)
 * [Understanding memory used by Power BI](https://www.youtube.com/watch?v=kpAZD7AeRQw) - SQLBI (February 2021)
 * [Power BI Dev Camp: Developing Custom Visuals for Power BI](https://www.youtube.com/watch?v=LQB-q9SVyY4) - Microsoft Power BI (February 2021)

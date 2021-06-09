@@ -56,6 +56,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Evaluate and transform column data types
 * Apply data shape transformations to table structures
 * Combine queries
+  * [Combine queries](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combine-data#combine-queries) - Tutorial: Shape and combine data in Power BI Desktop
 * Apply user-friendly naming conventions to columns and queries
 * Leverage Advanced Editor to modify Power Query M code
 * Configure data loading

@@ -50,7 +50,9 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 ##### Clean, transform, and load the data
 * Resolve inconsistencies, unexpected or null values, and data quality issues
+  * [Profile data in Power BI](https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/6-profile-data) 
 * Apply user-friendly value replacements
+  * [Simplify the data structure](https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/3-data-structure)
 * Identify and create appropriate keys for joins
   * [Seven Types of Table Joins](https://www.powerbi-pro.com/en/power-bi-seven-types-of-table-joins/) - powerbi-pro.com
 * Evaluate and transform column data types

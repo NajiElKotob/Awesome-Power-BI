@@ -206,10 +206,12 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Configure a dataset scheduled refresh
   * [Data refresh in Power BI](https://docs.microsoft.com/en-us/power-bi/connect-data/refresh-data) 
 * Configure row-level security group membership
-* Providing access to datasets
+  * [Row-level security (RLS) with Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) 
+* Provide access to datasets
 * Configure incremental refresh settings
   * [Incremental refresh for datasets](https://docs.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview) 
 * Promote or certify Power BI datasets
+  * [Endorse your content](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-endorse-content) 
 * Identify downstream dataset dependencies
   * [Identifying shared datasets](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-dataset-impact-analysis#identifying-shared-datasets) 
 * Configure large dataset format
@@ -223,6 +225,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
   * [Roles in the new workspaces](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-new-workspaces#roles-in-the-new-workspaces) 
   * [Organize work in the new workspaces in Power BI](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-new-workspaces)
 * Configure and update a workspace app
+  * [Publish an app in Power BI](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-create-distribute-apps) 
 * Publish, import, or update assets in a workspace
 * Apply sensitivity labels to workspace content
   * [How to apply sensitivity labels in Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-security-apply-data-sensitivity-labels) 

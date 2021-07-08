@@ -93,6 +93,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
   * [Create calculated columns in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-calculated-columns) 
 * Implement row-level security roles
   * [Row-level security (RLS) with Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-admin-rls) 
+* Implement object-level security
 * Set up the Q&A feature
 
 #### Create measures by using DAX
@@ -116,6 +117,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Create semi-additive measures
   * [Semi-Additive Measures in DAX](https://www.sqlbi.com/articles/semi-additive-measures-in-dax/) - sqlbi.com
 
+
 #### Optimize model performance
 * Remove unnecessary rows and columns
   * [Choose or remove columns](https://docs.microsoft.com/en-us/power-query/choose-remove-columns?ref=najielkotob)
@@ -126,6 +128,8 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Improve cardinality levels through summarization
 * Create and manage aggregations
   * [Grouping or summarizing rows](https://docs.microsoft.com/en-us/power-query/group-by?ref=najielkotob) 
+* Use Query Diagnostics
+
 
 ### Visualize the data (20-25%)
 #### Create Report
@@ -180,12 +184,20 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Apply conditional formatting
 * Apply slicers and filters
 * Perform top N analysis
+  * [How to Create Power BI TOP N Report (Variable TOP N Filter)](https://www.youtube.com/watch?v=wKfPS1yZfE0) - Avi Singh
 * Explore statistical summary
+  * [Explore statistical summary](https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/2-statistical-summary) 
+  * [Create a Profiling Report in Power BI](https://radacad.com/create-a-profiling-report-in-power-bi-give-the-end-user-information-about-the-data) - radacad.com
 * Use the Q&A visual
+  * [Create a Q&A visual in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-q-and-a) 
 * Add a Quick Insights result to a report
+  * [Generate data insights on your dataset automatically with Power BI](https://docs.microsoft.com/en-us/power-bi/create-reports/service-insights) 
 * Create reference lines by using Analytics pane
+  * [Use the Analytics pane in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane) 
 * Use the Play Axis feature of a visualization
+  * [Scatter charts, bubble charts, and dot plot charts in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-scatter) 
 * Personalize visuals
+  * [Let users personalize visuals in a report](https://docs.microsoft.com/en-us/power-bi/create-reports/power-bi-personalize-visuals) 
 
 #### Perform advanced analysis
 * Identify outliers

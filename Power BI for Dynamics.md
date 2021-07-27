@@ -4,7 +4,7 @@
 
 ## Docs
 * [Microsoft Dynamics 365 documentation](https://docs.microsoft.com/en-us/dynamics365/)
-
+* [Modern Lifecycle Policy](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)
 
 -----
 

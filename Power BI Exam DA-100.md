@@ -56,7 +56,11 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Identify and create appropriate keys for joins
   * [Seven Types of Table Joins](https://www.powerbi-pro.com/en/power-bi-seven-types-of-table-joins/) - powerbi-pro.com
 * Evaluate and transform column data types
+  * [Data types in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-data-types) 
+  * [Evaluate and change column data types](https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/4-column-data-types)
 * Apply data shape transformations to table structures
+  * [Combine multiple tables into a single table](https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/5-combine-tables) 
+  * [Shape and combine data in Power BI Desktop (Tutorial)](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combine-data)
 * Combine queries
   * [Combine queries](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combine-data#combine-queries) - Tutorial: Shape and combine data in Power BI Desktop
 * Apply user-friendly naming conventions to columns and queries

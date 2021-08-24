@@ -86,7 +86,9 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Create a common date table
   * [Create date tables in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/guidance/model-date-tables) 
 * Define the appropriate level of data granularity
-  
+* Apply or change sensitivity labels
+
+ 
 #### Develop a data model
 * Apply cross-filter direction and security filtering
   * [Cross filter direction](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-relationships-understand#cross-filter-direction)
@@ -144,6 +146,8 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Configure conditional formatting
 * Apply slicing and filtering
   * [How visuals cross-filter each other in a Power BI report](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-interactions?ref=najielkotob) * Add an R or Python visual
+* Add an R or Python visual
+* Add a Smart Narrative visual
 * Configure the report page
 * Design and configure for accessibility
   * [Design Power BI reports for accessibility](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-accessibility-creating-reports?ref=najielkotob) 
@@ -208,6 +212,8 @@ The Data Analyst should have a fundamental understanding of data repositories an
   * [Detecting & Showcasing Outlier Results In Power BI](https://blog.enterprisedna.co/outlier-detection-and-visualization-in-power-bi-advanced-dax/) - enterprisedna.co
 * Conduct Time Series analysis
   * [How Forecasting in Power BI Works](https://spreadsheeto.com/power-bi-forecasting/) - spreadsheeto.com
+* Use anomaly detection
+  * [Anomaly detection](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-anomaly-detection) 
 * Use groupings and binnings
   * [Use grouping and binning in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-grouping-and-binning?ref=najielkotob) 
 * Use the Key Influencers to explore dimensional variances

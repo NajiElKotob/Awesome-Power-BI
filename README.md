@@ -131,7 +131,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Will Power BI's Reign last? w/ Patrick LeBlanc](https://www.listennotes.com/podcasts/analytics-on-fire/65-will-power-bis-reign-last-UMgxRNjn0vm/) - (September 2020)
 * [Expert's Talk](https://ssbi-blog.de/podcast/experts-talk/) - Do you want to know what other Power BI experts think about certain aspects of Power BI? Here they share their expertise.
 * Power BI & More at [Apple](https://podcasts.apple.com/us/podcast/power-bi-more/id1457435035) and [Listen Notes](https://www.listennotes.com/podcasts/power-bi-more-ulrik-carlsson-j5BL9t6Yg4o/) - Ulrik Carlsson
-
+* [BIFocal](https://soundcloud.com/bifocal)
 -----
 ## Learning
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning) - Microsoft Docs

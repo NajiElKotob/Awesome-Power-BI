@@ -1,6 +1,6 @@
 # Power BI Exam DA-100
 
-{Work in Process, Stay Tuned}
+{Awesome Works in Progress}
 
 `Data Analysts enable businesses to maximize the value of their data assets by using Power BI. As a subject matter expert, data analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations. Data analysts also collaborate with key stakeholders across verticals to deliver relevant insights based on identified business requirements.
 The Data Analyst should have a fundamental understanding of data repositories and data processing both on-premises and in the cloud.`
@@ -87,7 +87,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
   * [Create date tables in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/guidance/model-date-tables) 
 * Define the appropriate level of data granularity
 * Apply or change sensitivity labels
-
+  * [Enable sensitivity labels in Power BI](https://docs.microsoft.com/en-us/power-bi/admin/service-security-enable-data-sensitivity-labels)
  
 #### Develop a data model
 * Apply cross-filter direction and security filtering

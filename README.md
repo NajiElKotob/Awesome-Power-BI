@@ -326,6 +326,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w)
 * Cole Nussbaumer Knaflic
     * [SWD Chart Guide](http://www.storytellingwithdata.com/chart-guide)
+    * [Storytelling with Data :tv:](https://www.youtube.com/channel/UCjhGlILWNloXJdR2NTCBMlA/featured)
 * Neil Halloran
     * [The Nuclear Threat - The Shadow Peace](https://www.youtube.com/watch?v=bIAF7kBbGKk)
 * [Stephanie Starling](http://www.stephaniestarling.com/) - freelance researcher and data journalist

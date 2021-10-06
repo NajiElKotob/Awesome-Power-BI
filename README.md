@@ -271,6 +271,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Difinity Conference](http://difinity.co.nz/) - difinity.co.nz
 * [Power Platform Summit](https://www.powerplatformsummit.com) - powerplatformsummit.com
 * [Data Platform Summit](https://www.dataplatformgeeks.com) - dataplatformgeeks.com
+    * [Free Sessions](https://dps10.com/free-sessions/)
 * [Power Platform World Tour](https://www.powerplatformworldtour.com) - powerplatformworldtour.com
 * [Open Data Science Conference](https://odsc.com/) - odsc.com
 

@@ -508,6 +508,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
   * [Kibana Vs Microsoft Power BI Comparison 2020](https://comparecamp.com/kibana-vs-microsoft-power-bi-comparison) - comparecamp.com
   * [Kibana vs Microsoft Power BI](https://www.trustradius.com/compare-products/kibana-vs-microsoft-power-bi) - trustradius.com
 * [Interactive MagicQuadrant BI and Analytic Platforms](https://www.cassini.cc/machine-learning/interactive-magicquadrant-bi-and-analytic-platforms/)
+* [Power BI Blog Portfolio](https://bi-survey.com/powerbimap/wp-content/uploads/sites/4/2021/09/PBI-Blog-Portfolio-September-2021.pdf) :star: - bi-survey.com
+
 
 ### Demos
 * [Power BI Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)

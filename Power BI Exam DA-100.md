@@ -281,3 +281,4 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * [Visualize data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/?ref=najielkotob)
 * [Data analysis in Power BI](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/?ref=najielkotob)
 * [Manage workspaces and datasets in Power BI](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/?ref=najielkotob)
+* [Empower modern analytics and business intelligence data cultures with Excel, Power BI, MS Teams, and SharePoint](https://docs.microsoft.com/en-us/learn/paths/modern-analytics/)

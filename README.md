@@ -109,6 +109,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 -----
 ## Blogs
+* Alex J. Garcia [Smart Power BI](https://smartpowerbi.co.uk/) - Helping Organizations to Use Power BI
 * [Blue Granite](https://www.blue-granite.com/blog/topic/power-bi)
 * [Capstone Analytics](https://www.capstoneanalytics.com.au/blog/) - We bring analytics to your fingertips
 * Daniil Maslyuk [XXL BI](https://xxlbi.com/) - More than Excel BI

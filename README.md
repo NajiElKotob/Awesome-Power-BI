@@ -148,6 +148,7 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Power BI Desktop Feature Summary
 ### 2021
+* [Power BI Desktop November 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-november-2021-feature-summary/)
 * [Power BI Desktop October 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-october-2021-feature-summary/)
 * [Power BI Desktop September 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2021-feature-summary/)
 * [Power BI Desktop August 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-august-2021-feature-summary/)

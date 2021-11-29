@@ -11,7 +11,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 -----
 
-## Skills measured (March 23, 2021)
+## Skills measured (November 23, 2021)
 ### Prepare the data (20-25%)
 ##### Get data from different data sources
 * Identify and connect to a data source
@@ -144,6 +144,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Format and configure visualizations
 * Import a custom visual
 * Configure conditional formatting
+* Configure small multiples
 * Apply slicing and filtering
   * [How visuals cross-filter each other in a Power BI report](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-interactions?ref=najielkotob) * Add an R or Python visual
 * Add an R or Python visual
@@ -154,6 +155,7 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * Configure automatic page refresh
 * Create a paginated report
   * [What are paginated reports in Power BI Premium?](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi?ref=najielkotob)
+* Create a PivotTable from a Power BI dataset in Excel
 
 #### Create dashboards
 * Set mobile view

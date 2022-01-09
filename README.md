@@ -389,7 +389,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/) :star:
     * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
     * [Advanced DAX (Video)](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari
-    * [Deep dive into DAX evaluation context](https://youtu.be/teYwjHkCEm0) - Marco Russo (June 2019)
+    * [Deep dive into DAX evaluation context :tv:](https://youtu.be/teYwjHkCEm0) - Marco Russo (June 2019)
+    * [DAX Filter Context in 1 Hour](https://www.youtube.com/watch?v=hZd9EgUR7Do) - Marco Russo (March 2021)
     * [CALCULATE in DAX - pills](https://www.youtube.com/watch?v=Tk-7gBt9CDE&list=PLU6II7MW-aiIees6mrPfdjt9c8noi7P66)
     * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
     * [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.

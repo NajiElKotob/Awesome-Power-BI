@@ -385,14 +385,15 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [DAX basics in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics)
     * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
 * SQLBI 
+    * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
     * [DAX.do](https://dax.do/) - Write your DAX queries, try them and share them easily with DAX.do
     * [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/) :star:
-    * [DAX 101 (Video)](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
-    * [Advanced DAX (Video)](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari
-    * [Deep dive into DAX evaluation context :tv:](https://youtu.be/teYwjHkCEm0) - Marco Russo (June 2019)
+    * [DAX 101 :tv: ~2 hours](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
+    * [Advanced DAX :tv: ~2 hours](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari
+    * [Deep dive into DAX evaluation context :tv: ~1 hour](https://youtu.be/teYwjHkCEm0) - Marco Russo (June 2019)
     * [DAX Filter Context in 1 Hour](https://www.youtube.com/watch?v=hZd9EgUR7Do) - Marco Russo (March 2021)
     * [CALCULATE in DAX - pills](https://www.youtube.com/watch?v=Tk-7gBt9CDE&list=PLU6II7MW-aiIees6mrPfdjt9c8noi7P66)
-    * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
+    * [From SQL to DAX](https://www.sqlbi.com/?s=%22from%20sql%20to%20dax%22&type=post)
     * [Row Context and Filter Context in DAX](https://www.sqlbi.com/articles/row-context-and-filter-context-in-dax) - Understanding the difference between row context and filter context is important in using DAX correctly.
 * Matt Allington
     * [Evaluation Contexts in DAX - Level 200 (Video)](https://www.youtube.com/watch?v=1yWLhxYoq88)

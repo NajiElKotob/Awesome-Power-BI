@@ -407,6 +407,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * LazyDAX - Arnaud Gastelblum
     * [Learn DAX from Examples](https://github.com/arnaudgastelblum/LazyDAX)
     * [LazyDAX 2.0 (YouTube)](https://www.youtube.com/watch?v=cnPDlJqjBYE)
+* Wise Owl Tutorials
+    * [DAX for Power BI :tv:](https://www.youtube.com/playlist?list=PLNIs-AWhQzclPj5BGcckuyrOVqRD-7rIX) 
 * SSMS
     * [Getting Started with the SSAS Tabular Model](https://www.red-gate.com/simple-talk/sql/reporting-services/getting-started-with-the-ssas-tabular-model-/) - Robert Sheldon
     * [Using DAX to retrieve tabular data](https://www.red-gate.com/simple-talk/sql/reporting-services/using-dax-to-retrieve-tabular-data) - Robert Sheldon

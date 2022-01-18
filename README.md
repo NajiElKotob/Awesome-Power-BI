@@ -342,7 +342,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
         * [Storytelling with data and Power BI](https://community.powerbi.com/t5/Community-Blog/Storytelling-with-data-and-Power-BI/ba-p/609285)
         * [How to effectively tell a story with your data and Power BI (Video)](https://www.youtube.com/watch?v=E8Mz18i_po4)
 * Lucidworks
-    * [Dark Data](https://lucidworks.com/darkdata/)
+    * [Dark Data](https://lucidworks.com/darkdata/); [Inveractive version](http://interactive.columnfivemedia.com/lucidworks/dark-data/)
 * [Natalia Kiseleva (eolay)](http://eolay.tilda.ws/dataartdtp/en/) - eolay.tilda.ws | Mortality caused by road traffic injury
 *  Doug Ros eal Value (Book)](https://www.amazon.com/Data-Science-Create-Questions-Deliver/dp/1484222520)
 * David JP Phillips

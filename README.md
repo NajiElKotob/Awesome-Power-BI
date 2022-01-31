@@ -68,6 +68,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Pragmatic Work](https://www.youtube.com/channel/UC5CugyvTdOloiuTc9nN09TA)
 * Sam McKay [Enterprise DNA](https://www.youtube.com/channel/UCy2rBgj4M1tzK-urTZ28zcA) 
 * Will Thompson [Analyze & Visualize Data with Power BI](https://lnkd.in/dVrZKv8)
+* [Workout Wednesday](https://www.youtube.com/channel/UCFevI4baASFrdafsbqTnSWA/featured)
 
 ### Special Videos
 * [Charticulator: Now a Power BI Custom Visual! (with Daniel Marsh-Patrick)](https://www.youtube.com/watch?v=1tp6ZqWjFso) - Havens Consulting

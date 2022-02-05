@@ -377,6 +377,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * Hints
     * A Power BI dashboard is made up of tiles that, together, tell a story. -- Microsoft
     * Each report page is telling a story. To fully understand the story, you need to know if filters are being applied and what those filters are. -- Microsoft
+    * A visual represents a single table, chart or diagram. A dashboard brings together several relaated charts to tell or story about the selected data. -- CFI
     
 -----
 

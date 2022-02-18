@@ -165,31 +165,6 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Desktop March 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2021-feature-summary/)
 * [Power BI Desktop February 2021 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2021-feature-summary/)
 
-### 2020
-* [Power BI Desktop December 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-december-2020-feature-summary/)
-* [Power BI Desktop November 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-november-2020-feature-summary/)
-* [Power BI Desktop October 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-october-2020-feature-summary/)
-* [Power BI Desktop September 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/)
-* [Power BI Desktop August 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary)
-* [Power BI Desktop July 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2020-feature-summary)
-* [Power BI Desktop June 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2020-feature-summary)
-* [Power BI Desktop May 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2020-feature-summary)
-* [Power BI Desktop April 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-april-2020-feature-summary)
-* [Power BI Desktop March 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2020-feature-summary)
-* [Power BI Desktop February 2020 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2020-feature-summary)
-
-### 2019
-* [Power BI Desktop December 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-december-2019-feature-summary)
-* [Power BI Desktop November 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-2019-feature-summary)
-* [Power BI Desktop October 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-october-2019-feature-summary)
-* [Power BI Desktop September 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-september-2019-feature-summary)
-* [Power BI Desktop August 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2019-feature-summary)
-* [Power BI Desktop July 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-july-2019-feature-summary)
-* [Power BI Desktop June 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-june-2019-feature-summary)
-* [Power BI Desktop May 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2019-feature-summary)
-* [Power BI Desktop April 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-april-2019-feature-summary)
-* [Power BI Desktop March 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-march-2019-feature-summary)
-* [Power BI Desktop February 2019 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-february-2019-feature-summary)
 
 ### Previous years
 * [Power BI Desktop Feature Summary History](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Desktop%20Feature%20Summary.md)

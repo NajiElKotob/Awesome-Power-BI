@@ -300,7 +300,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design) - Cameron Chapman
     * [7 Gestalt principles of visual perception: cognitive psychology for UX](https://www.usertesting.com/blog/gestalt-principles/)
 * [What is the F-Pattern and How to Use It for Increased Conversions](https://instapage.com/blog/f-pattern-layout)
-
+* [Fundamentals of Data Visualization 📚](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
 -----
 ## Storytelling
 Reporting is just the presentation of data , but story telling is more engaging. Effective data storytelling uses language and visualization to help the audience engage and connect with the larger meaning. 

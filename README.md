@@ -295,6 +295,7 @@ It is so easy to start with Power BI, but hard to master it.
     * [Visual Vocabulary - Poster](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)
     * [Data Viz Project](https://datavizproject.com/) - ferdio
     * [Datawrapper Academy](https://academy.datawrapper.de/) - academy.datawrapper.de
+* [Lisa Muth](https://lisacharlottemuth.com/) - lisacharlottemuth.com | I create, talk & write about data vis
 * [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz is a classification of chart types based on input data format.
 *  Gestalt
     * [Exploring the Gestalt Principles of Design](https://www.toptal.com/designers/ui/gestalt-principles-of-design) - Cameron Chapman

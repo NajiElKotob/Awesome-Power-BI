@@ -311,6 +311,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [Do Less](https://medium.com/@billshander/do-less-86f2eee9e99f)
     * [From Numbers to Narrative (Key Takeaways)](https://chapters.theiia.org/milwaukee/News/ChapterDocuments/Storytelling%20with%20Data%20-%20Key%20Takeaways%2009.19.08.pdf) 
 * Hans Rosling
+    * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo) :star: - The Joy of Stats (BBC Four)
     * [The best stats you've ever seen | Hans Rosling](https://www.youtube.com/watch?v=hVimVzgtD6w)
 * Cole Nussbaumer Knaflic
     * [SWD Chart Guide](http://www.storytellingwithdata.com/chart-guide)

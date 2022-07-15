@@ -150,6 +150,8 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Power BI Desktop Feature Summary
 ### 2022
+* [Power BI Desktop July 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-july-2022-feature-summary/)
+* [Power BI Desktop June 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-june-2022-feature-summary/)
 * [Power BI Desktop May 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-may-2022-feature-summary/)
 * [Power BI Desktop April 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-april-2022-feature-summary/)
 * [Power BI Desktop March 2022 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2022-feature-summary/)

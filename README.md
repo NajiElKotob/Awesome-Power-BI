@@ -308,6 +308,8 @@ It is so easy to start with Power BI, but hard to master it.
     * [7 Gestalt principles of visual perception: cognitive psychology for UX](https://www.usertesting.com/blog/gestalt-principles/)
 * [What is the F-Pattern and How to Use It for Increased Conversions](https://instapage.com/blog/f-pattern-layout)
 * [Fundamentals of Data Visualization 📚](https://clauswilke.com/dataviz/) - Claus O. Wilke (O'Reilly)
+* [Data Visualization](https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch9/5214821-eng.htm) statcan.gc.ca - Statistics | Power from Data
+
 -----
 ## Storytelling
 Reporting is just the presentation of data , but story telling is more engaging. Effective data storytelling uses language and visualization to help the audience engage and connect with the larger meaning. 

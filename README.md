@@ -501,6 +501,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 -----
 ## Competitive Analysis
 * [Power BI vs Tableau vs Qlik (Google Trends)](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02s9k80,Qlik%2BQlikView%2BQlikSense,Power%20BI)
+* [Ron George's original sketch of Power BI (named Project Crescent)](https://twitter.com/KotobNaji/status/1286729758202634240) 💛
 * [Alteryx Platform vs Microsoft Power BI](https://www.trustradius.com/compare-products/alteryx-platform-vs-microsoft-power-bi)
 * [Power BI vs Tableau: A Data Analytics Duel](https://technologyadvice.com/blog/information-technology/power-bi-vs-tableau/)
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)

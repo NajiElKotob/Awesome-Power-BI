@@ -380,11 +380,12 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [Introduction to DAX](https://docs.microsoft.com/en-us/power-bi/guided-learning/introductiontodax)
     * [DAX basics in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics)
     * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
-* SQLBI 
+* SQLBI ⭐
     * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
     * [DAX.do](https://dax.do/) - Write your DAX queries, try them and share them easily with DAX.do
     * [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/) :star:
     * [DAX 101 :tv: ~2 hours](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari
+    * [The Whiteboard (SQLBI)](https://www.youtube.com/watch?v=OJFCKg7wDLc&list=PLU6II7MW-aiIREc1XdCYviQEj4Ui2pNDS&index=9) 
     * [Advanced DAX :tv: ~2 hours](https://www.youtube.com/watch?v=6ncHnWMEdic) - Alberto Ferrari
     * [Deep dive into DAX evaluation context :tv: ~1 hour](https://youtu.be/teYwjHkCEm0) - Marco Russo (June 2019)
     * [DAX Filter Context in 1 Hour](https://www.youtube.com/watch?v=hZd9EgUR7Do) - Marco Russo (March 2021)

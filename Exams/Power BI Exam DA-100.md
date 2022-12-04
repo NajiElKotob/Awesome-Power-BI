@@ -1,4 +1,4 @@
-# Power BI Exam DA-100
+# Power BI Exam PL-300 (Microsoft Power BI Data Analyst)
 
 {Awesome Works in Progress}
 
@@ -6,12 +6,12 @@
 The Data Analyst should have a fundamental understanding of data repositories and data processing both on-premises and in the cloud.`
 
 ## Exam
-* [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100) - Microsoft Certification can take you from the start of your career to its pinnacle. Certification can increase your visibility, differentiate you from your peers, and validate your knowledge and skills.
+* [Exam PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/certifications/exams/pl-300) - Microsoft Certification can take you from the start of your career to its pinnacle. Certification can increase your visibility, differentiate you from your peers, and validate your knowledge and skills.
 * [About Microsoft Certification exams](https://docs.microsoft.com/en-us/learn/certifications/certification-exams)
 
 -----
 
-## Skills measured (November 23, 2021)
+## [Skills measured](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWREll) (Under Review)
 ### Prepare the data (20-25%)
 ##### Get data from different data sources
 * Identify and connect to a data source

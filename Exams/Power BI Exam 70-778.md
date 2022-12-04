@@ -1,7 +1,7 @@
 # Power BI Exam 70-778
 
 
-This exam retired on June 30, 2020 (Knowledge has no expiry date). Please check the new version [DA-100](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Exam%20DA-100.md)
+This exam retired on June 30, 2020 (Knowledge has no expiry date). Please check the new version [PL-300](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Exams/Power%20BI%20Exam%20PL-300.md)
 
 
 ## Microsoft

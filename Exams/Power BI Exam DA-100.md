@@ -1,17 +1,18 @@
-# Power BI Exam PL-300 (Microsoft Power BI Data Analyst)
+# Power BI Exam DA-100
 
-{Awesome Works in Progress}
+This exam retired (Knowledge has no expiry date). Please check the new version [PL-300](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Exams/Power%20BI%20Exam%20PL-300.md)
+
 
 `Data Analysts enable businesses to maximize the value of their data assets by using Power BI. As a subject matter expert, data analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations. Data analysts also collaborate with key stakeholders across verticals to deliver relevant insights based on identified business requirements.
 The Data Analyst should have a fundamental understanding of data repositories and data processing both on-premises and in the cloud.`
 
 ## Exam
-* [Exam PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/certifications/exams/pl-300) - Microsoft Certification can take you from the start of your career to its pinnacle. Certification can increase your visibility, differentiate you from your peers, and validate your knowledge and skills.
+* [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/exams/da-100) - Microsoft Certification can take you from the start of your career to its pinnacle. Certification can increase your visibility, differentiate you from your peers, and validate your knowledge and skills.
 * [About Microsoft Certification exams](https://docs.microsoft.com/en-us/learn/certifications/certification-exams)
 
 -----
 
-## [Skills measured](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWREll) (Under Review)
+## Skills measured (November 23, 2021)
 ### Prepare the data (20-25%)
 ##### Get data from different data sources
 * Identify and connect to a data source

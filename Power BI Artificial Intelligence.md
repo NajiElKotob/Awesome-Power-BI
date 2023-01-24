@@ -5,33 +5,51 @@ It is crucial for data analysts to explore and visualize data to help their stak
 -----
 
 ## AI is Changing Power BI
-* [Smart Narrative](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-smart-narrative)
+### AI Insights
 * [Use AI Insights in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-ai-insights)
-* [Use insights in Power BI Desktop to explain increases and decreases seen in visuals](https://docs.microsoft.com/en-us/power-bi/desktop-insights) 
+* [Use insights in Power BI Desktop to explain increases and decreases seen in visuals](https://docs.microsoft.com/en-us/power-bi/desktop-insights)
+* [Automated Machine Learning in Power BI](https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated) 
+ 
+### Smart Narrative
+* [Smart Narrative](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-smart-narrative)
+### Key Influencers
 * [Key influencers visualization](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers)
   * With categorical values, Key Influencers uses ML.NET to run logistic regression for categorical metrics, using the One-hot encoding, Replace missing value, and Normalize mean variance data transformations and the L-BFGS Logistic Regression algorithm. While in numerical values, Key Influencers uses ML.NET to run linear regression, using the same data transformations as the categorical key influencers and using the SDCA regression algorithm. On the other hand, the Top Segments uses ML.NET to run a decision tree, using Fast tree algorithms (categorical and numerical), to find interesting subgroups.  _[learn more](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet/customers/power-bi)_
+### Q&A
 * [Introduction to Power BI Q&A visual](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-q-and-a)
-* [Automated Machine Learning in Power BI](https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated) 
-* [Quick Insights](https://docs.microsoft.com/en-us/power-bi/service-insights) and Scoped Insights
-* [Use the decomposition tree visual in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
-* [Add a column from an example](https://docs.microsoft.com/en-us/power-bi/desktop-add-column-from-example)
-* [Get data from a Web page by providing an example](https://docs.microsoft.com/en-us/power-bi/desktop-connect-to-web-by-example)
-* [Anomaly detection](https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview/)
-* [Cognitive Services in Power BI](https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-machine-learning-integration) - The services that are supported today are Sentiment Analysis, Key Phrase Extraction, Language Detection, and Image Tagging.
+* [Tips for asking questions in Power BI Q&A](https://learn.microsoft.com/en-us/power-bi/consumer/end-user-q-and-a-tips) ⭐
 * Top N analysis
   * Q&A visual e.g., "What are the top 5 customers by sales in clustered column?", Top N filter, [TOPN](https://dax.guide/topn/) DAX formula
-* Clustering
+### Quick Insights
+* [Quick Insights](https://docs.microsoft.com/en-us/power-bi/service-insights) and Scoped Insights
+
+### Decomposition Tree
+* [Use the decomposition tree visual in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-decomposition-tree)
+
+### Column from an Example
+* [Add a column from an example](https://docs.microsoft.com/en-us/power-bi/desktop-add-column-from-example)
+* [Get data from a Web page by providing an example](https://docs.microsoft.com/en-us/power-bi/desktop-connect-to-web-by-example)
+
+### Anomaly Detection
+* [Anomaly detection](https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview/)
+* [Cognitive Services in Power BI](https://docs.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-machine-learning-integration) - The services that are supported today are Sentiment Analysis, Key Phrase Extraction, Language Detection, and Image Tagging.
+
+### Clustering
   * [Clustering using Scatter Charts](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-november-feature-summary/#clustering)
+
+### Time Series
 * Time Series
   * [Forecasting with Line Chart](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane#apply-forecasting)
   * Scatter chart
   * Play Axis
  * Grouping and Binning
  * Advanced analytics custom visuals  
-* Python
+
+### Python
   * [Run Python scripts in Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts)
   * [Use Python in Query Editor](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-python-in-query-editor)
-* R
+
+### R
   * [Create Power BI visuals using R](https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-r-visuals)
   * [Use R in Power Query Editor](https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-r-in-query-editor)
     

@@ -59,6 +59,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Alex Dupler & Alex Powers [Two Alex](https://www.youtube.com/channel/UCOZRKgwJMnfnipCEy9CxCjg)
 * Avi Singh [PowerBIPro](https://lnkd.in/dffuDBa)
 * Bas Dohmen [How to Power BI](https://www.youtube.com/channel/UCcfngi7_ASuo5jdWX0bNauQ)
+* Chandeep [Goodly](https://www.youtube.com/@GoodlyChandeep)
 * Matt Alington [Excelerator BI](https://www.youtube.com/channel/UCJIC_Bi1VNsf2QTLOlcTrzA)
 * Matthew Roche [BI Polar](https://www.youtube.com/channel/UCpsilPn-2qFlrYYuvyFkpPQ)
 * Microsoft [Microsoft Power BI](https://www.youtube.com/user/mspowerbi)
@@ -153,6 +154,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Power BI Desktop Feature Summary
 
 ### 2023 
+* [Power BI Desktop March 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/)
 * [Power BI Desktop February 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/)
 
 ### 2022

@@ -126,6 +126,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Mara Pereira [Data Pears](https://www.datapears.com/blog/categories/power-bi-service) - Power BI tips and tricks
 * Marco Russo and Alberto Ferrari [SQLBI](https://www.sqlbi.com/articles/?author=&tag_id=401)
 * Mark Walter [Story BI](https://storybi.com/)
+* Marthe Moengen [Data Ascend](https://data-ascend.com/power-bi/) - data-ascend.com
 * Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
 * Reza Rad [RADACAD](http://www.radacad.com/blog)

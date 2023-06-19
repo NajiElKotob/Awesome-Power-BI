@@ -5,7 +5,7 @@
 * [Lebanese Customs](https://bit.ly/LebaneseCustomsReport) 📦
 * [Fuel Prices in Lebanon](http://bit.ly/fuelprices-lebanon) ⛽
 * [Registered Voters (Lebanon)](http://bit.ly/registeredvoters-lebanon) 💔🤍💚
-* [Civil Status](http://bit.ly/civilstatus-lebanon) 💔💓
+* [Civil Status]([http://bit.ly/civilstatus-lebanon](https://app.powerbi.com/view?r=eyJrIjoiZDFlZTBhOWQtMGY4MC00M2YzLTlkODktNWViY2FlMDdkZDcyIiwidCI6Ijc3ZTkyYWY0LTQwYjEtNGVjMy1iODE3LTI3NDE4NWQ4OWQyYiIsImMiOjl9)) 💔💓
 * [Central Inspection (Lebanon) - COVID-19 Vaccines](http://bit.ly/ci-covid19-vaccines) 
 * [2019 Novel Coronavirus](http://bit.ly/2019-nCoV-ME) - Middle East and Global Cases
   * [2019 Novel Coronavirus Dataset (Kaggle)](https://www.kaggle.com/devready/2019-novel-coronavirus-2019ncov)

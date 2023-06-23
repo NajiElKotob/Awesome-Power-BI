@@ -271,16 +271,19 @@ The Data Analyst should have a fundamental understanding of data repositories an
 * [Power BI Quiz with Matthew Roche](https://www.youtube.com/watch?v=L_nqoEB9Sfo) - July 2020
 * [Power BI Quiz with Rishi Sapra](https://www.youtube.com/watch?v=QIFGOzAe8Zo) - July 2020
 * [Power BI Quiz with Will Thompson](https://www.youtube.com/watch?v=GHpm9EHVK4k) - June 2020
+* [Power BI Quiz with Reid Havens](https://www.youtube.com/live/M_c0QwmWvXM?feature=share) - June 2020
 * [Power BI Quiz with Adam Saxton](https://www.youtube.com/watch?v=KGWnrhILY7c) - May 2020
 * [Power BI Quiz with Marco Russo](https://www.youtube.com/watch?v=skkA3CFUxDE) - May 2020
-* 
+* [Power BI Quiz with Chris Webb](https://www.youtube.com/live/8vzlzFkMA4s?feature=share) - May 2020
+
+
 
 
 ## Microsoft Learn
-* [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/?ref=najielkotob)
-* [Prepare data for analysis](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/?ref=najielkotob)
-* [Model data in Power BI](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/?ref=najielkotob)
-* [Visualize data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/?ref=najielkotob)
-* [Data analysis in Power BI](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/?ref=najielkotob)
-* [Manage workspaces and datasets in Power BI](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/?ref=najielkotob)
-* [Empower modern analytics and business intelligence data cultures with Excel, Power BI, MS Teams, and SharePoint](https://docs.microsoft.com/en-us/learn/paths/modern-analytics/)
+1. [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/?ref=najielkotob)
+1. [Prepare data for analysis](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/?ref=najielkotob)
+1. [Model data in Power BI](https://docs.microsoft.com/en-us/learn/paths/model-power-bi/?ref=najielkotob)
+1. [Visualize data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/?ref=najielkotob)
+1. [Data analysis in Power BI](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/?ref=najielkotob)
+1. [Manage workspaces and datasets in Power BI](https://docs.microsoft.com/en-us/learn/paths/manage-workspaces-datasets-power-bi/?ref=najielkotob)
+1. [Empower modern analytics and business intelligence data cultures with Excel, Power BI, MS Teams, and SharePoint](https://docs.microsoft.com/en-us/learn/paths/modern-analytics/)

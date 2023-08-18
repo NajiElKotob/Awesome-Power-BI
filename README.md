@@ -511,6 +511,8 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 * [Themes Gallery](http://bit.ly/PowerBI-ThemeGallery)
 * [Turning a Corporate Color Palette into a Data Visualization Color Palette](https://www.sqlservercentral.com/blogs/turning-a-corporate-color-palette-into-a-data-visualization-color-palette)
+* [Power BI Theme Templates](https://github.com/MattRudy/PowerBI-ThemeTemplates) - Matt Rudy
+  
 -----
 ## Competitive Analysis
 * [Power BI vs Tableau vs Qlik (Google Trends)](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02s9k80,Qlik%2BQlikView%2BQlikSense,Power%20BI)

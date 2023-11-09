@@ -129,6 +129,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Marthe Moengen [Data Ascend](https://data-ascend.com/power-bi/) - data-ascend.com
 * Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
+* [Numerro | Power BI blog](https://www.numerro.io/blog) - numerro.io
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
 * Prathy Kamasani [Prathy's blog](https://prathy.com/category/power-bi/)
 * [SQL Server Power BI Tips](https://www.mssqltips.com/sql-server-tip-category/211/power-bi/)
@@ -155,6 +156,11 @@ It is so easy to start with Power BI, but hard to master it.
 ## Power BI Desktop Feature Summary
 
 ### 2023 
+* [Power BI Desktop October 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-october-2023-feature-summary/)
+* [Power BI Desktop September 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2023-feature-summary/)
+* [Power BI Desktop August 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-august-2023-feature-summary/)
+* [Power BI Desktop July 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-july-2023-feature-summary/)
+* [Power BI Desktop June 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-june-2023-feature-summary/)
 * [Power BI Desktop May 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-may-2023-feature-summary/)
 * [Power BI Desktop April 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/)
 * [Power BI Desktop March 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-march-2023-feature-summary/)

@@ -156,6 +156,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Power BI Desktop Feature Summary
 
 ### 2023 
+* [Power BI Desktop December 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-december-2023-feature-summary/) [📺](https://www.youtube.com/watch?v=PycL2_T0DxM)
 * [Power BI Desktop November 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-november-2023-feature-summary/)
 * [Power BI Desktop October 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-october-2023-feature-summary/)
 * [Power BI Desktop September 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-september-2023-feature-summary/)

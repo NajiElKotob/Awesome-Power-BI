@@ -71,7 +71,7 @@ As a candidate for this exam, you should have advanced Power BI skills, includin
 - Explore and visualize data using the Azure Synapse SQL results pane.
 
 ### Visualize Data using Power BI
-- Create and import a custom report theme.
+- [Create and import a custom report theme.](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes)
 - Create R or Python visuals in Power BI.
 - Connect to and query datasets using the XMLA endpoint.
 - Design and configure Power BI reports for accessibility.

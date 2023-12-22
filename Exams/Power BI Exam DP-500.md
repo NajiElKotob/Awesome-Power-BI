@@ -26,6 +26,7 @@ As a candidate for this exam, you should have advanced Power BI skills, includin
 - Perform impact analysis of downstream dependencies from dataflows and datasets.
 - Recommend automation solutions for the analytics development lifecycle, including Power BI REST API and PowerShell cmdlets.
 - Deploy and manage datasets by using the XMLA endpoint.
+  - [Power BI XMLA Endpoint: Why you should care](https://www.youtube.com/watch?v=YEIKzeNCqGg) - Guy in a Cube
 - Create reusable assets, including Power BI template (.pbit) files, Power BI data source (.pbids) files, and shared datasets.
 
 ## Query and Transform Data (20–25%)

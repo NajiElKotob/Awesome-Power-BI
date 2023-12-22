@@ -78,3 +78,6 @@ As a candidate for this exam, you should have advanced Power BI skills, includin
 - Enable personalized visuals in a report.
 - [Configure automatic page refresh.](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-automatic-page-refresh)
 - Create and distribute paginated reports in Power BI Report Builder.
+
+## Extra Knowledge
+* [Introduction to datamarts](https://learn.microsoft.com/en-us/power-bi/transform-model/datamarts/datamarts-overview)

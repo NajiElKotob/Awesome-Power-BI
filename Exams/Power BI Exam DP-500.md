@@ -76,5 +76,5 @@ As a candidate for this exam, you should have advanced Power BI skills, includin
 - Connect to and query datasets using the XMLA endpoint.
 - Design and configure Power BI reports for accessibility.
 - Enable personalized visuals in a report.
-- Configure automatic page refresh.
+- [Configure automatic page refresh.](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-automatic-page-refresh)
 - Create and distribute paginated reports in Power BI Report Builder.

@@ -47,7 +47,7 @@ As a candidate for this exam, you should have advanced Power BI skills, includin
 ## Implement and Manage Data Models (25–30%)
 
 ### Design and Build Tabular Models
-- Choose when to use DirectQuery for Power BI datasets.
+- [Choose when to use DirectQuery for Power BI datasets.](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-use-directquery)
 - Choose when to use external tools, including DAX Studio and Tabular Editor 2.
 - Create calculation groups.
 - Write calculations using DAX variables and functions.

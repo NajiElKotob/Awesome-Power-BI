@@ -73,7 +73,9 @@ As a candidate for this exam, you should have advanced Power BI skills, includin
 
 ### Visualize Data using Power BI
 - [Create and import a custom report theme.](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes)
-- [Create R or Python visuals in Power BI.](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-visuals)
+- Create R or Python visuals in Power BI.
+  - [Create Power BI visuals with Python](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-visuals)
+  - [Create Power BI visuals using R](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-r-visuals)
 - Connect to and query datasets using the XMLA endpoint.
 - Design and configure Power BI reports for accessibility.
 - Enable personalized visuals in a report.

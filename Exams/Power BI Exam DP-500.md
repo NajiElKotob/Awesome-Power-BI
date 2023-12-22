@@ -51,6 +51,7 @@ As a candidate for this exam, you should have advanced Power BI skills, includin
 - Choose when to use external tools, including [DAX Studio](https://daxstudio.org/docs/intro/) and [Tabular Editor 2](https://www.sqlbi.com/tools/tabular-editor/).
 - [Create calculation groups.](https://learn.microsoft.com/en-us/analysis-services/tabular-models/calculation-groups?view=asallproducts-allversions)
 - Write calculations using DAX variables and functions.
+  - [Use variables to improve your DAX formulas](https://learn.microsoft.com/en-us/dax/best-practices/dax-variables) 
 - Design and build a large format dataset.
 - Design and build composite models, including aggregations.
 - Design and implement enterprise-scale row-level security and object-level security.

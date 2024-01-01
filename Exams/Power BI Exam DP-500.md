@@ -88,3 +88,6 @@ As a candidate for this exam, you should have advanced Power BI skills, includin
 
 ## Extra Knowledge
 * [Introduction to datamarts](https://learn.microsoft.com/en-us/power-bi/transform-model/datamarts/datamarts-overview)
+
+## Microsoft Learn
+* [Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI](https://learn.microsoft.com/en-us/training/courses/dp-500t00)

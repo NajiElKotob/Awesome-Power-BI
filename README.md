@@ -408,6 +408,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [Data Analysis Expressions (DAX) Reference](https://docs.microsoft.com/en-us/dax/data-analysis-expressions-dax-reference)
 * SQLBI ⭐
     * [DAX Guide](https://dax.guide/) - Marco Russo and Alberto Ferrari
+    * [How to Learn DAX](https://www.sqlbi.com/guides/dax/) - Whether you are starting from scratch or have already learned the basics of DAX, this guide will show you all the steps to follow in order to master the Power BI and Analysis Services query language.
     * [DAX.do](https://dax.do/) - Write your DAX queries, try them and share them easily with DAX.do
     * [Introducing DAX Course](https://www.sqlbi.com/p/introducing-dax-video-course/) :star:
     * [DAX 101 :tv: ~2 hours](https://www.youtube.com/watch?v=klQAZLr5vxA) - Alberto Ferrari

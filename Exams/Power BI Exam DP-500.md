@@ -14,6 +14,7 @@ As a candidate for this exam, you should have advanced Power BI skills, includin
 ### Integrate an Analytics Platform into Existing IT Infrastructure
 - Identify requirements for a solution, including features, performance, and licensing strategy.
 - Configure and manage Power BI capacity.
+  - [Large semantic models in Power BI Premium](https://learn.microsoft.com/en-us/power-bi/enterprise/service-premium-large-models) 
 - Recommend and configure an on-premises gateway type for Power BI.
 - Recommend and configure a Power BI tenant or workspace to integrate with Azure Data Lake Storage Gen2.
 - Integrate an existing Power BI workspace into Azure Synapse Analytics.

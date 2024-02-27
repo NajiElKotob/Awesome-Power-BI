@@ -157,6 +157,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Power BI Desktop Feature Summary
 
 ### 2023 
+* [Power BI Desktop February 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/) [📺](https://www.youtube.com/watch?v=7-0Pr0U2HIA)
 * [Power BI Desktop December 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-december-2023-feature-summary/) [📺](https://www.youtube.com/watch?v=PycL2_T0DxM)
 * [Power BI Desktop November 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-november-2023-feature-summary/)
 * [Power BI Desktop October 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-october-2023-feature-summary/)
@@ -567,5 +568,3 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Power BI is Hiring](https://dxt.powerbi.com/view?r=eyJrIjoiOWNlOGZiZjMtNTVlYy00ZWVmLThkNDgtYzUzZTAxODE5OWM1IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjJ9) - Microsoft
 
 <br/>[:top:](#table-of-contents)
-
-> Suggest more Power BI Resources https://github.com/NajiElKotob/Awesome-Power-BI/issues

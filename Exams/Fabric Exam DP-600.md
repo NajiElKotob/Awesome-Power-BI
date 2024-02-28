@@ -13,6 +13,7 @@
 #### Plan a data analytics environment
 ##### Identify requirements for a solution, including components, features, performance, and capacity stock-keeping units (SKUs)
 * [Microsoft Fabric Capacity Licenses: Your Guide for Growth and Success](https://www.ais.com/microsoft-fabric-capacity-licenses-your-guide-for-growth-and-success/) - ais.com
+* [Microsoft Fabric concepts and licenses](https://learn.microsoft.com/en-us/fabric/enterprise/licenses) - learn.microsoft.com
 
 #### Implement and manage a data analytics environment
 #### Manage the analytics development lifecycle

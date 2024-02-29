@@ -6,6 +6,7 @@
 * [New Fabric certification and Fabric Career Hub](https://powerbi.microsoft.com/en-us/blog/new-fabric-certification-and-fabric-career-hub/)
   - [Get Your DP-600 the Smart Way: Microsoft Fabric Career Hub 📺](https://www.youtube.com/watch?v=U3aqC7VQTSw) - Guy in a Cube
 * [Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/)
+* [Kevin Chant](https://www.kevinrchant.com/?s=dp-600) - A blog about Microsoft Data Platform offerings
 
   
 ## DP-600: Implementing Analytics Solutions Using Microsoft Fabric

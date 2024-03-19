@@ -16,6 +16,10 @@
 * [Microsoft Fabric Capacity Licenses: Your Guide for Growth and Success](https://www.ais.com/microsoft-fabric-capacity-licenses-your-guide-for-growth-and-success/) - ais.com
 * [Microsoft Fabric concepts and licenses](https://learn.microsoft.com/en-us/fabric/enterprise/licenses) - learn.microsoft.com
 
+##### Recommend settings in the Fabric admin portal
+* [What is the admin portal?](https://learn.microsoft.com/en-us/fabric/admin/admin-center)
+* [How to Enable Fabric in Your Organization 📺 20min](https://www.youtube.com/watch?v=W5vrFHsGsIA) - Pragmatic Works
+
 #### Implement and manage a data analytics environment
 #### Manage the analytics development lifecycle
 

@@ -156,6 +156,10 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Power BI Desktop Feature Summary
 
+### 2024
+* [Microsoft Fabric March 2024 Update](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-march-2024-update/) [📺](https://www.youtube.com/watch?v=IAjEXHtjXc8)
+* [Microsoft Fabric February 2024 Update](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2024-feature-summary/) [📺](https://www.youtube.com/watch?v=D21bSYXAqTA)
+  
 ### 2023 
 * [Power BI Desktop February 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/) [📺](https://www.youtube.com/watch?v=7-0Pr0U2HIA)
 * [Power BI Desktop December 2023 Feature Summary](https://powerbi.microsoft.com/en-us/blog/power-bi-december-2023-feature-summary/) [📺](https://www.youtube.com/watch?v=PycL2_T0DxM)

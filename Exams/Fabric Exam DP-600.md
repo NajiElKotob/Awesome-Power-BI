@@ -20,12 +20,52 @@
 * [What is the admin portal?](https://learn.microsoft.com/en-us/fabric/admin/admin-center)
 * [How to Enable Fabric in Your Organization 📺 20min](https://www.youtube.com/watch?v=W5vrFHsGsIA) - Pragmatic Works
 
+##### Choose a data gateway type
+
+##### Create a custom Power BI report theme
+
 #### Implement and manage a data analytics environment
+##### Implement workspace and item-level access controls for Fabric items
+
+##### Implement data sharing for workspaces, warehouses, and lakehouses
+
+##### Manage sensitivity labels in semantic models and lakehouses
+
+##### Configure Fabric-enabled workspace settings
+
+##### Manage Fabric capacity
+
 #### Manage the analytics development lifecycle
 
+##### Implement version control for a workspace
+
+##### Create and manage a Power BI Desktop project (.pbip)
+
+##### Plan and implement deployment solutions
+
+##### Perform impact analysis of downstream dependencies from lakehouses, data warehouses, dataflows, and semantic models
+
+##### Deploy and manage semantic models by using the XMLA endpoint
+
+##### Create and update reusable assets, including Power BI template (.pbit) files, Power BI data source (.pbids) files, and shared semantic models
+
+-----
 
 ### Prepare and serve data (40–45%)
 
+
+----
+
+
 ### Implement and manage semantic models (20–25%)
 
+
+-----
+
+
 ### Explore and analyze data (20–25%)
+
+
+
+
+

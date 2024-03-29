@@ -67,14 +67,20 @@
 
 #### Copy data
 ##### Choose an appropriate method for copying data from a Fabric data source to a lakehouse or warehouse
+* [How to copy data using copy activity](https://learn.microsoft.com/en-us/fabric/data-factory/copy-data-activity)
+* [Ingest data into the Warehouse](https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data)
 
 ##### Copy data by using a data pipeline, dataflow, or notebook
 
 ##### Add stored procedures, notebooks, and dataflows to a data pipeline
+* [Preprocess data with a stored procedure before loading into Lakehouse](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-preprocess-data-with-stored-procedure-load-into-lakehouse)
 
 ##### Schedule data pipelines
+* [Concept: Data pipeline Runs](https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-runs)
+* [Run and schedule the data pipeline](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-dataflows-gen2-pipeline-activity#run-and-schedule-the-data-pipeline)
 
 ##### Schedule dataflows and notebooks
+
 
 #### Transform data
 ##### Implement a data cleansing process

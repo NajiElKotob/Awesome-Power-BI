@@ -47,7 +47,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Drivers](#drivers)
 * [Datasets](#datasets)
 * [Templates and Showcases](#templates-and-showcases)
-* [Styles and Themes](#styles-and-themes)
+* [Styles, Icons and Themes](#styles-icons-and-themes)
 * [Competitive Analysis](#competitive-analysis)
 * [Data - Job Descriptions](#job-descriptions)
 
@@ -530,11 +530,12 @@ Reporting is just the presentation of data , but story telling is more engaging.
     * [Campaign/Brand Management for Twitter (Video)](https://www.youtube.com/watch?v=c3POKgojksw)
     
 -----
-## Styles and Themes
+## Styles, Icons and Themes
 * [Power BI Style Library!](http://pbiux.azurewebsites.net)
 * [Themes Gallery](http://bit.ly/PowerBI-ThemeGallery)
 * [Turning a Corporate Color Palette into a Data Visualization Color Palette](https://www.sqlservercentral.com/blogs/turning-a-corporate-color-palette-into-a-data-visualization-color-palette)
 * [Power BI Theme Templates](https://github.com/MattRudy/PowerBI-ThemeTemplates) - Matt Rudy
+* [Power BI Icons](https://github.com/microsoft/PowerBI-Icons) - Microsoft | This repository contains PNG and SVG versions of icons for Power BI
   
 -----
 ## Competitive Analysis

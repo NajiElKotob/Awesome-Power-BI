@@ -158,7 +158,11 @@
 ##### Query a lakehouse in Fabric by using SQL queries or the visual query editor
 
 ##### Query a warehouse in Fabric by using SQL queries or the visual query editor
-
+* [Query using the visual query editor](https://learn.microsoft.com/en-us/fabric/data-warehouse/visual-query-editor)
+* [Query using the SQL query editor](https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-query-editor)
+* [View data in the Data preview in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-warehouse/data-preview)
+* [Delta Lake logs in Warehouse in Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/data-warehouse/query-delta-lake-logs)
+  
 ##### Connect to and query datasets by using the XMLA endpoint
 
 

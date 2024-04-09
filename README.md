@@ -72,6 +72,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Workout Wednesday](https://www.youtube.com/channel/UCFevI4baASFrdafsbqTnSWA/featured)
 
 ### Special Videos
+* [The Unified Data Platform for the Era Of AI | Microsoft Fabric Community Conference Day 1](https://www.youtube.com/watch?v=BYob0cGW0Nk) - Microsoft Fabric
 * [Chris Webb - Fabric Direct Lake Deep Dive ~53min](https://www.youtube.com/watch?v=HHoqP8jTFTA) - Ben Howard
 * [AI and ML with PowerBI - Crash Course](https://www.youtube.com/watch?v=Zuh-VwgP2Bk) - Data Science Dojo
 * [Charticulator: Now a Power BI Custom Visual! (with Daniel Marsh-Patrick)](https://www.youtube.com/watch?v=1tp6ZqWjFso) - Havens Consulting

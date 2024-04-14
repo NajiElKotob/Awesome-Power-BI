@@ -115,6 +115,8 @@
 ### Implement and manage semantic models (20–25%)
 #### Design and build semantic models
 ##### Choose a storage mode, including Direct Lake
+* [Semantic model modes in the Power BI service](https://learn.microsoft.com/en-us/power-bi/connect-data/service-dataset-modes-understand)
+* [Direct Lake vs. Import mode in Power BI](https://www.sqlbi.com/blog/marco/2024/04/06/direct-lake-vs-import-mode-in-power-bi/) - sqlbi.com
 
 ##### Identify use cases for DAX Studio and Tabular Editor 2
 * [External tools in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-external-tools)

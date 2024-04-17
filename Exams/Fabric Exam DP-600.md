@@ -22,6 +22,9 @@
 * [How to Enable Fabric in Your Organization 📺 20min](https://www.youtube.com/watch?v=W5vrFHsGsIA) - Pragmatic Works
 
 ##### Choose a data gateway type
+* [The Power BI Gateway; All You Need to Know](https://radacad.com/the-power-bi-gateway-all-you-need-to-know) - radacad.com
+* [Use a personal gateway in Power BI](https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-personal-mode)
+* [What is an on-premises data gateway?](https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem)
 
 ##### Create a custom Power BI report theme
 

@@ -344,6 +344,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Add live Power BI data to PowerPoint](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-install?tabs=share)
 * [Interactive data storytelling with Power BI in PowerPoint](https://insider.microsoft365.com/pl-pl/blog/interactive-data-storytelling-with-power-bi-in-powerpoint)
 * [View and present live Power BI data in PowerPoint](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-power-bi-powerpoint-add-in-view-present)
+* [Supporting continuous Slide Shows in Power BI Storytelling add-in](https://powerbi.microsoft.com/en-us/blog/supporting-continuous-slide-shows-in-power-bi-storytelling-add-in/)
   
 ## Storytelling
 Reporting is just the presentation of data , but story telling is more engaging. Effective data storytelling uses language and visualization to help the audience engage and connect with the larger meaning. 

@@ -28,6 +28,7 @@
 * [What is an on-premises data gateway?](https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem)
 
 ##### Create a custom Power BI report theme
+* [Use report themes in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-report-themes)
 
 #### Implement and manage a data analytics environment
 ##### Implement workspace and item-level access controls for Fabric items

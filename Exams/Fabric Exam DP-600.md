@@ -1,5 +1,7 @@
 # Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric [⤴](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/)
 
+{Awesome Works in Progress}
+
 ## Study Guides
 * [Awesome Microsoft Fabric: A Comprehensive Guide to Microsoft Fabric References](https://github.com/NajiElKotob/Awesome-Microsoft-Fabric)
 * [Study guide for Exam DP-600: Implementing Analytics Solutions Using Microsoft Fabric](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-600)
@@ -32,7 +34,9 @@
 
 #### Implement and manage a data analytics environment
 ##### Implement workspace and item-level access controls for Fabric items
-
+* [Control ACCESS to your Microsoft Fabric Lakehouse or Warehouse 📺](https://www.youtube.com/watch?v=MdmPjZAV9I8) - Guy in a Cube
+* [Microsoft Fabric: Workspace access, Item level access, SQL policy and object level security](https://shabnamwatson.com/2023/11/14/microsoft-fabric-workspace-access-item-level-access-sql-policy-and-object-level-security/) - Shabnam Watson's Blog
+  
 ##### Implement data sharing for workspaces, warehouses, and lakehouses
 
 ##### Manage sensitivity labels in semantic models and lakehouses

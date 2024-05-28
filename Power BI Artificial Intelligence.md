@@ -58,6 +58,8 @@ It is crucial for data analysts to explore and visualize data to help their stak
 * [Creating Machine Learning models in Power BI](https://powerbi.microsoft.com/en-us/blog/creating-machine-learning-models-in-power-bi/)
 * [Types of insights supported by Power BI](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insight-types)
 * [View data insights on dashboard tiles with Power BI](https://docs.microsoft.com/en-us/power-bi/consumer/end-user-insights)
+* [Artificial Intelligence sample for Power BI: Take a tour](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-artificial-intelligence)
+
 ### Videos
 * [AI in Power BI :tv:](https://mybuild.techcommunity.microsoft.com/sessions/77088?source=sessions&ref=najielkotob) - AI can help everyone in an organization automatically find patterns in their data, understand what the data means, and predict future outcomes to help business drive results.
 * [Microsoft Power BI: AI powered analytics](https://www.youtube.com/watch?v=crqZyv1wtV4) - Come learn how to use AI in Microsoft Power BI to solve your business problems. 

@@ -154,11 +154,15 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI webinars](https://docs.microsoft.com/en-us/power-bi/fundamentals/webinars)
 * [Virtual workshops and training](https://www.microsoft.com/en-us/store/workshops-training-and-events/#keyword=Power%20BI) - Our interactive virtual workshops and training sessions are taught live by Microsoft associates.
 * [Power BI Events Catalog](https://events.microsoft.com/?timeperiod=next90Days&product=Power%20BI&isSharedInLocalViewMode=false&_lrsc=b985f9fa-d2c7-49da-ad9f-9748f4b6540c&startTime=&endTime=&category=Online) - events.microsoft.com
+* [Power BI implementation planning](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction) ⭐
 
 -----
 ## Power BI Desktop Feature Summary
 
 ### 2024
+* [Microsoft Fabric June 2024 Update](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-june-2024-update/) [📺](https://www.youtube.com/watch?v=sdnPeFR6jmQ)
+* [Microsoft Fabric May 2024 Update](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-may-2024-update/) [📺](https://www.youtube.com/watch?v=4cRuyGRNCVM)
+* [Microsoft Fabric April 2024 Update](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-april-2024-update/) [📺](https://www.youtube.com/watch?v=EevRP3sqpJo)
 * [Microsoft Fabric March 2024 Update](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-march-2024-update/) [📺](https://www.youtube.com/watch?v=IAjEXHtjXc8)
 * [Microsoft Fabric February 2024 Update](https://powerbi.microsoft.com/en-us/blog/power-bi-february-2024-feature-summary/) [📺](https://www.youtube.com/watch?v=D21bSYXAqTA)
   

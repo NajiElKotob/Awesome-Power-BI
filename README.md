@@ -146,6 +146,7 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Learning
 * [Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning) - Microsoft Docs
+* [Power BI Courses](https://powerbi.microsoft.com/en-us/instructor-led-training/) - Power BI instructor-led training
 * [Power BI Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?products=power-bi) - Learn new skills with step-by-step guidance :star:
 * [Power BI Paginated Reports in a Day](https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-online-course) 
 * [Data Visualization with Power BI](https://www.datacamp.com/community/tutorials/data-visualisation-powerbi) - DataCamp

@@ -2,6 +2,7 @@
 
 * [Lebanon Citizen Budget](http://www.institutdesfinances.gov.lb/data/lebanon-citizen-budget/) - About LCB
   * [Lebanon Citizen Budget](https://app.powerbi.com/view?r=eyJrIjoiYjZhYmIwODYtN2NhNy00Njc5LWIxZGItZjg2Y2YwYWU4ODlhIiwidCI6IjYwMDc3ZDE0LTliYzAtNGE0My1hNWE5LTQ1N2E5ZTcxMGQ2YSIsImMiOjl9) :fire: - Report ver. 2.x
+* [Real Estate Investment Analysis](https://bit.ly/ltd-pbi-real-estate-investment-analysis-2024) - Concept Inspired by [Stake](https://app.getstake.com/rewards?c=NAJI12&n=Naji)
 * [Lebanese Customs](https://bit.ly/LebaneseCustomsReport) 📦
 * [Fuel Prices in Lebanon](http://bit.ly/fuelprices-lebanon) ⛽
 * [Registered Voters (Lebanon)](http://bit.ly/registeredvoters-lebanon) 💔🤍💚

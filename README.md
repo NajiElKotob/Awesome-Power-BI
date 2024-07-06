@@ -269,6 +269,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Palettes and Theme Generator tool](https://gallery.powerbi.tips/) - powerbi.tips
 * [Tabular Editor](https://github.com/TabularEditor/tabulareditor.github.io) - Tabular Editor provides an intuitive hierarchical view of every object in your Tabular Model metadata. 
     * [Tabular Editor Rocks!](https://powerbi.tips/2020/04/tabular-editor-rocks/) - Mike Carlo
+* [Displagent](https://www.displagent.io) - First-class Power BI digital signage that's simple, customizable, and fire-and-forget.
     
 -----
 ## Books

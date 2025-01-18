@@ -64,6 +64,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Matt Alington [Excelerator BI](https://www.youtube.com/channel/UCJIC_Bi1VNsf2QTLOlcTrzA)
 * Matthew Roche [BI Polar](https://www.youtube.com/channel/UCpsilPn-2qFlrYYuvyFkpPQ)
 * Microsoft [Microsoft Power BI](https://www.youtube.com/user/mspowerbi)
+* Mike Carlo & Seth Bauer [PowerBI.Tips](https://www.youtube.com/@PowerBITips)
 * Reza Rad and Leila Etaati [RADACAD](https://www.youtube.com/channel/UCsOfIwAXj1fT6LDqEDEAb4g)
 * Rob Lau [Power BI Bro](https://www.youtube.com/@PowerBIBro)
 * Ruth Pozuelo Martinez [Curbal](https://lnkd.in/dAfAQik)

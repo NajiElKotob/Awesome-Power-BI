@@ -136,6 +136,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Marthe Moengen [Data Ascend](https://data-ascend.com/power-bi/) - data-ascend.com
 * Matthew Roche [BI Polar](https://ssbipolar.com/category/power-bi/)
 * Mike Carlo & Seth Bauer [PowerBI Tips!](http://www.powerbi.tips)
+* [Mimoune Djouallah (DataMonkeySite)](https://datamonkeysite.com/) - Small Data And self service | PowerBI & Fabric and Data in General
 * [Numerro | Power BI blog](https://www.numerro.io/blog) - numerro.io
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
 * Prathy Kamasani [Prathy's blog](https://prathy.com/category/power-bi/)

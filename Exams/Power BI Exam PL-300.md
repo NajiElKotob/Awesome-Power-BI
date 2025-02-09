@@ -262,6 +262,9 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 -----
 
+## YouTube 📺
+* [PL-300 Certification Exam Tutoring (Pragmatic Works)](https://www.youtube.com/playlist?list=PLcwrIWK7WBcSCcdFkFBftOjqli_yi9Zti)
+
 ## Kahoot
 * [Power BI Quiz with Chris Finlan](https://www.youtube.com/watch?v=SaUspKbXn6M) - March 2021
 * [Power BI Quiz with Lukasz Pawlowski](https://www.youtube.com/watch?v=PabsIDxMhWE) - February 2021

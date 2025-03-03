@@ -548,6 +548,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Turning a Corporate Color Palette into a Data Visualization Color Palette](https://www.sqlservercentral.com/blogs/turning-a-corporate-color-palette-into-a-data-visualization-color-palette)
 * [Power BI Theme Templates](https://github.com/MattRudy/PowerBI-ThemeTemplates) - Matt Rudy
 * [Power BI Icons](https://github.com/microsoft/PowerBI-Icons) - Microsoft | This repository contains PNG and SVG versions of icons for Power BI
+* [Power BI Theme Generator](https://powerbithemegenerator.bibb.pro/) - powerbithemegenerator.bibb.pro
   
 -----
 ## Competitive Analysis

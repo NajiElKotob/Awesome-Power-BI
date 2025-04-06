@@ -139,6 +139,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Mimoune Djouallah (DataMonkeySite)](https://datamonkeysite.com/) - Small Data And self service | PowerBI & Fabric and Data in General
 * [Numerro | Power BI blog](https://www.numerro.io/blog) - numerro.io
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
+* [Power BI Community Blog](https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/bg-p/community_blog) - fabric.microsoft.com
 * Prathy Kamasani [Prathy's blog](https://prathy.com/category/power-bi/)
 * [SQL Server Power BI Tips](https://www.mssqltips.com/sql-server-tip-category/211/power-bi/)
 

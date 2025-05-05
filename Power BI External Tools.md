@@ -2,6 +2,11 @@
 
 ## Articles
 * [Announcing public preview of external tools in Power BI Desktop](https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-external-tools-in-power-bi-desktop/) - (Christian Wade, July 2020)
+* [How to Register External Tools](https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-external-tools)
+* [Tabular Editor Documentation & Best Practices Analyzer](https://docs.tabulareditor.com/) - tabulareditor.com
+* [Power BI Tips – External Tool Generator](https://powerbi.tips/tools/) - powerbi.tips
+* [Analyze in Excel for Power BI Desktop – SQLBI](https://www.sqlbi.com/tools/analyze-in-excel-for-power-bi-desktop/) - sqlbi.com
+
 
 ## External Tools
 * [Analyze in Excel for Power BI Desktop](https://www.sqlbi.com/tools/analyze-in-excel-for-power-bi-desktop/) - SQLBI

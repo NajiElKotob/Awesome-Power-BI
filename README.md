@@ -128,6 +128,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [DataZoe Power BI (Zoe Douglas)](https://www.datazoepowerbi.com/) - datazoepowerbi.com
 * Dave Ruijter [Modern Data and AI](https://www.moderndata.ai/category/powerbi/)
 * David Eldersveld [DataVeld](https://dataveld.com/category/tutorial)
+* [Hat Full of Data](https://hatfullofdata.blog/category/power-bi/) - hatfullofdata.blog | Laura GB's notes on how she made data behave
 * [Kasper On BI](https://www.kasperonbi.com/) - All about Power BI, Modelling, DAX and Microsoft BI
 * Imke Feldmann [The BIccountant](https://www.thebiccountant.com/category/power-bi/)
 * Mara Pereira [Data Pears](https://www.datapears.com/blog/categories/power-bi-service) - Power BI tips and tricks

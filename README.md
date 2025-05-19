@@ -334,7 +334,7 @@ It is so easy to start with Power BI, but hard to master it.
 -----
 ## Visuals
 * [Unlocking the Potential of Power BI's Built-In Visuals 📊📈](https://www.linkedin.com/pulse/unlocking-potential-power-bis-built-in-visuals-naji-el-kotob-sdi7f/) - Naji El Kotob
-* [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - Marketplace visuals (384 Viz in January 2022)
+* [Power BI Visuals](https://appsource.microsoft.com/en-us/marketplace/apps?product=power-bi-visuals) - appsource.microsoft.com | Marketplace visuals (746 Viz in May 2025)
     * [Power BI Visuals by Microsoft](https://appsource.microsoft.com/en-us/marketplace/apps?page=1&product=power-bi-visuals&src=office&search=Microsoft%20Corporation)
 * [Power BI Custom Visuals (Resources and References)](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Custom%20Visuals.md) - Naji El Kotob
 * Visual Vocabulary

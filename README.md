@@ -562,6 +562,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
 * [Microsoft Power BI vs Google Chart](https://comparisons.financesonline.com/microsoft-power-bi-vs-google-chart-tools) - financesonline.com
 * Gartner Magic Quadrant for Analytics and BI Platforms
+    * [Microsoft named a Leader in the 2025 Gartner Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-analytics-and-bi-platforms/) - Kim Manis (June 2025)
     * [Microsoft named a Leader in Gartner’s 2021 Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2021-gartner-magic-quadrant-for-analytics-and-bi-platforms/) - Gartner (Feburary 2021)
     * [Microsoft named a Leader in Gartner’s 2020 Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartners-2020-magic-quadrant-for-analytics-and-bi-platforms/) - Gartner (Feburary 2020)
 * Kibana vs Power BI

@@ -62,6 +62,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Chandeep [Goodly](https://www.youtube.com/@GoodlyChandeep)
 * Fernan [SolutionsAbroad](https://www.youtube.com/@SolutionsAbroad)
 * Injae Park [Power BI Park](https://www.youtube.com/@PowerBIPark)
+* Jasmin Simader [Power BI Vibes](https://www.youtube.com/@BIVibes-JasminSimader)
 * Matt Alington [Excelerator BI](https://www.youtube.com/channel/UCJIC_Bi1VNsf2QTLOlcTrzA)
 * Matthew Roche [BI Polar](https://www.youtube.com/channel/UCpsilPn-2qFlrYYuvyFkpPQ)
 * Microsoft [Microsoft Power BI](https://www.youtube.com/user/mspowerbi)

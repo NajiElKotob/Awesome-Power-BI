@@ -173,6 +173,9 @@ It is so easy to start with Power BI, but hard to master it.
 * [Core Visuals Vision Board (Power BI Dashboard)](https://msit.powerbi.com/view?r=eyJrIjoiYmQ5ODYzYmQtOWU5MS00M2VmLWE5MmMtNjE3YzY2ZjRjZTY2IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
 * [Core Visuals Vision Board - What's next for Power BI 📺 ~8min](https://www.youtube.com/watch?v=JVjqlOzNjB4) - Power BI Park
 
+### 2025
+* [Power BI November 2025 Feature Summary](https://powerbi.microsoft.com/en-cy/blog/power-bi-november-2025-feature-summary/) [📺](https://www.youtube.com/watch?v=pRFeQWzUhn0)
+
 ### 2024
 * [Microsoft Fabric June 2024 Update](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-june-2024-update/) [📺](https://www.youtube.com/watch?v=sdnPeFR6jmQ)
 * [Microsoft Fabric May 2024 Update](https://blog.fabric.microsoft.com/en-us/blog/microsoft-fabric-may-2024-update/) [📺](https://www.youtube.com/watch?v=4cRuyGRNCVM)

@@ -295,6 +295,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Introducing Microsoft Power BI](https://amzn.to/2rhiwYF) - Marco Russo and Alberto Ferrari, Kindle Edition, FREE
 * [The Definitive Guide to DAX](https://amzn.to/2E7kaE5) - BI with Microsoft Excel, SQL Server Analysis Services, and Power BI
 * [Microsoft Power BI Exam Ref 70-778](https://amzn.to/2UIB1Tz) - Daniil Maslyuk
+* [DAX Reimagined](https://www.manning.com/books/dax-reimagined) - Frank Banin
 
 > [Featured Power BI Books!](http://bit.ly/FeaturedPowerBIBooks)
 

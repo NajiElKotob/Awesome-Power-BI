@@ -58,6 +58,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Adam Saxton and Patrick Leblanc [Guy in a Cube](https://lnkd.in/dcPxt3k)
 * Alex Dupler & Alex Powers [Two Alex](https://www.youtube.com/channel/UCOZRKgwJMnfnipCEy9CxCjg)
 * Avi Singh [PowerBIPro](https://lnkd.in/dffuDBa)
+* Baraa [Data with Baraa](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZge4KDGqGtqgiuVuhVZWzu)
 * Bas Dohmen [How to Power BI](https://www.youtube.com/channel/UCcfngi7_ASuo5jdWX0bNauQ)
 * Chandeep [Goodly](https://www.youtube.com/@GoodlyChandeep)
 * Fernan [SolutionsAbroad](https://www.youtube.com/@SolutionsAbroad)

@@ -573,9 +573,10 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Microsoft Power BI vs Qlik vs Tableau 2018](https://chanmingman.wordpress.com/2018/02/28/microsoft-power-bi-vs-qlik-vs-tableau-2018)
 * [Microsoft Power BI vs Google Chart](https://comparisons.financesonline.com/microsoft-power-bi-vs-google-chart-tools) - financesonline.com
 * Gartner Magic Quadrant for Analytics and BI Platforms
-    * [Microsoft named a Leader in the 2025 Gartner Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-analytics-and-bi-platforms/) - Kim Manis (June 2025)
-    * [Microsoft named a Leader in Gartner’s 2021 Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2021-gartner-magic-quadrant-for-analytics-and-bi-platforms/) - Gartner (Feburary 2021)
-    * [Microsoft named a Leader in Gartner’s 2020 Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartners-2020-magic-quadrant-for-analytics-and-bi-platforms/) - Gartner (Feburary 2020)
+  - [Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Analytics and Business Intelligence Platforms](https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-named-a-Leader-in-the-2026-Gartner-Magic-Quadrant-for/ba-p/5262403) - Gartner (May 2026)
+  - [Microsoft named a Leader in the 2025 Gartner Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-analytics-and-bi-platforms/) - Kim Manis (June 2025)
+  - [Microsoft named a Leader in Gartner’s 2021 Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-2021-gartner-magic-quadrant-for-analytics-and-bi-platforms/) - Gartner (Feburary 2021)
+  - [Microsoft named a Leader in Gartner’s 2020 Magic Quadrant for Analytics and BI Platforms](https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-gartners-2020-magic-quadrant-for-analytics-and-bi-platforms/) - Gartner (Feburary 2020)
 * Kibana vs Power BI
   * [Kibana Vs Microsoft Power BI Comparison 2020](https://comparecamp.com/kibana-vs-microsoft-power-bi-comparison) - comparecamp.com
   * [Kibana vs Microsoft Power BI](https://www.trustradius.com/compare-products/kibana-vs-microsoft-power-bi) - trustradius.com

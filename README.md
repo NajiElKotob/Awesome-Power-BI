@@ -37,7 +37,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [M](#m)
 * [Special Features and Advanced Topics](#special-features-and-advanced-topics)
     * [Q&A](#qa)
-    * [Dataflows](#dataflows)
+    * [Dataflows](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Dataflows.md)
     * [Aggregation](#aggregation)
     * [Machine Learning](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Artificial%20Intelligence.md)
     * [Advanced Topics](#advanced-topics)
@@ -243,7 +243,7 @@ It is so easy to start with Power BI, but hard to master it.
 
 -----
 ## Power BI Samples
-* [Power BI Features Summary Samples](https://github.com/Microsoft/powerbi-desktop-samples/tree/master/2018)
+* [Power BI Features Summary Samples](https://github.com/microsoft/powerbi-desktop-samples/tree/main/Monthly%20Desktop%20Blog%20Samples)
 * [Power BI Dataset/Desktop Samples](https://docs.microsoft.com/en-us/power-bi/sample-datasets)
 * [Themeable Backgrounds for Power BI](https://alluringbi.com/2020/05/05/themeable-backgrounds-for-power-bi/) - Chris Hamill (May 2020)
 
@@ -271,7 +271,7 @@ It is so easy to start with Power BI, but hard to master it.
 ## Power BI Family and Tools
 ### Power BI Family
 * [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
-* [Power BI Service](https://powerbi.microsoft.com/en-us/get-started/) > Try Free
+* [Power BI Service](https://powerbi.microsoft.com/en-us/getting-started-with-power-bi/) > Try Free
 * [Power BI Mobile](https://powerbi.microsoft.com/en-us/mobile/)
 * [Power BI Report Builder](https://powerbi.microsoft.com/en-us/blog/tag/power-bi-report-builder/)
 * [Power BI Report Server](https://powerbi.microsoft.com/en-us/report-server/)
@@ -281,12 +281,12 @@ It is so easy to start with Power BI, but hard to master it.
 * [DAX Studio](https://www.sqlbi.com/tools/dax-studio/) - DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Designer, Power Pivot for Excel, and Analysis Services Tabular.
 * [VertiPaq Analyzer](https://www.sqlbi.com/tools/vertipaq-analyzer/) - A useful tool to analyze VertiPaq storage structures for a data model in Analysis Services Tabular.
 * [Power BI Helper](http://radacad.com/power-bi-helper) 
-* [Theme Generator](https://powerbi.tips/tools/color-theme-generator) - Color Theme Generator
+* [Theme Generator](https://themes.powerbi.tips/) - Color Theme Generator
 * [Power BI Data Connection file PBIDS](https://connections.powerbi.tips/)
 * [Coolors](https://coolors.co/) - The super fast color schemes generator.
 * [Online Image Color Picker](https://pinetools.com/image-color-picker) 
 * [Palettes and Theme Generator tool](https://gallery.powerbi.tips/) - powerbi.tips
-* [Tabular Editor](https://github.com/TabularEditor/tabulareditor.github.io) - Tabular Editor provides an intuitive hierarchical view of every object in your Tabular Model metadata. 
+* [Tabular Editor](https://github.com/TabularEditor/TabularEditor) - Tabular Editor provides an intuitive hierarchical view of every object in your Tabular Model metadata. 
     * [Tabular Editor Rocks!](https://powerbi.tips/2020/04/tabular-editor-rocks/) - Mike Carlo
     
 -----
@@ -350,7 +350,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Power BI Custom Visuals (Resources and References)](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Power%20BI%20Custom%20Visuals.md) - Naji El Kotob
 * Visual Vocabulary
     * [Visual Vocabulary - Website](http://ft-interactive.github.io/visual-vocabulary/)
-    * [Visual Vocabulary - Poster](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)
+    * [Visual Vocabulary - Poster](https://github.com/Financial-Times/chart-doctor/blob/main/visual-vocabulary/Visual-vocabulary-en.pdf)
     * [Data Viz Project](https://datavizproject.com/) - ferdio
     * [Datawrapper Academy](https://academy.datawrapper.de/) - academy.datawrapper.de
 * [Lisa Muth](https://lisacharlottemuth.com/) - lisacharlottemuth.com | I create, talk & write about data vis

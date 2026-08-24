@@ -167,8 +167,7 @@ It is so easy to start with Power BI, but hard to master it.
 * [Virtual workshops and training](https://www.microsoft.com/en-us/store/workshops-training-and-events/#keyword=Power%20BI) - Our interactive virtual workshops and training sessions are taught live by Microsoft associates.
 * [Power BI Events Catalog](https://events.microsoft.com/?timeperiod=next90Days&product=Power%20BI&isSharedInLocalViewMode=false&_lrsc=b985f9fa-d2c7-49da-ad9f-9748f4b6540c&startTime=&endTime=&category=Online) - events.microsoft.com
 * [Power BI implementation planning](https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction) ⭐
-
------
+* [Kaggle](https://www.kaggle.com/) - Free datasets and micro-courses for practicing Power BI dashboards and data analysis
 ## Power BI Desktop Feature Summary
 
 ### Core Visuals Vision Board ⭐

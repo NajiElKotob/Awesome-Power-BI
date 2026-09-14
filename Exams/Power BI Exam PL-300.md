@@ -262,6 +262,11 @@ The Data Analyst should have a fundamental understanding of data repositories an
 
 -----
 
+## Practice
+* [Practice Assessment for Exam PL-300](https://learn.microsoft.com/credentials/certifications/data-analyst-associate/practice/assessment?assessment-type=practice&assessmentId=48) - Free official practice questions in the style of the real exam
+* [Exam sandbox](https://aka.ms/examdemo) - Try the exam interface and question types before exam day
+* [PL-300 practice tests by CertifyDeck](https://www.certifydeck.com/en/certifications/pl-300) - Original questions by domain with DAX and modeling explanations, timed mock exam; free to start (English and Spanish)
+
 ## YouTube 📺
 * [PL-300 Certification Exam Tutoring (Pragmatic Works)](https://www.youtube.com/playlist?list=PLcwrIWK7WBcSCcdFkFBftOjqli_yi9Zti)
 

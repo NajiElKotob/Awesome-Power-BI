@@ -564,6 +564,7 @@ Reporting is just the presentation of data , but story telling is more engaging.
 * [Power BI Theme Templates](https://github.com/MattRudy/PowerBI-ThemeTemplates) - Matt Rudy
 * [Power BI Icons](https://github.com/microsoft/PowerBI-Icons) - Microsoft | This repository contains PNG and SVG versions of icons for Power BI
 * [Power BI Theme Generator](https://powerbithemegenerator.bibb.pro/) - powerbithemegenerator.bibb.pro
+* [PageUtil Power BI Theme JSON Validator](https://pageutil.com/power-bi-theme-json-validator/) - Validate theme files against Microsoft schemas locally, inspect property errors, check colour contrast and compare supported Desktop versions.
   
 -----
 ## Competitive Analysis

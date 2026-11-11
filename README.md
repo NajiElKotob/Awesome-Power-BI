@@ -145,6 +145,7 @@ It is so easy to start with Power BI, but hard to master it.
 * Reza Rad [RADACAD](http://www.radacad.com/blog)
 * [Power BI Community Blog](https://community.fabric.microsoft.com/t5/Power-BI-Community-Blog/bg-p/community_blog) - fabric.microsoft.com
 * Prathy Kamasani [Prathy's blog](https://prathy.com/category/power-bi/)
+* Sai Neelakantam [GeekInData](https://www.geekindata.com/) - Short walkthroughs of Fabric, Direct Lake and Power BI architecture decisions
 * [SQL Server Power BI Tips](https://www.mssqltips.com/sql-server-tip-category/211/power-bi/)
 
 -----
